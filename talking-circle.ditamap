@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title><ph keyref="product"/>储能产品用户手册</title>
+ <topicref href="topics/%E5%89%8D%E8%A8%80.xml"></topicref>
+ <topicref href="topics/%E5%AE%89%E5%85%A8%E8%AF%B4%E6%98%8E.xml"></topicref>
+ <topicref href="topics/%E6%A6%82%E8%BF%B0.xml"></topicref>
+ <topicref href="topics/installation.dita">
+  <topicref keyref="windows_installation"/>
+  <topicref keyref="mac_installation"/>
+ </topicref>
+ <topicref href="topics/ui.dita">
+  <topicref href="topics/login_screen.dita"/>
+ </topicref>
+ <topicref href="topics/troubleshooting.dita"/>
+ <!-- Reference to reusable components -->
+ <mapref href="reuse/reusables.ditamap" processing-role="resource-only"/>
+ <!--Link to mapping between keys and external links.-->
+ <mapref href="links/externalLinks.ditamap" processing-role="resource-only"/>
+ <!-- Map keys to links  -->
+ <mapref href="links/internalLinks.ditamap" processing-role="resource-only"/>
+ <!-- Map defining the relationship table -->
+ <mapref href="links/relationshipTable.ditamap" processing-role="resource-only"/>
+</map>

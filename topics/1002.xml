@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="概述">
+    <title>概述</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <section id="section_f5k_3rr_nbc">
+            <title>主要内容</title>
+            <p>本手册主要介绍了60
+                kWh标准储能系统的产品、运输、安装、操作、维护及故障排除等内容。在使用本产品之前，请务必仔细阅读本手册，并根据本手册描述的方法操作储能系统，否则可能会造成设备损坏或者人身伤害。</p>
+        </section>
+        <section id="section_dqq_krr_nbc">
+            <title>目标读者</title>
+            <ol id="ol_fkp_rrr_nbc">
+                <li>本手册适用于对此产品有关的运输、安装及其他操作的人员，参与的人员必须满足以下要求； </li>
+                <li>熟练掌握电力、电子、机械工程等专业知识，能熟练掌握、理解电气原理图、结构图纸等； </li>
+                <li>了解储能行业的产品、基本知识、工作原理、控制逻辑；</li>
+                <li> 具有此产品使用地区法律认可的专业电工施工证书及资质，熟悉此地区的相关法律法规； </li>
+                <li>拥有处理紧急突发事件的能力，根据此产品使用地区法律法规处理相关事件；</li>
+                <li> 熟练掌握本手册条款内容，拥有专业的职业技能及高度的责任心。 </li>
+            </ol>
+            <p>手册包含了重要信息，在对系统进行操作和维护前请仔细阅读手册。请将本手册以及产品组件中的其他资料放置在一起，确保操作者和维护人员能及时查阅。</p>
+        </section>
+        <section id="section_vhz_5rr_nbc">
+            <title>联系我们</title>
+            <p>官网：<xref href="https://www.mpmc-china.com/" format="html" scope="external"/></p>
+            <p>邮箱：<ph>sales@mpmc-china.com</ph></p>
+            <p>电话：+86-21 60970158 </p>
+            <p>手机号码：+86-15000854420 </p>
+            <p>地址：上海市浦东新区金海路2449弄宝龙城市广场1号楼3层 </p>
+        </section>
+    </conbody>
+</concept>
