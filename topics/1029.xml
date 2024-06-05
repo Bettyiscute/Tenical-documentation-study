@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1029">
+    <title>道路运输</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        
+            <p></p>
+        
+        <ol>
+            <li>遵守交通规则；   </li>
+            <li>因为储能系统内部装有电池，禁止超速行驶。在平坦柏油路面，高速公路限速70 km/h，弯道处减速慢行，限速50 km/h；城镇道路限速40
+                km/h，避免紧急起动，避免紧急刹车； </li>
+            <li>在非平坦的柏油路等任何路面，请特别小心驾驶，并且限速50k m/h； </li>
+            <li>禁止在恶劣颠簸路面运输； </li>
+            <li>货物捆绑牢固；出发前，检查一次捆绑情况；在运输途中，每隔4个小时检查一次捆绑情况。</li>
+        </ol>
+        <note id="note_rvz_332_qbc" type="tip"/>
+        <p>在运输与装卸过程中请时刻牢记储能系统的机械参数： </p>
+        <p>储能系统：尺寸（宽×深×高）1800*1150*1800 mm，重量约1400 kg。 </p>
+    </conbody>
+</concept>

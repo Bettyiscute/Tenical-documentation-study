@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1030">
+    <title>存储</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        
+            <p></p>
+        
+        <ol>
+            <li>
+                系统储存时应放在干燥的仓库中，不得暴晒和雨淋； 
+            </li>
+            <li>
+                仓库内不允许有有害气体，易燃，易爆的产品及有腐蚀性的化学物品； 
+            </li>
+            <li>
+                避免机械冲击、重压和强磁场作用； 
+            </li>
+            <li>
+                 避免受阳光直射，距离热源不得小于2 m； 
+            </li>
+            <li>
+                距离墙壁、窗口或空气入口至少50 cm； 
+            </li>
+            <li>
+                日均平均存储温度：≤ 20℃；
+            </li>
+            <li>
+                短期储存温度范围（1个月内）：-20～45℃；
+            </li>
+            <li>
+                 长期储存温度：-20℃～35℃； 
+            </li>
+            <li>
+                储存湿度：≤ 95%，无冷凝。
+            </li>
+        </ol>
+        <p><b>在本规定条件下，建议：</b></p>
+        <ol id="ol_e5f_fh2_qbc">
+            <li>每3个月对电池进行一次放电补电，确保电池SOC一直保持在20～50% SOC范围内；</li>
+            <li> 每12个月需要进行容量核对性试验和重新检验。 </li>
+        </ol>
+        <note id="note_arx_wh2_qbc" type="warning"/>
+        <p>系统损坏风险！ </p>
+        <p>在储能系统的储存过程中，对于因用户不遵守本手册规定的存储方法和要求而造成系统的损坏，首帆动力科技股份有限公司不承担任何责任。</p>
+    </conbody>
+</concept>
