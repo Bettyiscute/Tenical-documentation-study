@@ -3,5 +3,138 @@
 <reference id="_1014">
     <title>储能系统技术参数</title>
     <shortdesc></shortdesc>
-    <refbody> </refbody>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_lhw_vjn_tbc">
+            <title/>
+            <tgroup cols="3" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>序号</entry>
+                        <entry>项目</entry>
+                        <entry>参数</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>1</entry>
+                        <entry>额定能量 </entry>
+                        <entry>61.44 KWh</entry>
+                    </row>
+                    <row>
+                        <entry>2</entry>
+                        <entry>额定功率  </entry>
+                        <entry>30 KW </entry>
+                    </row>
+                    <row>
+                        <entry>3</entry>
+                        <entry>电池标称容量 </entry>
+                        <entry>280 Ah </entry>
+                    </row>
+                    <row>
+                        <entry>4</entry>
+                        <entry>电池成组方式 </entry>
+                        <entry>1P192S </entry>
+                    </row>
+                    <row>
+                        <entry>5</entry>
+                        <entry>标称电压 </entry>
+                        <entry>614.4 V </entry>
+                    </row>
+                    <row>
+                        <entry>6</entry>
+                        <entry>电池电压范围 </entry>
+                        <entry>537.6~691.2 V </entry>
+                    </row>
+                    <row>
+                        <entry>7</entry>
+                        <entry>PACK数量 </entry>
+                        <entry>12 pcs </entry>
+                    </row>
+                    <row>
+                        <entry>8</entry>
+                        <entry>高压箱数量 </entry>
+                        <entry>1 pc </entry>
+                    </row>
+                    <row>
+                        <entry>9</entry>
+                        <entry>消防介质 </entry>
+                        <entry>气溶胶 </entry>
+                    </row>
+                    <row>
+                        <entry>10</entry>
+                        <entry>交流侧电压 </entry>
+                        <entry>400 VAC </entry>
+                    </row>
+                    <row>
+                        <entry>11</entry>
+                        <entry>电网电压 </entry>
+                        <entry>340V~440 VAC </entry>
+                    </row>
+                    <row>
+                        <entry>12</entry>
+                        <entry>额定电流 </entry>
+                        <entry>90 A </entry>
+                    </row>
+                    <row>
+                        <entry>13</entry>
+                        <entry>额定频率 </entry>
+                        <entry>50 Hz </entry>
+                    </row>
+                    <row>
+                        <entry>14</entry>
+                        <entry>频率范围 </entry>
+                        <entry>45~55 Hz </entry>
+                    </row>
+                    <row>
+                        <entry>15</entry>
+                        <entry>工作温度 </entry>
+                        <entry>-20℃~+50℃（＞40℃降功率）</entry>
+                    </row>
+                    <row>
+                        <entry>16</entry>
+                        <entry>允许湿度范围 </entry>
+                        <entry> ≤95% RH，无凝露 </entry>
+                    </row>
+                    <row>
+                        <entry>17</entry>
+                        <entry>最高工作海拔 </entry>
+                        <entry>≤ 3000m </entry>
+                    </row>
+                    <row>
+                        <entry>18</entry>
+                        <entry>冷却方式 </entry>
+                        <entry>智能强制风冷  </entry>
+                    </row>
+                    <row>
+                        <entry>19</entry>
+                        <entry>噪声等级 </entry>
+                        <entry>＜80dB(A) @1m</entry>
+                    </row>
+                    <row>
+                        <entry>20</entry>
+                        <entry>防护等级 </entry>
+                        <entry> IP54 </entry>
+                    </row>
+                    <row>
+                        <entry>21</entry>
+                        <entry>防腐等级 </entry>
+                        <entry>C3 </entry>
+                    </row>
+                    <row>
+                        <entry>22</entry>
+                        <entry>尺寸(宽×深×高) </entry>
+                        <entry>1800*1150*1800 </entry>
+                    </row>
+                    <row>
+                        <entry>23</entry>
+                        <entry>整机重量</entry>
+                        <entry>1400kg±20 kg</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
 </reference>

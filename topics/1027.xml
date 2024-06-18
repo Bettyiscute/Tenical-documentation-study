@@ -4,6 +4,10 @@
     <title>运输环境要求</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p></p>
+        <p>根据电池特性，储能系统在存储运输过程应满足以下要求，以最大程度保护电池的性能：  </p>
+        <ol id="ol_ukn_nj2_qbc">
+            <li>日均平均存储温度：≤ 20℃； </li>
+            <li>湿度：≤ 95%，无冷凝。</li>
+        </ol>
     </conbody>
 </concept>

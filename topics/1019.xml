@@ -4,6 +4,13 @@
     <title>吊装注意事项</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p></p>
+        <p>
+            <note id="note_xvh_jhn_tbc" type="danger">
+                <p>重伤或死亡风险！</p>
+                <p> 在起吊过程中，不按照吊车的安全操作规程进行操作可能导致重伤或死亡。 </p>
+                <p>操作区域10米范围内严禁站人，尤其是起吊臂下及吊起或移动的机器下方严禁站人。</p>
+                <p> 如遇恶劣天气条件，如大雨、大雾、强风等，应停止起吊。 </p>
+            </note>
+        </p>
     </conbody>
 </concept>

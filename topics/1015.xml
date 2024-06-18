@@ -5,5 +5,24 @@
     <shortdesc></shortdesc>
     <conbody>
         <p></p>
+        <fig id="fig_mqx_whn_tbc">
+            <title>储能系统图</title>
+            <image href="../images/%E5%82%A8%E8%83%BD%E7%B3%BB%E7%BB%9F%E5%9B%BE.png"
+                id="image_nqx_whn_tbc"/>
+            <simpletable frame="none" relcolwidth="1* 1*" id="simpletable_btn_ljn_tbc">
+                <strow>
+                    <stentry>1. 急停按钮</stentry>
+                    <stentry>4. 插槽</stentry>
+                </strow>
+                <strow>
+                    <stentry>2. 指示灯</stentry>
+                    <stentry>5. 快插</stentry>
+                </strow>
+                <strow>
+                    <stentry>3. EMS</stentry>
+                    <stentry/>
+                </strow>
+            </simpletable>
+        </fig>
     </conbody>
 </concept>

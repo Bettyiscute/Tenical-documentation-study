@@ -7,11 +7,16 @@
 <map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/talking-circle.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title "><ph class="- topic/ph " keyref="product">60KWh</ph>储能产品用户手册</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
  <title class="- topic/title "><ph class="- topic/ph " keyref="product">60KWh</ph>储能产品用户手册</title>
  <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="前言"><resourceid appid="前言" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">前言</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
- <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="安全说明"><resourceid appid="安全说明" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">安全说明</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
- <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="概述"><resourceid appid="概述" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">概述</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
- <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="installation"><resourceid appid="installation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Installation</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This section describes how to install the desktop version of the <ph class="- topic/ph " keyref="product">60KWh</ph> messaging application.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_5" keyref="windows_installation" type="task"><topicmeta class="- map/topicmeta " data-topic-id="installation_on_windows"><resourceid appid="installation_on_windows" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Installation on Windows</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This task describes how to install the desktop version of the <keyword class="- topic/keyword " keyref="product">60KWh</keyword> messenging application on Windows.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" keyref="mac_installation" type="task"><topicmeta class="- map/topicmeta " data-topic-id="installation_on_mac"><resourceid appid="installation_on_mac" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Installation on Mac</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This task describes how to install the desktop version of the <keyword class="- topic/keyword " keyref="product">60KWh</keyword> messenging application.</shortdesc></topicmeta></topicref></topicref>
- <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="ui"><resourceid appid="ui" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Application UI</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This section describes the <keyword class="- topic/keyword " keyref="product">60KWh</keyword> user interface. You can find     here the description for each of the UI components.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_8" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="login_screen"><resourceid class="- topic/resourceid " id="_Connect_42_tss20" oxy-source="topic" ux-source-priority="topic-and-map"/><navtitle href="#unique_8" class="- topic/navtitle ">Talk Selection Screen</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The login screen is the first screen of the application</shortdesc></topicmeta></topicref></topicref>
- <topicref is-chapter="true" class="- map/topicref " href="#unique_9" type="troubleshooting"><topicmeta class="- map/topicmeta " data-topic-id="troubleshooting"><resourceid appid="troubleshooting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Troubleshooting</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">If you have any problems communicating with your team, read here for     solutions.</shortdesc></topicmeta></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="概述"><resourceid appid="概述" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">概述</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1003"><resourceid appid="_1003" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">主要内容</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1004"><resourceid appid="_1004" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">目标读者</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1005"><resourceid appid="_1005" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">联系我们</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+ 
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="安全说明"><resourceid appid="安全说明" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">安全说明</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1007"><resourceid appid="_1007" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">符号说明</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">在本手册中，使用下列警示词和符号来识别安全信息：</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1008"><resourceid appid="_1008" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">危险警告标识</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">为了保障用户在使用本产品时的人身及财产安全，提高用户对此产品的效率，本手册中详述了相关信息，并添加相关符号以加强解释说明。 本文可能出现下列标识，所代表的含义如下： </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1009"><resourceid appid="_1009" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">安全须知</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1010"><resourceid appid="_1010" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">操作人员要求</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1011"><resourceid appid="_1011" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">静电防护</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+ 
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1012"><resourceid appid="_1012" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">产品介绍</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1013"><resourceid appid="_1013" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">储能系统介绍</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1014"><resourceid appid="_1014" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">储能系统技术参数</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1015"><resourceid appid="_1015" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">储能系统结构图</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1016"><resourceid appid="_1016" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">储能系统一次图</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+ 
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_17" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1017"><resourceid appid="_1017" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">吊装、运输与储存</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_18" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1018"><resourceid appid="_1018" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">吊装作业</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_19" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1019"><resourceid appid="_1019" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">吊装注意事项</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_20" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1020"><resourceid appid="_1020" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">吊装前准备</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_21" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="xml"><resourceid appid="xml" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">吊车准备</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_22" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1022"><resourceid appid="_1022" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">吊具准备</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_23" type="task"><topicmeta class="- map/topicmeta " data-topic-id="_1023"><resourceid appid="_1023" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">吊装过程</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_24" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1024"><resourceid appid="_1024" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">储能系统吊装示意图</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_25" type="task"><topicmeta class="- map/topicmeta " data-topic-id="_1025"><resourceid appid="_1025" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">叉车作业</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_26" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1026"><resourceid appid="_1026" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">运输</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_27" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1027"><resourceid appid="_1027" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_27" class="- topic/navtitle ">运输环境要求</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_28" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1028"><resourceid appid="_1028" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_28" class="- topic/navtitle ">储能系统出厂前准备</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_29" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1029"><resourceid appid="_1029" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_29" class="- topic/navtitle ">道路运输</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_30" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1030"><resourceid appid="_1030" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_30" class="- topic/navtitle ">存储</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref> 
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_31" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="installation"><resourceid appid="installation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_31" class="- topic/navtitle ">Installation</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This section describes how to install the desktop version of the <ph class="- topic/ph " keyref="product">60KWh</ph> messaging application.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_32" keyref="windows_installation" type="task"><topicmeta class="- map/topicmeta " data-topic-id="installation_on_windows"><resourceid appid="installation_on_windows" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_32" class="- topic/navtitle ">Installation on Windows</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This task describes how to install the desktop version of the <keyword class="- topic/keyword " keyref="product">60KWh</keyword> messenging application on Windows.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_33" keyref="mac_installation" type="task"><topicmeta class="- map/topicmeta " data-topic-id="installation_on_mac"><resourceid appid="installation_on_mac" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_33" class="- topic/navtitle ">Installation on Mac</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This task describes how to install the desktop version of the <keyword class="- topic/keyword " keyref="product">60KWh</keyword> messenging application.</shortdesc></topicmeta></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_34" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="ui"><resourceid appid="ui" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_34" class="- topic/navtitle ">Application UI</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This section describes the <keyword class="- topic/keyword " keyref="product">60KWh</keyword> user interface. You can find     here the description for each of the UI components.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_35" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="login_screen"><resourceid class="- topic/resourceid " id="_Connect_42_tss20" oxy-source="topic" ux-source-priority="topic-and-map"/><navtitle href="#unique_35" class="- topic/navtitle ">Talk Selection Screen</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The login screen is the first screen of the application</shortdesc></topicmeta></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_36" type="troubleshooting"><topicmeta class="- map/topicmeta " data-topic-id="troubleshooting"><resourceid appid="troubleshooting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_36" class="- topic/navtitle ">Troubleshooting</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">If you have any problems communicating with your team, read here for     solutions.</shortdesc></topicmeta></topicref>
  
  <?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?>
  
@@ -20,56 +25,398 @@
  <?ditaot gentext?><?ditaot genshortdesc?><?ditaot gentext?><?ditaot genshortdesc?>
  
  
-<topicref is-chapter="true" is-index="true" class="- map/topicref "><topicmeta class="- map/topicmeta "><navtitle href="#d243e589" class="- topic/navtitle ">Index</navtitle></topicmeta></topicref></opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="前言" oid="前言" specializations="@props/deliveryTarget">
+<topicref is-chapter="true" is-index="true" class="- map/topicref "><topicmeta class="- map/topicmeta "><navtitle href="#d351e1877" class="- topic/navtitle ">Index</navtitle></topicmeta></topicref></opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="前言" oid="前言" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">前言</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">尊敬的用户，感谢您选择本公司产品！在使用本产品前请务必认真阅读此《产品手册》。
-            通过仔细阅读本手册，将使您更好的了解本产品的特点，正确使用和维护保养本产品，确保使用安全及发挥本产品的最佳性能，从而获得最大程度的使用效益。
-            本手册中提供的图片仅用于演示目的，根据产品版本和市场区域关系，详细信息略有不同。本手册是按照本公司储能系统投产时的状况编制的。产品外形、技术规格可能不断演变。产品更新后对将对本手册做相应修订，修订项目不另行通知。
-            若因您的疏忽、不正确使用或未经允许擅自拆动、破解控制程序等而导致系统失效，您将失去保修的权利；因此导致的任何直接或间接地保修申请将不被本公司售后所接受。
-            本手册著作权归首帆动力科技股份有限公司所有，未经本公司许可授权，不得以电子、机械记录或其他任何方式进行传播</p>
+        <p class="- topic/p ">尊敬的用户，感谢您选择本公司产品！在使用本产品前请务必认真阅读此《产品手册》。 </p>
+        <p class="- topic/p ">通过仔细阅读本手册，将使您更好的了解本产品的特点，正确使用和维护保养本产品，确保使用安全及发挥本产品的最佳性能，从而获得最大程度的使用效益。 </p>
+        <p class="- topic/p ">本手册中提供的图片仅用于演示目的，根据产品版本和市场区域关系，详细信息略有不同。本手册是按照本公司储能系统投产时的状况编制的。产品外形、技术规格可能不断演变。产品更新后对将对本手册做相应修订，修订项目不另行通知。</p>
+        <p class="- topic/p "> 若因您的疏忽、不正确使用或未经允许擅自拆动、破解控制程序等而导致系统失效，您将失去保修的权利；因此导致的任何直接或间接地保修申请将不被本公司售后所接受。 </p>
+        <p class="- topic/p ">本手册著作权归首帆动力科技股份有限公司所有，未经本公司许可授权，不得以电子、机械记录或其他任何方式进行传播。</p>
     </conbody>
-</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="安全说明" oid="安全说明" specializations="@props/deliveryTarget">
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="概述" oid="概述" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">概述</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody "/>
+<concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="_1003" oid="_1003" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">主要内容</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">本手册主要介绍了60
+            kWh标准储能系统的产品、运输、安装、操作、维护及故障排除等内容。在使用本产品之前，请务必仔细阅读本手册，并根据本手册描述的方法操作储能系统，否则可能会造成设备损坏或者人身伤害。</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="_1004" oid="_1004" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">目标读者</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <ol class="- topic/ol " id="unique_4_Connect_42_ol_vmh_rqn_tbc" nd:nd-id="ol_vmh_rqn_tbc">
+            <li class="- topic/li ">本手册适用于对此产品有关的运输、安装及其他操作的人员，参与的人员必须满足以下要求；  </li>
+            <li class="- topic/li ">熟练掌握电力、电子、机械工程等专业知识，能熟练掌握、理解电气原理图、结构图纸等； </li>
+            <li class="- topic/li ">了解储能行业的产品、基本知识、工作原理、控制逻辑； </li>
+            <li class="- topic/li ">具有此产品使用地区法律认可的专业电工施工证书及资质，熟悉此地区的相关法律法规； </li>
+            <li class="- topic/li ">拥有处理紧急突发事件的能力，根据此产品使用地区法律法规处理相关事件； </li>
+            <li class="- topic/li ">熟练掌握本手册条款内容，拥有专业的职业技能及高度的责任心。 </li>
+        </ol>
+        <p class="- topic/p ">手册包含了重要信息，在对系统进行操作和维护前请仔细阅读手册。请将本手册以及产品组件中的其他资料放置在一起，确保操作者和维护人员能及时查阅。</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="_1005" oid="_1005" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">联系我们</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">官网：<xref class="- topic/xref " format="html" href="https://www.mpmc-china.com/" scope="external"/></p>
+        <p class="- topic/p ">邮箱：sales@mpmc-china.com</p>
+        <p class="- topic/p ">电话：+86-21 60970158 </p>
+        <p class="- topic/p ">手机号码：+86-15000854420 </p>
+        <p class="- topic/p ">地址：上海市浦东新区金海路2449弄宝龙城市广场1号楼3层</p>
+    </conbody>
+</concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="安全说明" oid="安全说明" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">安全说明</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p "/>
     </conbody>
-</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="概述" oid="概述" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">概述</ph></title>
+<concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="_1007" oid="_1007" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">符号说明</ph></title>
+    <shortdesc class="- topic/shortdesc ">在本手册中，使用下列警示词和符号来识别安全信息：</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <simpletable class="- topic/simpletable " frame="all" id="unique_7_Connect_42_simpletable_wwc_zln_tbc" nd:nd-id="simpletable_wwc_zln_tbc" relcolwidth="1* 1*">
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1"><image class="- topic/image " dita-ot:image-width="33" dita-ot:image-height="29" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%205.png" id="unique_7_Connect_42_image_slg_cmn_tbc" nd:nd-id="image_slg_cmn_tbc" placement="inline"/>危险</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">“危险”表示有高度潜在危险，如果未能避免将会导致人员死亡或严重伤害。</stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2"><image class="- topic/image " dita-ot:image-width="33" dita-ot:image-height="29" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%205.png" id="unique_7_Connect_42_image_ngf_dmn_tbc" nd:nd-id="image_ngf_dmn_tbc" placement="inline"/>警告</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">“警告”表示有中度潜在危险，如果未能避免可能导致人员死亡或严重伤害。</stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3"><image class="- topic/image " dita-ot:image-width="33" dita-ot:image-height="29" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%205.png" id="unique_7_Connect_42_image_y2w_dmn_tbc" nd:nd-id="image_y2w_dmn_tbc" placement="inline"/>小心</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">“小心”表示有低度潜在危险，如果未能避免可能导致人员中度或轻度伤害。</stentry></strow>
+        </simpletable>
+        <note class="- topic/note " id="unique_7_Connect_42_note_bsx_nmn_tbc" nd:nd-id="note_bsx_nmn_tbc" type="tip">“注意”表示有潜在风险，如果未能避免可能导致设备无法正常运行或造成财产损失。</note>
+        
+       
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="_1008" oid="_1008" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">危险警告标识</ph></title>
+    <shortdesc class="- topic/shortdesc ">为了保障用户在使用本产品时的人身及财产安全，提高用户对此产品的效率，本手册中详述了相关信息，并添加相关符号以加强解释说明。 本文可能出现下列标识，所代表的含义如下： </shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_8_Connect_42_table_mcj_lln_tbc" nd:nd-id="table_mcj_lln_tbc" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "/></title>
+            <tgroup align="center" class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1008.xml" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;11:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1008.xml" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">符号</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">说明</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2"><image class="- topic/image " dita-ot:image-width="140" dita-ot:image-height="124" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%201.png" id="unique_8_Connect_42_image_zsz_qln_tbc" nd:nd-id="image_zsz_qln_tbc" placement="inline"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">在本手册中，使用该一般危险标志来识别重要安全信息。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3"><image class="- topic/image " dita-ot:image-width="141" dita-ot:image-height="126" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%202.png" id="unique_8_Connect_42_image_oyn_rln_tbc" nd:nd-id="image_oyn_rln_tbc" placement="inline"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">此标识意思为产品内部含有高压危险，触摸可能会导致电击危险。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4"><image class="- topic/image " dita-ot:image-width="132" dita-ot:image-height="126" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%203.png" id="unique_8_Connect_42_image_d1y_rln_tbc" nd:nd-id="image_d1y_rln_tbc" placement="inline"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">此标识意思为产品此处为保护接地（PE），需要连接接地线，要求链接牢固可靠，以保证操作人员安全。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5"><image class="- topic/image " dita-ot:image-width="128" dita-ot:image-height="130" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%204.png" id="unique_8_Connect_42_image_df4_sln_tbc" nd:nd-id="image_df4_sln_tbc" placement="inline"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">此标识意思为非专业人士禁止操作，否则可能会导致人身伤害。</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="_1009" oid="_1009" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">安全须知</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
-        <section class="- topic/section " id="unique_3_Connect_42_section_f5k_3rr_nbc" nd:nd-id="section_f5k_3rr_nbc">
-            <title class="- topic/title ">主要内容</title>
-            <p class="- topic/p ">本手册主要介绍了60
-                kWh标准储能系统的产品、运输、安装、操作、维护及故障排除等内容。在使用本产品之前，请务必仔细阅读本手册，并根据本手册描述的方法操作储能系统，否则可能会造成设备损坏或者人身伤害。</p>
-        </section>
-        <section class="- topic/section " id="unique_3_Connect_42_section_dqq_krr_nbc" nd:nd-id="section_dqq_krr_nbc">
-            <title class="- topic/title ">目标读者</title>
-            <ol class="- topic/ol " id="unique_3_Connect_42_ol_fkp_rrr_nbc" nd:nd-id="ol_fkp_rrr_nbc">
-                <li class="- topic/li ">本手册适用于对此产品有关的运输、安装及其他操作的人员，参与的人员必须满足以下要求； </li>
-                <li class="- topic/li ">熟练掌握电力、电子、机械工程等专业知识，能熟练掌握、理解电气原理图、结构图纸等； </li>
-                <li class="- topic/li ">了解储能行业的产品、基本知识、工作原理、控制逻辑；</li>
-                <li class="- topic/li "> 具有此产品使用地区法律认可的专业电工施工证书及资质，熟悉此地区的相关法律法规； </li>
-                <li class="- topic/li ">拥有处理紧急突发事件的能力，根据此产品使用地区法律法规处理相关事件；</li>
-                <li class="- topic/li "> 熟练掌握本手册条款内容，拥有专业的职业技能及高度的责任心。 </li>
-            </ol>
-            <p class="- topic/p ">手册包含了重要信息，在对系统进行操作和维护前请仔细阅读手册。请将本手册以及产品组件中的其他资料放置在一起，确保操作者和维护人员能及时查阅。</p>
-        </section>
-        <section class="- topic/section " id="unique_3_Connect_42_section_vhz_5rr_nbc" nd:nd-id="section_vhz_5rr_nbc">
-            <title class="- topic/title ">联系我们</title>
-            <p class="- topic/p ">官网：<xref class="- topic/xref " format="html" href="https://www.mpmc-china.com/" scope="external"/></p>
-            <p class="- topic/p ">邮箱：<ph class="- topic/ph ">sales@mpmc-china.com</ph></p>
-            <p class="- topic/p ">电话：+86-21 60970158 </p>
-            <p class="- topic/p ">手机号码：+86-15000854420 </p>
-            <p class="- topic/p ">地址：上海市浦东新区金海路2449弄宝龙城市广场1号楼3层 </p>
-        </section>
+        <note class="- topic/note " id="unique_9_Connect_42_note_cxq_bln_tbc" nd:nd-id="note_cxq_bln_tbc" type="warning">
+            <p class="- topic/p ">忽略说明危险！ </p>
+            <p class="- topic/p "> 为了避免本产品在使用过程中可能产生的人员伤亡、财产损失。也为了提高本产品的使用寿命和使用效率，请务必仔细阅读各项安全规范。</p>
+        </note>
     </conbody>
-</concept><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="installation" oid="installation" specializations="@props/deliveryTarget">
+</concept><concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="_1010" oid="_1010" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">操作人员要求</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_10_Connect_42_ol_pp1_xkn_tbc" nd:nd-id="ol_pp1_xkn_tbc">
+                <li class="- topic/li ">具有专业资格的电工人员才能对本产品进行操作、维护，并需配套完整的专业电工设备。  </li>
+                <li class="- topic/li ">能对分配的任务进行评估，识别可能会出现的危险事件； </li>
+                <li class="- topic/li ">能第一时间对受伤的人员进行救援； </li>
+                <li class="- topic/li ">了解产品的相关维护标准； </li>
+                <li class="- topic/li ">遵守当地法律法规、条例和标准。</li>
+            </ol>
+        </p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="_1011" oid="_1011" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">静电防护</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">静电的积累可能会引起电击、火灾、爆炸、电子器件失效和损坏等。储能系统内有电路板或其它静电敏感元器件，为了防止或减小静电的危害，必须做好静电防护，进而抑制静电的产生，加速静电的泄漏，进行静电中和。其防范方式包括但不限于：在更换元器件的过程中，应将所有还没有安装的设备器件保留在带有防静电屏蔽功能的包装袋中，将暂时拆下来的设备器件放置在具有防静电功能的泡沫塑料垫上；请勿触摸焊接点、引脚或裸露的电路。 </p>
+    </conbody>
+</concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="_1012" oid="_1012" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">产品介绍</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="_1013" oid="_1013" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统介绍</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">储能系统是由PACK、高压箱、SCU、热管理系统、消防系统、电气系统、PCS、UPS、浪涌保护器、断路器、柜体等组成。</p>
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="_1014" oid="_1014" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统技术参数</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_14_Connect_42_table_lhw_vjn_tbc" nd:nd-id="table_lhw_vjn_tbc" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "/></title>
+            <tgroup align="center" class="- topic/tgroup " cols="3">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1014.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;11:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1014.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;12:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1014.xml" style="width:33.3333%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">序号</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">项目</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">参数</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">1</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">额定能量 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">61.44 KWh</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">2</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">额定功率  </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">30 KW </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">3</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">电池标称容量 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">280 Ah </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">4</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">电池成组方式 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">1P192S </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">5</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">标称电压 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6">614.4 V </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">6</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">电池电压范围 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7">537.6~691.2 V </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">7</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">PACK数量 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8">12 pcs </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9">8</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">高压箱数量 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9">1 pc </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10">9</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10">消防介质 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="10">气溶胶 </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11">10</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11">交流侧电压 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="11">400 VAC </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="12">11</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="12">电网电压 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="12">340V~440 VAC </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="13">12</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="13">额定电流 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="13">90 A </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="14">13</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="14">额定频率 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="14">50 Hz </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="15">14</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="15">频率范围 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="15">45~55 Hz </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="16">15</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="16">工作温度 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="16">-20℃~+50℃（＞40℃降功率）</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="17">16</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="17">允许湿度范围 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="17"> ≤95% RH，无凝露 </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="18">17</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="18">最高工作海拔 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="18">≤ 3000m </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="19">18</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="19">冷却方式 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="19">智能强制风冷  </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="20">19</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="20">噪声等级 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="20">＜80dB(A) @1m</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="21">20</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="21">防护等级 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="21"> IP54 </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="22">21</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="22">防腐等级 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="22">C3 </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="23">22</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="23">尺寸(宽×深×高) </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="23">1800*1150*1800 </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="24">23</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="24">整机重量</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="24">1400kg±20 kg</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="_1015" oid="_1015" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统结构图</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+        <fig class="- topic/fig " id="unique_15_Connect_42_fig_mqx_whn_tbc" nd:nd-id="fig_mqx_whn_tbc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统图</ph></title><image class="- topic/image " dita-ot:image-width="1306" dita-ot:image-height="1376" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/储能系统图.png" id="unique_15_Connect_42_image_nqx_whn_tbc" nd:nd-id="image_nqx_whn_tbc" placement="inline"/><simpletable class="- topic/simpletable " frame="none" id="unique_15_Connect_42_simpletable_btn_ljn_tbc" nd:nd-id="simpletable_btn_ljn_tbc" relcolwidth="1* 1*">
+                <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">1. 急停按钮</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">4. 插槽</stentry></strow>
+                <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">2. 指示灯</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">5. 快插</stentry></strow>
+                <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3">3. EMS</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3"/></strow>
+            </simpletable></fig>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="_1016" oid="_1016" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统一次图</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <fig class="- topic/fig " id="unique_16_Connect_42_fig_dvt_rhn_tbc" nd:nd-id="fig_dvt_rhn_tbc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统一次图</ph></title><image class="- topic/image " dita-ot:image-width="478" dita-ot:image-height="293" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/储能系统一次图.png" id="unique_16_Connect_42_image_fvt_rhn_tbc" nd:nd-id="image_fvt_rhn_tbc" placement="inline"/></fig>
+        </p>
+    </conbody>
+</concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="_1017" oid="_1017" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊装、运输与储存</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="_1018" oid="_1018" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊装作业</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="_1019" oid="_1019" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊装注意事项</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <note class="- topic/note " id="unique_19_Connect_42_note_xvh_jhn_tbc" nd:nd-id="note_xvh_jhn_tbc" type="danger">
+                <p class="- topic/p ">重伤或死亡风险！</p>
+                <p class="- topic/p "> 在起吊过程中，不按照吊车的安全操作规程进行操作可能导致重伤或死亡。 </p>
+                <p class="- topic/p ">操作区域10米范围内严禁站人，尤其是起吊臂下及吊起或移动的机器下方严禁站人。</p>
+                <p class="- topic/p "> 如遇恶劣天气条件，如大雨、大雾、强风等，应停止起吊。 </p>
+            </note>
+        </p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="_1020" oid="_1020" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊装前准备</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="xml" oid="xml" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊车准备</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">根据产品整机重量选择合适的吊车（整机重量参考<xref class="- topic/xref " href="#unique_14" type="reference"><?ditaot usertext?>储能系统技术参数</xref>），推荐型号：8吨～12吨。</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="_1022" oid="_1022" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊具准备</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">准备好合适的钢丝绳、挂钩、吊环等。</p>
+    </conbody>
+</concept></concept><task class="- topic/topic task/task " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="_1023" oid="_1023" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊装过程</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">使用合适的吊车进行装卸；吊运时，可以使用尼龙吊绳（带）或钢丝绳； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 垂直起吊，不得出现在地面拖曳现象，不要在任何表面上拖推； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">起吊300 mm后暂停起吊，检查吊具的连接情况，在确定连接牢固后，继续起吊； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">缓慢起吊设备，注意观察箱体的平衡状态，移动速度不可过快； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">整个起吊过程中，储能系统及吊车下方严禁站人。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_24" topicrefclass="- map/topicref " nd:nd-id="_1024" oid="_1024" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统吊装示意图</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <fig class="- topic/fig " id="unique_24_Connect_42_fig_mkn_dgn_tbc" nd:nd-id="fig_mkn_dgn_tbc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊装示意图</ph></title><image class="- topic/image " dita-ot:image-width="455" dita-ot:image-height="693" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/吊装示意图.png" id="unique_24_Connect_42_image_okn_dgn_tbc" nd:nd-id="image_okn_dgn_tbc" placement="inline"/></fig>
+        </p>
+    </conbody>
+</concept></concept><task class="- topic/topic task/task " id="unique_25" topicrefclass="- map/topicref " nd:nd-id="_1025" oid="_1025" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">叉车作业</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">在使用叉车进行叉举作业时，需满足下述条件：</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">所用叉车应具备足够的承载能力（推荐至少8吨）。 </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 所用叉车的货叉应该插入储能系统的全部深度，即长度应至少为1300mm。 </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">在叉起，放下及移动过程中，要保证缓慢、平稳，必须进行试叉。</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_25_Connect_42_fig_kcq_x2n_tbc" nd:nd-id="fig_kcq_x2n_tbc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">插槽位置示意图</ph></title><image class="- topic/image " dita-ot:image-width="324" dita-ot:image-height="200" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/插槽位置示意图.png" id="unique_25_Connect_42_image_lcq_x2n_tbc" nd:nd-id="image_lcq_x2n_tbc" placement="inline"/></fig>
+                    <simpletable class="- topic/simpletable " frame="all" id="unique_25_Connect_42_simpletable_brl_1fn_tbc" nd:nd-id="simpletable_brl_1fn_tbc" relcolwidth="1*">
+                        <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">
+                                <ol class="- topic/ol " id="unique_25_Connect_42_ol_bwc_2fn_tbc" nd:nd-id="ol_bwc_2fn_tbc">
+                                    <li class="- topic/li ">插槽</li>
+                                </ol>
+                                
+                            </stentry></strow>
+                    </simpletable>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_26" topicrefclass="- map/topicref " nd:nd-id="_1026" oid="_1026" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">运输</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">储能系统适用于陆运和海运，在运输过程中应有遮蔽和防晒，文明装卸，运输中应避免雨、雪的直接淋袭和机械撞击。</p>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_27" topicrefclass="- map/topicref " nd:nd-id="_1027" oid="_1027" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">运输环境要求</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">根据电池特性，储能系统在存储运输过程应满足以下要求，以最大程度保护电池的性能：  </p>
+        <ol class="- topic/ol " id="unique_27_Connect_42_ol_ukn_nj2_qbc" nd:nd-id="ol_ukn_nj2_qbc">
+            <li class="- topic/li ">日均平均存储温度：≤ 20℃； </li>
+            <li class="- topic/li ">湿度：≤ 95%，无冷凝。</li>
+        </ol>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_28" topicrefclass="- map/topicref " nd:nd-id="_1028" oid="_1028" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统出厂前准备</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        
+            <p class="- topic/p "/>
+        
+        <ol class="- topic/ol ">
+            <li class="- topic/li ">设备出厂前需要用珍珠棉和PE膜包装防止发生碰撞； </li>
+            <li class="- topic/li ">海运时，需满足MSDS认证，并贴9类危险品标识。 </li>
+        </ol>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_29" topicrefclass="- map/topicref " nd:nd-id="_1029" oid="_1029" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">道路运输</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        
+            <p class="- topic/p "/>
+        
+        <ol class="- topic/ol ">
+            <li class="- topic/li ">遵守交通规则；   </li>
+            <li class="- topic/li ">因为储能系统内部装有电池，禁止超速行驶。在平坦柏油路面，高速公路限速70 km/h，弯道处减速慢行，限速50 km/h；城镇道路限速40
+                km/h，避免紧急起动，避免紧急刹车； </li>
+            <li class="- topic/li ">在非平坦的柏油路等任何路面，请特别小心驾驶，并且限速50k m/h； </li>
+            <li class="- topic/li ">禁止在恶劣颠簸路面运输； </li>
+            <li class="- topic/li ">货物捆绑牢固；出发前，检查一次捆绑情况；在运输途中，每隔4个小时检查一次捆绑情况。</li>
+        </ol>
+        <note class="- topic/note " id="unique_29_Connect_42_note_rvz_332_qbc" nd:nd-id="note_rvz_332_qbc" type="tip">
+            <p class="- topic/p ">在运输与装卸过程中请时刻牢记储能系统的机械参数： </p>
+            <p class="- topic/p ">储能系统：尺寸（宽×深×高）1800*1150*1800 mm，重量约1400 kg。</p>
+        </note>
+        <p class="- topic/p "> </p>
+    </conbody>
+</concept></concept><concept class="- topic/topic concept/concept " id="unique_30" topicrefclass="- map/topicref " nd:nd-id="_1030" oid="_1030" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">存储</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        
+            <p class="- topic/p "/>
+        
+        <ol class="- topic/ol ">
+            <li class="- topic/li ">
+                系统储存时应放在干燥的仓库中，不得暴晒和雨淋； 
+            </li>
+            <li class="- topic/li ">
+                仓库内不允许有有害气体，易燃，易爆的产品及有腐蚀性的化学物品； 
+            </li>
+            <li class="- topic/li ">
+                避免机械冲击、重压和强磁场作用； 
+            </li>
+            <li class="- topic/li ">
+                 避免受阳光直射，距离热源不得小于2 m； 
+            </li>
+            <li class="- topic/li ">
+                距离墙壁、窗口或空气入口至少50 cm； 
+            </li>
+            <li class="- topic/li ">
+                日均平均存储温度：≤ 20℃；
+            </li>
+            <li class="- topic/li ">
+                短期储存温度范围（1个月内）：-20～45℃；
+            </li>
+            <li class="- topic/li ">
+                 长期储存温度：-20℃～35℃； 
+            </li>
+            <li class="- topic/li ">
+                储存湿度：≤ 95%，无冷凝。
+            </li>
+        </ol>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">在本规定条件下，建议：</b></p>
+        <ol class="- topic/ol " id="unique_30_Connect_42_ol_e5f_fh2_qbc" nd:nd-id="ol_e5f_fh2_qbc">
+            <li class="- topic/li ">每3个月对电池进行一次放电补电，确保电池SOC一直保持在20～50% SOC范围内；</li>
+            <li class="- topic/li "> 每12个月需要进行容量核对性试验和重新检验。 </li>
+        </ol>
+        <note class="- topic/note " id="unique_30_Connect_42_note_arx_wh2_qbc" nd:nd-id="note_arx_wh2_qbc" type="warning">
+            <p class="- topic/p ">系统损坏风险！ </p>
+            <p class="- topic/p ">在储能系统的储存过程中，对于因用户不遵守本手册规定的存储方法和要求而造成系统的损坏，首帆动力科技股份有限公司不承担任何责任</p>
+        </note>
+        <p class="- topic/p ">。</p>
+    </conbody>
+</concept></concept><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_31" topicrefclass="- map/topicref " nd:nd-id="installation" oid="installation" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Installation</ph></title>
     <shortdesc class="- topic/shortdesc ">This section describes how to install the desktop version of the <ph class="- topic/ph " keyref="product">60KWh</ph> messaging application.</shortdesc>
-<task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="installation_on_windows" oid="installation_on_windows" specializations="@props/deliveryTarget">
+<task class="- topic/topic task/task " id="unique_32" topicrefclass="- map/topicref " nd:nd-id="installation_on_windows" oid="installation_on_windows" specializations="@props/deliveryTarget">
   <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Installation on Windows</ph></title>
   <shortdesc class="- topic/shortdesc ">This task describes how to install the desktop version of the <keyword class="- topic/keyword " keyref="product">60KWh</keyword> messenging application on Windows.</shortdesc>
   <taskbody class="- topic/body task/taskbody ">
@@ -94,13 +441,13 @@
       </step>
     </steps>
   </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_6" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Installation on Mac</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">This task describes how to install the desktop version of the <keyword class="- topic/keyword " keyref="product">60KWh</keyword> messenging application.</desc></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="installation_on_mac" oid="installation_on_mac" specializations="@props/deliveryTarget">
-  <title class="- topic/title "><opentopic-index:refID indexid="indexid-1270978240" value="installation:" class="- index/refid " id="d243e380"/><opentopic-index:refID indexid="indexid815451659" value="installation:mac:" class="- index/refid " id="d243e383"/><ph class="- topic/ph topic/title-wrapper ">Installation on Mac</ph></title>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_33" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Installation on Mac</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">This task describes how to install the desktop version of the <keyword class="- topic/keyword " keyref="product">60KWh</keyword> messenging application.</desc></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_33" topicrefclass="- map/topicref " nd:nd-id="installation_on_mac" oid="installation_on_mac" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><opentopic-index:refID indexid="indexid-1270978240" value="installation:" class="- index/refid " id="d351e1668"/><opentopic-index:refID indexid="indexid815451659" value="installation:mac:" class="- index/refid " id="d351e1671"/><ph class="- topic/ph topic/title-wrapper ">Installation on Mac</ph></title>
   <shortdesc class="- topic/shortdesc ">This task describes how to install the desktop version of the <keyword class="- topic/keyword " keyref="product">60KWh</keyword> messenging application.</shortdesc>
   <prolog class="- topic/prolog ">
     <metadata class="- topic/metadata ">
       <keywords class="- topic/keywords ">
-        <opentopic-index:index.entry value="installation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">installation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1270978240" value="installation:" class="- index/refid " id="d243e380"/><opentopic-index:index.entry value="mac" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">mac</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid815451659" value="installation:mac:" class="- index/refid " id="d243e383"/></opentopic-index:index.entry></opentopic-index:index.entry>       
+        <opentopic-index:index.entry value="installation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">installation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1270978240" value="installation:" class="- index/refid " id="d351e1668"/><opentopic-index:index.entry value="mac" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">mac</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid815451659" value="installation:mac:" class="- index/refid " id="d351e1671"/></opentopic-index:index.entry></opentopic-index:index.entry>       
       </keywords>
     </metadata>
   </prolog>
@@ -123,23 +470,23 @@
       </step>
     </steps>
   </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_5" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Installation on Windows</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">This task describes how to install the desktop version of the <keyword class="- topic/keyword " keyref="product">60KWh</keyword> messenging application on Windows.</desc></link></linkpool></related-links></task></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="ui" oid="ui" specializations="@props/deliveryTarget">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_32" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Installation on Windows</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">This task describes how to install the desktop version of the <keyword class="- topic/keyword " keyref="product">60KWh</keyword> messenging application on Windows.</desc></link></linkpool></related-links></task></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_34" topicrefclass="- map/topicref " nd:nd-id="ui" oid="ui" specializations="@props/deliveryTarget">
   <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Application UI</ph></title>
   <shortdesc class="- topic/shortdesc ">This section describes the <keyword class="- topic/keyword " keyref="product">60KWh</keyword> user interface. You can find
     here the description for each of the UI components.</shortdesc>
   <body class="- topic/body ">
     <p class="- topic/p ">The application is structured in two screens.</p>
   </body>
-<topic class="- topic/topic " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="login_screen" oid="login_screen" specializations="@props/deliveryTarget">
-  <title class="- topic/title "><opentopic-index:refID indexid="indexid115750" value="ui:" class="- index/refid " id="d243e470"/><opentopic-index:refID indexid="indexid1682778940" value="ui:talk selection:" class="- index/refid " id="d243e473"/><ph class="- topic/ph topic/title-wrapper ">Talk Selection Screen</ph></title>
+<topic class="- topic/topic " id="unique_35" topicrefclass="- map/topicref " nd:nd-id="login_screen" oid="login_screen" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><opentopic-index:refID indexid="indexid115750" value="ui:" class="- index/refid " id="d351e1758"/><opentopic-index:refID indexid="indexid1682778940" value="ui:talk selection:" class="- index/refid " id="d351e1761"/><ph class="- topic/ph topic/title-wrapper ">Talk Selection Screen</ph></title>
   <shortdesc class="- topic/shortdesc ">The login screen is the first screen of the application</shortdesc>
   <prolog class="- topic/prolog ">
     <metadata class="- topic/metadata ">
       <keywords class="- topic/keywords ">
-        <opentopic-index:index.entry value="ui" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">ui</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid115750" value="ui:" class="- index/refid " id="d243e470"/><opentopic-index:index.entry value="talk selection" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">talk selection</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1682778940" value="ui:talk selection:" class="- index/refid " id="d243e473"/></opentopic-index:index.entry></opentopic-index:index.entry>
+        <opentopic-index:index.entry value="ui" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">ui</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid115750" value="ui:" class="- index/refid " id="d351e1758"/><opentopic-index:index.entry value="talk selection" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">talk selection</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1682778940" value="ui:talk selection:" class="- index/refid " id="d351e1761"/></opentopic-index:index.entry></opentopic-index:index.entry>
       </keywords>
     </metadata>
-    <resourceid class="- topic/resourceid " id="unique_8_Connect_42_tss20" nd:nd-id="tss20" ux-source-priority="topic-and-map"/>
+    <resourceid class="- topic/resourceid " id="unique_35_Connect_42_tss20" nd:nd-id="tss20" ux-source-priority="topic-and-map"/>
   </prolog>
   <body class="- topic/body ">
     <p class="- topic/p ">The screen allows you to:</p>
@@ -153,7 +500,7 @@
     <p class="- topic/p ">In the <uicontrol class="+ topic/ph ui-d/uicontrol ">Select talk</uicontrol> combo box you can choose an existing, on-going
       talk, or enter a name to start a new one.</p>
   </body>
-</topic></topic><troubleshooting break-before="true" is-chapter="true" class="- topic/topic troubleshooting/troubleshooting " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="troubleshooting" oid="troubleshooting" specializations="@props/deliveryTarget">
+</topic></topic><troubleshooting break-before="true" is-chapter="true" class="- topic/topic troubleshooting/troubleshooting " id="unique_36" topicrefclass="- map/topicref " nd:nd-id="troubleshooting" oid="troubleshooting" specializations="@props/deliveryTarget">
   <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Troubleshooting</ph></title>
   <shortdesc class="- topic/shortdesc ">If you have any problems communicating with your team, read here for
     solutions.</shortdesc>
@@ -196,8 +543,8 @@
       </remedy>
     </troubleSolution>
   </troublebody>
-</troubleshooting><opentopic-index:index.groups class="- index/groups " id="d243e589"><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">I</opentopic-index:label><opentopic-index:index.entry value="installation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1270978240">installation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1270978240" value="installation:" class="- index/refid "/><opentopic-index:index.entry value="mac" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid815451659">mac</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid815451659" value="installation:mac:" class="- index/refid "><oxy:index-link href="#d243e383" class="- index/link ">
-          [d243e383]
-        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">U</opentopic-index:label><opentopic-index:index.entry value="ui" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid115750">ui</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid115750" value="ui:" class="- index/refid "/><opentopic-index:index.entry value="talk selection" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1682778940">talk selection</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1682778940" value="ui:talk selection:" class="- index/refid "><oxy:index-link href="#d243e473" class="- index/link ">
-          [d243e473]
+</troubleshooting><opentopic-index:index.groups class="- index/groups " id="d351e1877"><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">I</opentopic-index:label><opentopic-index:index.entry value="installation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1270978240">installation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1270978240" value="installation:" class="- index/refid "/><opentopic-index:index.entry value="mac" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid815451659">mac</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid815451659" value="installation:mac:" class="- index/refid "><oxy:index-link href="#d351e1671" class="- index/link ">
+          [d351e1671]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">U</opentopic-index:label><opentopic-index:index.entry value="ui" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid115750">ui</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid115750" value="ui:" class="- index/refid "/><opentopic-index:index.entry value="talk selection" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1682778940">talk selection</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1682778940" value="ui:talk selection:" class="- index/refid "><oxy:index-link href="#d351e1761" class="- index/link ">
+          [d351e1761]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.group></opentopic-index:index.groups></map>

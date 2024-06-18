@@ -4,6 +4,9 @@
     <title>安全须知</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p></p>
+        <note id="note_cxq_bln_tbc" type="warning">
+            <p>忽略说明危险！ </p>
+            <p> 为了避免本产品在使用过程中可能产生的人员伤亡、财产损失。也为了提高本产品的使用寿命和使用效率，请务必仔细阅读各项安全规范。</p>
+        </note>
     </conbody>
 </concept>
