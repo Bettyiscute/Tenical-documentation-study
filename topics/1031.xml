@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1031">
+    <title>地基建设</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>在地基选址时，请遵循下述原则： <ol id="ol_dd4_dkb_5bc">
+                <li>应充分考虑此储能系统安装地的气候环境、土壤地质条件（如应力波发射情况，地下水位）等特点； </li>
+                <li>周围环境气候干燥，通风良好，远离易燃易爆区域； </li>
+                <li>地基土壤需要有一定的紧实度，建议安装场地土壤的相对密实度≥ 98%，若土壤松散，请务必采取措施保证地基稳固。</li>
+            </ol>
+        </p>
+    </conbody>
+</concept>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Untitled">
+    <title>常规检查</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_rqn_3by_5cc">
+            <tgroup cols="4">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>检查项目</entry>
+                        <entry>检查周期</entry>
+                        <entry>检查方式</entry>
+                        <entry>检查内容</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>系统</entry>
+                        <entry>1个月</entry>
+                        <entry>目测</entry>
+                        <entry>对系统进行目视检查，确认系统未被损坏。</entry>
+                    </row>
+                    <row>
+                        <entry>探测器/传感器</entry>
+                        <entry>1个月</entry>
+                        <entry>目测</entry>
+                        <entry>确认火灾探测器就位，整洁，未被阻挡，功能正常。</entry>
+                    </row>
+                    <row>
+                        <entry>火警探测系统</entry>
+                        <entry>1个月</entry>
+                        <entry>目测</entry>
+                        <entry>确保电流识别灯功能正常，所有的警报灯关闭。</entry>
+                    </row>
+                    <row>
+                        <entry>气溶胶发生器</entry>
+                        <entry>1个月</entry>
+                        <entry>目测</entry>
+                        <entry>确保已牢固固定发生器。每个发生器盖子未被覆盖且完好无损。</entry>
+                    </row>
+                    <row>
+                        <entry>安装区域</entry>
+                        <entry>1个月</entry>
+                        <entry>目测</entry>
+                        <entry>确保防护区未发生妨碍系统正常功能的变化（增加或拆除墙壁、窗户、通风井等）。</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

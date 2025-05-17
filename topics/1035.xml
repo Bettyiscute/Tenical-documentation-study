@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="_1035">
+    <title>安装环境要求</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <example>
+            <p>储能系统箱体安装环境应该满足如下表要求：</p>
+        </example>
+        <table frame="all" rowsep="1" colsep="1" id="table_vkf_yy3_5bc">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>项目</entry>
+                        <entry>要求</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>安装地</entry>
+                        <entry>地表倾斜度≤1°，抗震能力＞8级</entry>
+                    </row>
+                    <row>
+                        <entry>环境温度</entry>
+                        <entry>-20~+50℃</entry>
+                    </row>
+                    <row>
+                        <entry>相对湿度</entry>
+                        <entry>≤ 95%, 无凝露</entry>
+                    </row>
+                    <row>
+                        <entry>海拔高度</entry>
+                        <entry>≤2000 m</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

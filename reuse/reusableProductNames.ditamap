@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>Reusable Product Names</title>
- <keydef keys="product">
+ <title>Reusable Product Names and data</title>
+ <keydef keys="product1">
   <topicmeta>
    <keywords>
     <keyword>60KWh</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ <keydef keys="diamention1">
+  <topicmeta>
+   <keywords>
+    <keyword>1800*1150*1800</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ <keydef keys="weight1">
+  <topicmeta>
+   <keywords>
+    <keyword>1400</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ <keydef keys="product2">
+  <topicmeta>
+   <keywords>
+    <keyword>120KWh</keyword>
    </keywords>
   </topicmeta>
  </keydef>

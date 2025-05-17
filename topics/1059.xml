@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="空调系统维护">
+    <title>空调系统维护</title>
+    <shortdesc>空调系统的维护信息如下表所示：</shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_ojt_tfy_xbc">
+            <tgroup cols="5">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>维护项目</entry>
+                        <entry>维护标准</entry>
+                        <entry>维护周期</entry>
+                        <entry>检测方式</entry>
+                        <entry>异常处理方式</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>接线</entry>
+                        <entry>目视检查是否有松脱</entry>
+                        <entry>6个月</entry>
+                        <entry>目测</entry>
+                        <entry>断电 10 分钟后用螺丝刀对松动线缆进行紧固。</entry>
+                    </row>
+                    <row>
+                        <entry>风扇异常</entry>
+                        <entry>风机无灰尘，风口处无异物堵塞</entry>
+                        <entry>6个月</entry>
+                        <entry>目测</entry>
+                        <entry>断电 10 分钟后使用毛刷清理干净风机的灰尘，清理风口处的异物。</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>风机扇叶无破损，转动风机顺畅无异响</entry>
+                        <entry>6个月</entry>
+                        <entry>目测</entry>
+                        <entry>断电 10 分钟后对风机进行紧固，检查是否有内部线缆等干涉风机转动，若风机故障，请进行更换。</entry>
+                    </row>
+                    <row>
+                        <entry>冷凝器清洁</entry>
+                        <entry>冷凝器无灰尘和异物堵塞</entry>
+                        <entry>6个月</entry>
+                        <entry>目测</entry>
+                        <entry>断电 10 分钟后使用压缩空气或配备刷头的吸尘器对冷凝器进行清理。</entry>
+                    </row>
+                    <row>
+                        <entry>维护空开工作正常</entry>
+                        <entry>电路异常（如短路） 时自动离合</entry>
+                        <entry>6个月</entry>
+                        <entry>目测</entry>
+                        <entry>断电 10 分钟后更换维护空开。维护空开位于电控盒内。</entry>
+                    </row>
+                    <row>
+                        <entry>空调外观</entry>
+                        <entry>机组清洁无尘、无污垢</entry>
+                        <entry>6个月</entry>
+                        <entry>目测</entry>
+                        <entry>断电10分钟后使用刷子或棉布清除机组灰尘、污垢。</entry>
+                    </row>
+                    <row>
+                        <entry>过滤网清洁</entry>
+                        <entry>过滤网无灰尘和异物堵塞</entry>
+                        <entry>6个月</entry>
+                        <entry>目测</entry>
+                        <entry>断电 10 分钟后，将前面板拆下，取出过滤网后使用压缩空气或配备刷头的吸尘器对过滤网进行清理。</entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c5">
+                            <note conref="../reuse/common_warning.dita#common_warnings/tip_suggestion" id="note_oqp_ssx_5cc" type="tip"/>
+                        </entry>
+                    </row>
+                    <row>
+                        
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

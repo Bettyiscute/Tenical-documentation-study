@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="_1050">
+    <title>控制面板</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <example>
+            <fig id="fig_kvj_b3j_5bc">
+                <image href="../images/%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF.png"
+                    id="image_onh_c3j_5bc"/>
+            </fig>
+        </example>
+        <table frame="all" rowsep="1" colsep="1" id="table_zb3_d3j_5bc">
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>序号</entry>
+                        <entry>名称</entry>
+                        <entry>功能</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>1</entry>
+                        <entry>输入指示灯</entry>
+                        <entry>输入指示为绿灯： <ol id="ol_bwv_lkj_5bc">
+                                <li> 灯亮：代表UPS输入电压正常； </li>
+                                <li> 闪烁：代表输入异常。 </li>
+                            </ol></entry>
+                    </row>
+                    <row>
+                        <entry>2</entry>
+                        <entry>电池指示灯</entry>
+                        <entry>电池指示灯为双色灯： <ol id="ol_g1p_nkj_5bc">
+                                <li> 绿灯：代表电池正常；</li>
+                                <li> 黄灯：代表电池异常或者电池低电压告警。</li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>3</entry>
+                        <entry>开机键/测试键/蜂鸣器关闭键</entry>
+                        <entry>
+                            <ol id="ol_ssc_pkj_5bc">
+                                <li>开机键：按此键3~5秒听到蜂鸣器哔一声后放开可启动UPS; </li>
+                                <li>测试键：在在线模式下，按此键3秒可做10秒电池放电测试；</li>
+                                <li> 蜂鸣器关闭键：在蜂鸣器鸣叫的情况下，按此键可以关闭蜂鸣器。 </li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>4</entry>
+                        <entry>旁路指示灯</entry>
+                        <entry>旁路指示灯为黄灯：灯亮代表UPS由旁路供电。</entry>
+                    </row>
+                    <row>
+                        <entry>5</entry>
+                        <entry>逆变指示灯</entry>
+                        <entry>逆变指示灯为绿色：<ol id="ol_f5y_skj_5bc">
+                                <li> 灯亮：代表UPS逆变器状态正常；</li>
+                                <li> 闪烁：代表UPS处于开机检测、电池放电测试或DC Bus放电状态。 </li>
+                            </ol></entry>
+                    </row>
+                    <row>
+                        <entry>6</entry>
+                        <entry>异常指示灯</entry>
+                        <entry>异常指示灯为双色灯 <ol id="ol_jb5_5kj_5bc">
+                                <li>红灯：代表UPS内部异常；</li>
+                                <li>黄灯：代表其他警告。 </li>
+                            </ol></entry>
+                    </row>
+                    <row>
+                        <entry>7</entry>
+                        <entry>负载容量指示灯/电池剩余容量指示灯</entry>
+                        <entry>
+                            <ol id="ol_otp_wkj_5bc">
+                                <li>在在线模式下，指示灯亮代表已连接负载的百分比容量； </li>
+                                <li>在电池模式下，指示灯亮代表当前电池剩余百分比容量。 </li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>8</entry>
+                        <entry>关机键</entry>
+                        <entry>在UPS开机状态下，按此键3秒听到蜂鸣器哔一声后放开可关闭UPS。</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

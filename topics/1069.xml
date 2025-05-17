@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="_1069">
+    <title>制冷系统故障</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_ehr_wfy_5cc">
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>故障现象</entry>
+                        <entry>可能原因</entry>
+                        <entry>检查和维修</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>压缩机不启动</entry>
+                        <entry>
+                            <p>未开电源（待机） </p>
+                            <p>电路连接松动 </p>
+                            <p>压缩机电机烧坏 </p>
+                        </entry>
+                        <entry>
+                            <p>检查主电源开关，并检查操作显示界面，是否已经开机。 </p>
+                            <p>紧固电路接头。</p>
+                            <p> 检查电机，如发现缺陷，立即更换。 </p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="3">压缩机不工作</entry>
+                        <entry>无冷却要求</entry>
+                        <entry>检查柜内温度显示及操作界面中压缩机的输出状态。</entry>
+                    </row>
+                    <row>
+                        <entry>停机延时</entry>
+                        <entry>压缩机在正常状态下具有最短停机时间，如果温度在此期间内温度重新升高到开启点，压缩机仍然会延时开启。</entry>
+                    </row>
+                    <row>
+                        <entry>压缩机内置温度保护</entry>
+                        <entry>检查继电器触点是否有220 V交流电。</entry>
+                    </row>
+                    <row>
+                        <entry>高压开关断开</entry>
+                        <entry>参考排气压力过高。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="1">排气压力高</entry>
+                        <entry>冷凝器脏堵</entry>
+                        <entry>清洁冷凝器。</entry>
+                    </row>
+                    <row>
+                        <entry>冷凝器风扇不运转</entry>
+                        <entry>检查风扇故障操作步骤。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="3">压缩机噪音过大</entry>
+                        <entry>因制冷剂回涌在压缩机</entry>
+                        <entry>检查吸气过热。</entry>
+                    </row>
+                    <row>
+                        <entry>因润滑油损失导致轴承磨损</entry>
+                        <entry>更换压缩机。</entry>
+                    </row>
+                    <row>
+                        <entry>压缩机或管道支撑松动</entry>
+                        <entry>紧固固定夹。</entry>
+                    </row>
+                    <row>
+                        <entry>连接杆，阀门或其它转动齿轮断裂</entry>
+                        <entry>更换压缩机。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="1">压缩机间歇地循环运转</entry>
+                        <entry>传感器故障</entry>
+                        <entry>检查显示是否有传感器故障报警。</entry>
+                    </row>
+                    <row>
+                        <entry>系统内制冷剂不足</entry>
+                        <entry>检查是否有泄漏，修理泄漏处或添加制冷剂。</entry>
+                    </row>
+                    <row>
+                        <entry>压缩机保护器跳停或循环工作</entry>
+                        <entry>排气压力过高</entry>
+                        <entry>检查冷凝器滤网脏堵情况及冷凝器风扇或风扇电机有无被堵塞。</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="开机与关机">
+    <title>开机与关机</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_igc_dlj_5bc">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>名称</entry>
+                        <entry>功能</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>开机</entry>
+                        <entry>开机步骤：<ol id="ol_c1d_flj_5bc">
+                                <li>请检查UPS输入插头与市电插座零/火/地接线序是否正确；</li>
+                                <li> 将UPS输入插头与市电插座连接； </li>
+                                <li>持续按下板键3秒，直至哔声后放开； </li>
+                                <li>UPS开始自检，待INVERTER灯亮起，UPS进入在线供电模式 </li>
+                            </ol></entry>
+                    </row>
+                    <row>
+                        <entry>关机</entry>
+                        <entry>关机步骤： <ol id="ol_ffq_hlj_5bc">
+                                <li>确认UPS负载已经全部关闭； </li>
+                                <li>秩序按下<image href="../images/off.png" id="image_rpd_4lj_5bc"
+                                    />面板键3秒，直至哔声放开；</li>
+                                <li> 拔掉UPS与市电连线。 </li>
+                            </ol></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

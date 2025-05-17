@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="common_warnings">
+    <title>Common Warnings</title>
+    <body>
+        <note id="danger_installation" type="danger">
+            <p>重伤或死亡风险！ </p>
+            <p>设备安装过程中不遵守手册中的安全规范或非专业人员对本设备进行安装，将可能造成严重的人身伤害或死亡。 只有经过培训的专业人员才可对本设备进行操作。 </p>
+        </note>
+        <note id="danger_lifting" type="danger">
+            <p>重伤或死亡风险！</p>
+            <p> 在起吊过程中，不按照吊车的安全操作规程进行操作可能导致重伤或死亡。 </p>
+            <p> 操作区域10米范围内严禁站人，尤其是起吊臂下及吊起或移动的机器下方严禁站人。</p>
+            <p> 如遇恶劣天气条件，如大雨、大雾、强风等，应停止起吊。</p>
+        </note>
+        <note id="warning_readsafetyrules" type="warning">
+            <p>忽略说明危险！</p>
+            <p>为了避免本产品在使用过程中可能产生的人员伤亡、财产损失。也为了提高本产品的使用寿命和使用效率，请务必仔细阅读各项安全规范。</p>
+        </note>
+        <note id="warning_storage" type="warning">
+            <p>系统损坏风险！</p>
+            <p>在储能系统的储存过程中，对于因用户不遵守本手册规定的存储方法和要求而造成系统的损坏，首帆动力科技股份有限公司不承担任何责任。</p>
+        </note>
+        <note id="electroshock" type="warning">
+            <p>触电风险！ </p>
+            <p>接线不正确可能导致死亡或严重受伤。 </p>
+            <p>所有电气连接必须在明确指导下进行。 </p>
+            <p>必须使用带有绝缘防护层的工具。</p>
+        </note>
+        <note id="warning_training" type="warning">
+            <p>人员受伤风险！</p>
+            <p> 所有可能参与检查、测试、维护或操作热气溶胶发生器系统的人员，都应接受全面培训，并针对其预期履行的职责进行持续全面培训。 </p>
+            <p>在安装、维修、保养、测试和管理热气溶胶发生器系统时，应遵守安全程序。遵守当地和国家的检查和维护要求。</p>
+            <p>在热气溶胶消防系统防护封闭区域工作的人员应接受有关药剂安全培训。 </p>
+        </note>
+        <note id="tip_data" type="tip">
+            <p>在运输与装卸过程中请时刻牢记储能系统的机械参数： </p> 储能系统：尺寸（宽×深×高）<ph>1800*1150*1800
+                mm</ph>，重量约<ph>1400kg</ph>。 </note>
+        <note id="tip_maintenance" type="tip">储能系统久放不用，会对电池造成不可逆的损伤，请务必进行定期维护。</note>
+        <note type="tip" id="tip_checkbeforemaintenance">在进行电池维护操作前须检查确保环境安全、系统安全、无报警、无故障。</note>
+        <note type="tip" id="tip_suggestion">以上维护周期仅为建议值，可根据实际规划进行调整。</note>
+        <note id="tip_leak" type="tip"
+            >若热气溶胶系统导致药剂从防护封闭区渗漏，应立即密封渗漏处。采用的密封方法，其结果应达到恢复防护区域的最初阻火等级。</note>
+        <note id="tip_fire" type="tip">如果因充、放电异常引起的火灾，务必第一时间关闭电源，再执行灭火动作。</note>
+        <simpletable frame="all" relcolwidth="1* 1*" id="warning_type">
+            <strow>
+                <stentry><image href="../images/symbol%205.png" id="image_slg_cmn_tbc"/>危险</stentry>
+                <stentry>“危险”表示有高度潜在危险，如果未能避免将会导致人员死亡或严重伤害。</stentry>
+            </strow>
+            <strow>
+                <stentry><image href="../images/symbol%205.png" id="image_ngf_dmn_tbc"/>警告</stentry>
+                <stentry>“警告”表示有中度潜在危险，如果未能避免可能导致人员死亡或严重伤害。</stentry>
+            </strow>
+            <strow>
+                <stentry><image href="../images/symbol%205.png" id="image_y2w_dmn_tbc"/>小心</stentry>
+                <stentry>“小心”表示有低度潜在危险，如果未能避免可能导致人员中度或轻度伤害。</stentry>
+            </strow>
+        </simpletable>
+        <note id="tip_type" type="tip">“注意”表示有潜在风险，如果未能避免可能导致设备无法正常运行或造成财产损失。</note>
+    </body>
+</topic>

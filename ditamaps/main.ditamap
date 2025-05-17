@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>产品用户手册</title>
+ <topicref href="chapter1.ditamap" format="ditamap"/>
+ <topicref href="chapter2.ditamap" format="ditamap"/>
+ <topicref href="chapter3.ditamap" format="ditamap"/>
+ <topicref href="chapter4.ditamap" format="ditamap"/>
+ <topicref href="chapter5.ditamap" format="ditamap"/>
+ <topicref href="chapter6.ditamap" format="ditamap"/>
+ <topicref href="chapter7.ditamap" format="ditamap"/>
+ <topicref href="chapter8.ditamap" format="ditamap"/>
+ <topicref href="chapter9.ditamap" format="ditamap"/>
+ <topicref href="../topics/1075.xml"/>
+ <topicref href="../topics/1076.xml"/>
+</map>

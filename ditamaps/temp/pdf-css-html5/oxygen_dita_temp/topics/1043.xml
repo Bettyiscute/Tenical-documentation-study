@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Betty_VMware\Documents\GitHub\Tenical-documentation-study\ditamaps\temp\pdf-css-html5\oxygen_dita_temp\topics?><?workdir-uri file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/temp/pdf-css-html5/oxygen_dita_temp/topics/?><?path2project ..\pdf-css-html5\?><?path2project-uri ../pdf-css-html5/?><?path2rootmap-uri ../ditamaps/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="_1043" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="concept:1;3:21" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="title:1;4:12">交流线缆接线</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="shortdesc:1;5:16"/>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="p:1;7:12">交流线缆的接口位置和大小如图8所示：</p>
+        <fig id="fig_mr5_lcj_5bc" class="- topic/fig " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="fig:1;8:35">
+            <title class="- topic/title " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="title:2;9:20">储能系统交流线缆接口示意图</title>
+            <image id="image_nr5_lcj_5bc" placement="inline" class="- topic/image " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="image:1;10:44"/>
+        </fig>
+        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_hs1_ncj_5bc" class="- topic/simpletable " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="simpletable:1;12:83">
+            <strow class="- topic/strow " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="strow:1;13:20">
+                <stentry class="- topic/stentry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="stentry:1;14:26" dita-ot:x="1" dita-ot:y="1">1. 接地接口</stentry>
+                <stentry class="- topic/stentry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="stentry:2;15:26" dita-ot:x="2" dita-ot:y="1">3. 零线接口</stentry>
+            </strow>
+            <strow class="- topic/strow " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="strow:2;17:20">
+                <stentry class="- topic/stentry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="stentry:3;18:26" dita-ot:x="1" dita-ot:y="2">2. 火线接口</stentry>
+                <stentry class="- topic/stentry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="stentry:4;19:27" dita-ot:x="2" dita-ot:y="2"/>
+            </strow>
+        </simpletable>
+        <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="p:2;22:12">线缆与铜排连接规范如图9所示：</p>
+        <fig id="fig_ywh_rcj_5bc" class="- topic/fig " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="fig:2;23:35">
+            <title class="- topic/title " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="title:3;24:20">线缆与铜排连接规范图</title>
+            <image href="../images/线缆与铜排连接规范图.png" id="image_zwh_rcj_5bc" placement="inline" class="- topic/image " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="image:2;27:41"/>
+        </fig>
+        <table frame="all" rowsep="1" colsep="1" id="table_nhl_tcj_5bc" class="- topic/table " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="table:1;29:73">
+            <tgroup cols="3" class="- topic/tgroup " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="tgroup:1;30:30">
+                <colspec colname="col1" colnum="1" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="colspec:1;31:65"/>
+                <colspec colname="col2" colnum="2" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="colspec:2;32:65"/>
+                <colspec colname="col3" colnum="3" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="colspec:3;33:65"/>
+                <thead class="- topic/thead " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="thead:1;34:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="row:1;35:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:1;36:32" colname="col1" dita-ot:x="1" dita-ot:y="1">序号</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:2;37:32" colname="col2" dita-ot:x="2" dita-ot:y="1">描述</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:3;38:32" colname="col3" dita-ot:x="3" dita-ot:y="1">型号</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="tbody:1;41:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="row:2;42:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:4;43:32" colname="col1" dita-ot:x="1" dita-ot:y="2">1</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:5;44:32" colname="col2" dita-ot:x="2" dita-ot:y="2">铜排</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:6;45:32" colname="col3" dita-ot:x="3" dita-ot:y="2">/</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="row:3;47:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:7;48:32" colname="col1" dita-ot:x="1" dita-ot:y="3">2</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:8;49:32" colname="col2" dita-ot:x="2" dita-ot:y="3">线缆</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:9;50:32" colname="col3" dita-ot:x="3" dita-ot:y="3">2/0 AWG</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="row:4;52:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:10;53:32" colname="col1" dita-ot:x="1" dita-ot:y="4">3</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:11;54:32" colname="col2" dita-ot:x="2" dita-ot:y="4">铜接线端子</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:12;55:32" colname="col3" dita-ot:x="3" dita-ot:y="4">AWG 2/0-3/8(10.4)</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="row:5;57:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:13;58:32" colname="col1" dita-ot:x="1" dita-ot:y="5">4</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:14;59:32" colname="col2" dita-ot:x="2" dita-ot:y="5">螺栓</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:15;60:32" colname="col3" dita-ot:x="3" dita-ot:y="5">M12×30 8.8级</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="row:6;62:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:16;63:32" colname="col1" dita-ot:x="1" dita-ot:y="6">5</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:17;64:32" colname="col2" dita-ot:x="2" dita-ot:y="6">弹簧垫片</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:18;65:32" colname="col3" dita-ot:x="3" dita-ot:y="6">/</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="row:7;67:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:19;68:32" colname="col1" dita-ot:x="1" dita-ot:y="7">6</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:20;69:32" colname="col2" dita-ot:x="2" dita-ot:y="7">垫片</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:21;70:32" colname="col3" dita-ot:x="3" dita-ot:y="7">/</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="row:8;72:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:22;73:32" colname="col1" dita-ot:x="1" dita-ot:y="8">7</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:23;74:32" colname="col2" dita-ot:x="2" dita-ot:y="8">螺母</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:24;75:32" colname="col3" dita-ot:x="3" dita-ot:y="8">M12 8级</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="p:3;80:12"> 将电力线缆分别接到L1,L2,L3,N和地排上，用螺栓、弹簧垫片、垫片和螺母固定。</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_snc_bdj_5bc" class="- topic/table " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="table:2;81:73">
+            <tgroup cols="2" class="- topic/tgroup " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="tgroup:2;82:30">
+                <colspec colname="col1" colnum="1" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="colspec:4;83:65"/>
+                <colspec colname="col2" colnum="2" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="colspec:5;84:65"/>
+                <thead class="- topic/thead " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="thead:2;85:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="row:9;86:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:25;87:33" colname="col1" dita-ot:x="1" dita-ot:y="1"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:26;88:32" colname="col2" dita-ot:x="2" dita-ot:y="1">规格</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="tbody:2;91:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="row:10;92:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:27;93:32" colname="col1" dita-ot:x="1" dita-ot:y="2">扳手规格</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:28;94:32" colname="col2" dita-ot:x="2" dita-ot:y="2">17</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="row:11;96:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:29;97:32" colname="col1" dita-ot:x="1" dita-ot:y="3">拧紧力矩</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" xtrc="entry:30;98:32" colname="col2" dita-ot:x="2" dita-ot:y="3">41~51 Nm</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

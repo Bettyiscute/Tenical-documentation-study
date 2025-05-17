@@ -4,22 +4,10 @@
     <title>符号说明</title>
     <shortdesc>在本手册中，使用下列警示词和符号来识别安全信息：</shortdesc>
     <conbody>
-        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_wwc_zln_tbc">
-            <strow>
-                <stentry><image href="../images/symbol%205.png" id="image_slg_cmn_tbc"/>危险</stentry>
-                <stentry>“危险”表示有高度潜在危险，如果未能避免将会导致人员死亡或严重伤害。</stentry>
-            </strow>
-            <strow>
-                <stentry><image href="../images/symbol%205.png" id="image_ngf_dmn_tbc"/>警告</stentry>
-                <stentry>“警告”表示有中度潜在危险，如果未能避免可能导致人员死亡或严重伤害。</stentry>
-            </strow>
-            <strow>
-                <stentry><image href="../images/symbol%205.png" id="image_y2w_dmn_tbc"/>小心</stentry>
-                <stentry>“小心”表示有低度潜在危险，如果未能避免可能导致人员中度或轻度伤害。</stentry>
-            </strow>
+        <simpletable conref="../reuse/common_warning.dita#common_warnings/warning_type" frame="all"
+            relcolwidth="1* 1*" id="simpletable_ndr_4s3_5b1c">
+            <strow/>
         </simpletable>
-        <note id="note_bsx_nmn_tbc" type="tip">“注意”表示有潜在风险，如果未能避免可能导致设备无法正常运行或造成财产损失。</note>
-        
-       
+        <note conref="../reuse/common_warning.dita#common_warnings/tip_type" id="note_bsx_nmn_tbc" type="tip"/>
     </conbody>
 </concept>

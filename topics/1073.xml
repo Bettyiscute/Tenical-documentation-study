@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_1073">
+    <title>火灾</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>疏散现场人员撤离至安全区域，划出安全隔离区，根据现场情况拨打报警电话。</cmd>
+            </step>
+            <step>
+                <cmd> 在保证人身安全的情况下，有条件的进行如下操作： </cmd>
+                <substeps id="substeps_iyp_mcf_vcc">
+                    <substep>
+                        <cmd>如果线束冒烟起火，使用二氧化碳或者干粉灭火器灭火，划出安全隔离区；</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>如果不慎吸入浓烟，请尽快转移并就医。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>通知系统厂家，获取进一步的处理意见。</cmd>
+                <info>
+                    <note id="note_nrh_ngf_vcc"
+                        conref="../reuse/common_warning.dita#common_warnings/tip_fire"/>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

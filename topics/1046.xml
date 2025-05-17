@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_1046">
+    <title>上电前检查</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>检查储能系统内交流断路器是否处于断开状态； </cmd>
+            </step>
+            <step>
+                <cmd> 检查储能系统内直流隔离开关是否处于断开状态； </cmd>
+            </step>
+            <step>
+                <cmd>检查高压配电箱面板上的直流隔离开关是否处于断开状态； </cmd>
+            </step>
+            <step>
+                <cmd> 检查各个电池pack间串联线缆是否连接可靠；</cmd>
+            </step>
+            <step>
+                <cmd> 检查所有通讯和供电线缆的连接端子是否连接可靠； </cmd>
+            </step>
+            <step>
+                <cmd>检查高压配电箱面板上的通信、供电线束以及动力线缆是否连接正确；</cmd>
+            </step>
+            <step>
+                <cmd> 检查储能系统内LAN口连接是否有问题。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Betty_VMware\Documents\GitHub\Tenical-documentation-study\ditamaps\temp\pdf-css-html5\oxygen_dita_temp\topics?><?workdir-uri file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/temp/pdf-css-html5/oxygen_dita_temp/topics/?><?path2project ..\pdf-css-html5\?><?path2project-uri ../pdf-css-html5/?><?path2rootmap-uri ../ditamaps/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="_1030" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="concept:1;3:21" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="title:1;4:12">存储</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="shortdesc:1;5:16"/>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="conbody:1;6:14">
+        
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="p:1;8:16"/>
+        
+        <ol class="- topic/ol " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="ol:1;10:13">
+            <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="li:1;11:17">
+                系统储存时应放在干燥的仓库中，不得暴晒和雨淋； 
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="li:2;14:17">
+                仓库内不允许有有害气体，易燃，易爆的产品及有腐蚀性的化学物品； 
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="li:3;17:17">
+                避免机械冲击、重压和强磁场作用； 
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="li:4;20:17">
+                 避免受阳光直射，距离热源不得小于2 m； 
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="li:5;23:17">
+                距离墙壁、窗口或空气入口至少50 cm； 
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="li:6;26:17">
+                日均平均存储温度：≤ 20℃；
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="li:7;29:17">
+                短期储存温度范围（1个月内）：-20～45℃；
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="li:8;32:17">
+                 长期储存温度：-20℃～35℃； 
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="li:9;35:17">
+                储存湿度：≤ 95%，无冷凝。
+            </li>
+        </ol>
+        <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="p:2;39:12"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="b:1;39:15">在本规定条件下，建议：</b></p>
+        <ol id="ol_e5f_fh2_qbc" class="- topic/ol " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="ol:2;40:33">
+            <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="li:10;41:17">每3个月对电池进行一次放电补电，确保电池SOC一直保持在20～50% SOC范围内；</li>
+            <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1030.xml" xtrc="li:11;42:17"> 每12个月需要进行容量核对性试验和重新检验。 </li>
+        </ol>
+        <note id="note_arx_wh2_qbc" type="warning" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:4;20:51">
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:9;21:16">系统损坏风险！</p>
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:10;22:16">在储能系统的储存过程中，对于因用户不遵守本手册规定的存储方法和要求而造成系统的损坏，首帆动力科技股份有限公司不承担任何责任。</p>
+        </note>
+    </conbody>
+</concept>

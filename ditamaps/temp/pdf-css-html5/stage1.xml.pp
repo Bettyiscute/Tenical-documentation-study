@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/main.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">产品用户手册</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+ <title class="- topic/title ">产品用户手册</title>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="概述"><resourceid appid="概述" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">概述</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1003"><resourceid appid="_1003" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">主要内容</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1004"><resourceid appid="_1004" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">目标读者</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1005"><resourceid appid="_1005" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">联系我们</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="安全说明"><resourceid appid="安全说明" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">安全说明</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1007"><resourceid appid="_1007" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">符号说明</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">在本手册中，使用下列警示词和符号来识别安全信息：</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1008"><resourceid appid="_1008" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">危险警告标识</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">为了保障用户在使用本产品时的人身及财产安全，提高用户对此产品的效率，本手册中详述了相关信息，并添加相关符号以加强解释说明。 本文可能出现下列标识，所代表的含义如下： </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1009"><resourceid appid="_1009" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">安全须知</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1010"><resourceid appid="_1010" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">操作人员要求</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1011"><resourceid appid="_1011" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">静电防护</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1012"><resourceid appid="_1012" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">产品介绍</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1013"><resourceid appid="_1013" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">储能系统介绍</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1014"><resourceid appid="_1014" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">储能系统技术参数</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1015"><resourceid appid="_1015" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">储能系统结构图</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1016"><resourceid appid="_1016" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">储能系统一次图</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1017"><resourceid appid="_1017" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">吊装、运输与储存</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_17" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1018"><resourceid appid="_1018" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">吊装作业</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_18" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1019"><resourceid appid="_1019" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">吊装注意事项</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1020"><resourceid appid="_1020" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">吊装前准备</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_20" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="xml"><resourceid appid="xml" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">吊车准备</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1022"><resourceid appid="_1022" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">吊具准备</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_22" type="task"><topicmeta class="- map/topicmeta " data-topic-id="_1023"><resourceid appid="_1023" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">吊装过程</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1024"><resourceid appid="_1024" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">储能系统吊装示意图</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_24" type="task"><topicmeta class="- map/topicmeta " data-topic-id="_1025"><resourceid appid="_1025" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">叉车作业</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_25" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1026"><resourceid appid="_1026" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">运输</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_26" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1027"><resourceid appid="_1027" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">运输环境要求</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_27" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1028"><resourceid appid="_1028" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_27" class="- topic/navtitle ">储能系统出厂前准备</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_28" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1029"><resourceid appid="_1029" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_28" class="- topic/navtitle ">道路运输</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_29" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1030"><resourceid appid="_1030" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_29" class="- topic/navtitle ">存储</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_30" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1031"><resourceid appid="_1031" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_30" class="- topic/navtitle ">地基建设</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_31" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1032"><resourceid appid="_1032" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_31" class="- topic/navtitle ">设备安装</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_32" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1033"><resourceid appid="_1033" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_32" class="- topic/navtitle ">安装说明</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_33" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1034"><resourceid appid="_1034" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_33" class="- topic/navtitle ">安装前准备及结构安装</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_34" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1035"><resourceid appid="_1035" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_34" class="- topic/navtitle ">安装环境要求</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_35" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1036"><resourceid appid="_1036" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_35" class="- topic/navtitle ">结构安装</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_36" type="task"><topicmeta class="- map/topicmeta " data-topic-id="_1037"><resourceid appid="_1037" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_36" class="- topic/navtitle ">储能系统箱体固定连接</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_37" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1038"><resourceid appid="_1038" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_37" class="- topic/navtitle ">储能系统接地连接</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref></topicref><topicref class="- map/topicref " href="#unique_38" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1039"><resourceid appid="_1039" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_38" class="- topic/navtitle ">电气连接</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_39" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1040"><resourceid appid="_1040" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_39" class="- topic/navtitle ">储能系统接口位置</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_40" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1041"><resourceid appid="_1041" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_40" class="- topic/navtitle ">储能系统对外接口</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">储能系统对外的接口包含了对外通讯接口以及交流输出线缆接口，具体接线端口说明如下表所示：</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_41" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1042"><resourceid appid="_1042" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_41" class="- topic/navtitle ">储能系统电气连接</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_42" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1043"><resourceid appid="_1043" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_42" class="- topic/navtitle ">交流线缆接线</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_43" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1044"><resourceid appid="_1044" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_43" class="- topic/navtitle ">外部通讯接线</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_44" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1045"><resourceid appid="_1045" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_44" class="- topic/navtitle ">产品操作</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_45" type="task"><topicmeta class="- map/topicmeta " data-topic-id="_1046"><resourceid appid="_1046" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_45" class="- topic/navtitle ">上电前检查</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_46" type="task"><topicmeta class="- map/topicmeta " data-topic-id="_1047"><resourceid appid="_1047" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_46" class="- topic/navtitle ">储能系统上电步骤</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_47" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="ems功能说明"><resourceid appid="ems功能说明" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_47" class="- topic/navtitle ">EMS功能说明</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_48" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1049"><resourceid appid="_1049" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_48" class="- topic/navtitle ">UPS功能说明</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_49" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1050"><resourceid appid="_1050" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_49" class="- topic/navtitle ">控制面板</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_50" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="开机与关机"><resourceid appid="开机与关机" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_50" class="- topic/navtitle ">开机与关机</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_51" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1052"><resourceid appid="_1052" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_51" class="- topic/navtitle ">储能系统维护说明</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_52" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1053"><resourceid appid="_1053" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_52" class="- topic/navtitle ">系统使用要求</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_53" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1054"><resourceid appid="_1054" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_53" class="- topic/navtitle ">正常运行系统使用要求</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_54" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1055"><resourceid appid="_1055" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_54" class="- topic/navtitle ">间隔运行系统使用要求</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_55" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1056"><resourceid appid="_1056" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_55" class="- topic/navtitle ">久放不用系统使用要求</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_56" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1057"><resourceid appid="_1057" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_56" class="- topic/navtitle ">维护注意事项</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_57" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1058"><resourceid appid="_1058" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_57" class="- topic/navtitle ">电池维护</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_58" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="空调系统维护"><resourceid appid="空调系统维护" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_58" class="- topic/navtitle ">空调系统维护</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">空调系统的维护信息如下表所示：</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_59" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1060"><resourceid appid="_1060" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_59" class="- topic/navtitle ">消防系统维护</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_60" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_60" class="- topic/navtitle ">常规检查</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_61" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_61" class="- topic/navtitle ">灭火系统定期检查</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">定期对整个灭火系统进行一次全面检查。</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_62" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_62" class="- topic/navtitle ">热气溶胶发生器系统维护</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">必须由合格人员依据制造商的试验和维修程序对热气溶胶释放系统进行测试。定期对热气溶胶发生器和气溶胶电气系统进行检查：</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_63" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_63" class="- topic/navtitle ">拆除热气溶胶发生器</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_64" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_64" class="- topic/navtitle ">残留物的清除</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_65" type="task"><topicmeta class="- map/topicmeta " data-topic-id="_1065_2"><resourceid appid="_1065_2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_65" class="- topic/navtitle "/><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_66" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1066"><resourceid appid="_1066" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_66" class="- topic/navtitle ">废弃物与环境</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_67" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1067"><resourceid appid="_1067" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_67" class="- topic/navtitle ">常见异常问题诊断</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_68" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1068"><resourceid appid="_1068" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_68" class="- topic/navtitle ">系统告警处理对策</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_69" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1069"><resourceid appid="_1069" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_69" class="- topic/navtitle ">制冷系统故障</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_70" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1070"><resourceid appid="_1070" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_70" class="- topic/navtitle ">控制器故障</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_71" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1071"><resourceid appid="_1071" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_71" class="- topic/navtitle ">UPS故障</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_72" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1072"><resourceid appid="_1072" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_72" class="- topic/navtitle ">紧急事故处理方法</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_73" type="task"><topicmeta class="- map/topicmeta " data-topic-id="_1073"><resourceid appid="_1073" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_73" class="- topic/navtitle ">火灾</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_74" type="task"><topicmeta class="- map/topicmeta " data-topic-id="_1074"><resourceid appid="_1074" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_74" class="- topic/navtitle ">水灾</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_75" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1075"><resourceid appid="_1075" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_75" class="- topic/navtitle ">巡检</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_76" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1076"><resourceid appid="_1076" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_76" class="- topic/navtitle ">缩略语释义</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="概述" oid="概述" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">概述</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody "/>
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="_1003" oid="_1003" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">主要内容</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">本手册主要介绍了60
+            kWh标准储能系统的产品、运输、安装、操作、维护及故障排除等内容。在使用本产品之前，请务必仔细阅读本手册，并根据本手册描述的方法操作储能系统，否则可能会造成设备损坏或者人身伤害。</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="_1004" oid="_1004" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">目标读者</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <ol class="- topic/ol " id="unique_3_Connect_42_ol_vmh_rqn_tbc" nd:nd-id="ol_vmh_rqn_tbc">
+            <li class="- topic/li ">本手册适用于对此产品有关的运输、安装及其他操作的人员，参与的人员必须满足以下要求；  </li>
+            <li class="- topic/li ">熟练掌握电力、电子、机械工程等专业知识，能熟练掌握、理解电气原理图、结构图纸等； </li>
+            <li class="- topic/li ">了解储能行业的产品、基本知识、工作原理、控制逻辑； </li>
+            <li class="- topic/li ">具有此产品使用地区法律认可的专业电工施工证书及资质，熟悉此地区的相关法律法规； </li>
+            <li class="- topic/li ">拥有处理紧急突发事件的能力，根据此产品使用地区法律法规处理相关事件； </li>
+            <li class="- topic/li ">熟练掌握本手册条款内容，拥有专业的职业技能及高度的责任心。 </li>
+        </ol>
+        <p class="- topic/p ">手册包含了重要信息，在对系统进行操作和维护前请仔细阅读手册。请将本手册以及产品组件中的其他资料放置在一起，确保操作者和维护人员能及时查阅。</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="_1005" oid="_1005" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">联系我们</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">官网：<xref class="- topic/xref " format="html" href="https://www.mpmc-china.com/" scope="external"/></p>
+        <p class="- topic/p ">邮箱：sales@mpmc-china.com</p>
+        <p class="- topic/p ">电话：+86-21 60970158 </p>
+        <p class="- topic/p ">手机号码：+86-15000854420 </p>
+        <p class="- topic/p ">地址：上海市浦东新区金海路2449弄宝龙城市广场1号楼3层</p>
+    </conbody>
+</concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="安全说明" oid="安全说明" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">安全说明</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="_1007" oid="_1007" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">符号说明</ph></title>
+    <shortdesc class="- topic/shortdesc ">在本手册中，使用下列警示词和符号来识别安全信息：</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <simpletable class="- topic/simpletable " frame="all" id="unique_6_Connect_42_simpletable_ndr_4s3_5b1c" nd:nd-id="simpletable_ndr_4s3_5b1c" relcolwidth="1* 1*">
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1"><image class="- topic/image " dita-ot:image-width="33" dita-ot:image-height="29" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%205.png" id="unique_6_Connect_42_image_slg_cmn_tbc" nd:nd-id="image_slg_cmn_tbc" placement="inline"/>危险</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">“危险”表示有高度潜在危险，如果未能避免将会导致人员死亡或严重伤害。</stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2"><image class="- topic/image " dita-ot:image-width="33" dita-ot:image-height="29" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%205.png" id="unique_6_Connect_42_image_ngf_dmn_tbc" nd:nd-id="image_ngf_dmn_tbc" placement="inline"/>警告</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">“警告”表示有中度潜在危险，如果未能避免可能导致人员死亡或严重伤害。</stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3"><image class="- topic/image " dita-ot:image-width="33" dita-ot:image-height="29" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%205.png" id="unique_6_Connect_42_image_y2w_dmn_tbc" nd:nd-id="image_y2w_dmn_tbc" placement="inline"/>小心</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">“小心”表示有低度潜在危险，如果未能避免可能导致人员中度或轻度伤害。</stentry></strow>
+        </simpletable>
+        <note class="- topic/note " id="unique_6_Connect_42_note_bsx_nmn_tbc" nd:nd-id="note_bsx_nmn_tbc" type="tip">“注意”表示有潜在风险，如果未能避免可能导致设备无法正常运行或造成财产损失。</note>
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="_1008" oid="_1008" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">危险警告标识</ph></title>
+    <shortdesc class="- topic/shortdesc ">为了保障用户在使用本产品时的人身及财产安全，提高用户对此产品的效率，本手册中详述了相关信息，并添加相关符号以加强解释说明。 本文可能出现下列标识，所代表的含义如下： </shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_7_Connect_42_table_mcj_lln_tbc" nd:nd-id="table_mcj_lln_tbc" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "/></title>
+            <tgroup align="center" class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1008.xml" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;11:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1008.xml" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">符号</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">说明</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2"><image class="- topic/image " dita-ot:image-width="140" dita-ot:image-height="124" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%201.png" id="unique_7_Connect_42_image_zsz_qln_tbc" nd:nd-id="image_zsz_qln_tbc" placement="inline"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">在本手册中，使用该一般危险标志来识别重要安全信息。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3"><image class="- topic/image " dita-ot:image-width="141" dita-ot:image-height="126" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%202.png" id="unique_7_Connect_42_image_oyn_rln_tbc" nd:nd-id="image_oyn_rln_tbc" placement="inline"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">此标识意思为产品内部含有高压危险，触摸可能会导致电击危险。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4"><image class="- topic/image " dita-ot:image-width="132" dita-ot:image-height="126" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%203.png" id="unique_7_Connect_42_image_d1y_rln_tbc" nd:nd-id="image_d1y_rln_tbc" placement="inline"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">此标识意思为产品此处为保护接地（PE），需要连接接地线，要求链接牢固可靠，以保证操作人员安全。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5"><image class="- topic/image " dita-ot:image-width="128" dita-ot:image-height="130" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%204.png" id="unique_7_Connect_42_image_df4_sln_tbc" nd:nd-id="image_df4_sln_tbc" placement="inline"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">此标识意思为非专业人士禁止操作，否则可能会导致人身伤害。</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="_1009" oid="_1009" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">安全须知</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <note class="- topic/note " id="unique_8_Connect_42_note_cxq_bln_tbc" nd:nd-id="note_cxq_bln_tbc" type="warning">
+            <p class="- topic/p ">忽略说明危险！</p>
+            <p class="- topic/p ">为了避免本产品在使用过程中可能产生的人员伤亡、财产损失。也为了提高本产品的使用寿命和使用效率，请务必仔细阅读各项安全规范。</p>
+        </note>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="_1010" oid="_1010" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">操作人员要求</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_9_Connect_42_ol_pp1_xkn_tbc" nd:nd-id="ol_pp1_xkn_tbc">
+                <li class="- topic/li ">具有专业资格的电工人员才能对本产品进行操作、维护，并需配套完整的专业电工设备。  </li>
+                <li class="- topic/li ">能对分配的任务进行评估，识别可能会出现的危险事件； </li>
+                <li class="- topic/li ">能第一时间对受伤的人员进行救援； </li>
+                <li class="- topic/li ">了解产品的相关维护标准； </li>
+                <li class="- topic/li ">遵守当地法律法规、条例和标准。</li>
+            </ol>
+        </p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="_1011" oid="_1011" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">静电防护</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">静电的积累可能会引起电击、火灾、爆炸、电子器件失效和损坏等。储能系统内有电路板或其它静电敏感元器件，为了防止或减小静电的危害，必须做好静电防护，进而抑制静电的产生，加速静电的泄漏，进行静电中和。其防范方式包括但不限于：在更换元器件的过程中，应将所有还没有安装的设备器件保留在带有防静电屏蔽功能的包装袋中，将暂时拆下来的设备器件放置在具有防静电功能的泡沫塑料垫上；请勿触摸焊接点、引脚或裸露的电路。 </p>
+    </conbody>
+</concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="_1012" oid="_1012" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">产品介绍</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="_1013" oid="_1013" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统介绍</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">储能系统是由PACK、高压箱、SCU、热管理系统、消防系统、电气系统、PCS、UPS、浪涌保护器、断路器、柜体等组成。</p>
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="_1014" oid="_1014" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统技术参数</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_13_Connect_42_table_lhw_vjn_tbc" nd:nd-id="table_lhw_vjn_tbc" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "/></title>
+            <tgroup align="center" class="- topic/tgroup " cols="3">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1014.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;11:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1014.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;12:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1014.xml" style="width:33.3333%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">序号</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">项目</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">参数</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">1</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">额定能量 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">61.44 KWh</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">2</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">额定功率  </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">30 KW </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">3</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">电池标称容量 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">280 Ah </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">4</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">电池成组方式 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">1P192S </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">5</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">标称电压 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6">614.4 V </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">6</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">电池电压范围 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7">537.6~691.2 V </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">7</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">PACK数量 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8">12 pcs </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9">8</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">高压箱数量 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9">1 pc </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10">9</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10">消防介质 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="10">气溶胶 </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11">10</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11">交流侧电压 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="11">400 VAC </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="12">11</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="12">电网电压 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="12">340V~440 VAC </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="13">12</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="13">额定电流 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="13">90 A </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="14">13</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="14">额定频率 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="14">50 Hz </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="15">14</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="15">频率范围 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="15">45~55 Hz </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="16">15</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="16">工作温度 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="16">-20℃~+50℃（＞40℃降功率）</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="17">16</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="17">允许湿度范围 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="17"> ≤95% RH，无凝露 </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="18">17</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="18">最高工作海拔 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="18">≤ 3000m </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="19">18</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="19">冷却方式 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="19">智能强制风冷  </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="20">19</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="20">噪声等级 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="20">＜80dB(A) @1m</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="21">20</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="21">防护等级 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="21"> IP54 </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="22">21</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="22">防腐等级 </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="22">C3 </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="23">22</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="23">尺寸(宽×深×高) </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="23">1800*1150*1800 </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="24">23</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="24">整机重量</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="24">1400kg±20 kg</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="_1015" oid="_1015" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统结构图</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+        <fig class="- topic/fig " id="unique_14_Connect_42_fig_mqx_whn_tbc" nd:nd-id="fig_mqx_whn_tbc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统图</ph></title><image class="- topic/image " dita-ot:image-width="1306" dita-ot:image-height="1376" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/储能系统图.png" id="unique_14_Connect_42_image_nqx_whn_tbc" nd:nd-id="image_nqx_whn_tbc" placement="inline"/><simpletable class="- topic/simpletable " frame="none" id="unique_14_Connect_42_simpletable_btn_ljn_tbc" nd:nd-id="simpletable_btn_ljn_tbc" relcolwidth="1* 1*">
+                <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">1. 急停按钮</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">4. 插槽</stentry></strow>
+                <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">2. 指示灯</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">5. 快插</stentry></strow>
+                <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3">3. EMS</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3"/></strow>
+            </simpletable></fig>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="_1016" oid="_1016" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统一次图</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <fig class="- topic/fig " id="unique_15_Connect_42_fig_dvt_rhn_tbc" nd:nd-id="fig_dvt_rhn_tbc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统一次图</ph></title><image class="- topic/image " dita-ot:image-width="478" dita-ot:image-height="293" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/储能系统一次图.png" id="unique_15_Connect_42_image_fvt_rhn_tbc" nd:nd-id="image_fvt_rhn_tbc" placement="inline"/></fig>
+        </p>
+    </conbody>
+</concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="_1017" oid="_1017" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊装、运输与储存</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="_1018" oid="_1018" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊装作业</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="_1019" oid="_1019" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊装注意事项</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <note class="- topic/note " id="unique_18_Connect_42_note_xvh_jhn_tbc" nd:nd-id="note_xvh_jhn_tbc" type="danger">
+            <p class="- topic/p ">重伤或死亡风险！</p>
+            <p class="- topic/p "> 在起吊过程中，不按照吊车的安全操作规程进行操作可能导致重伤或死亡。 </p>
+            <p class="- topic/p "> 操作区域10米范围内严禁站人，尤其是起吊臂下及吊起或移动的机器下方严禁站人。</p>
+            <p class="- topic/p "> 如遇恶劣天气条件，如大雨、大雾、强风等，应停止起吊。</p>
+        </note>
+        </p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="_1020" oid="_1020" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊装前准备</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="xml" oid="xml" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊车准备</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">根据产品整机重量选择合适的吊车（整机重量参考<xref class="- topic/xref " href="#unique_13" type="reference"><?ditaot usertext?>储能系统技术参数</xref>），推荐型号：8吨～12吨。</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="_1022" oid="_1022" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊具准备</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">准备好合适的钢丝绳、挂钩、吊环等。</p>
+    </conbody>
+</concept></concept><task class="- topic/topic task/task " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="_1023" oid="_1023" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊装过程</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">使用合适的吊车进行装卸；吊运时，可以使用尼龙吊绳（带）或钢丝绳； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 垂直起吊，不得出现在地面拖曳现象，不要在任何表面上拖推； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">起吊300 mm后暂停起吊，检查吊具的连接情况，在确定连接牢固后，继续起吊； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">缓慢起吊设备，注意观察箱体的平衡状态，移动速度不可过快； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">整个起吊过程中，储能系统及吊车下方严禁站人。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="_1024" oid="_1024" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统吊装示意图</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <fig class="- topic/fig " id="unique_23_Connect_42_fig_mkn_dgn_tbc" nd:nd-id="fig_mkn_dgn_tbc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">吊装示意图</ph></title><image class="- topic/image " dita-ot:image-width="455" dita-ot:image-height="693" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/吊装示意图.png" id="unique_23_Connect_42_image_okn_dgn_tbc" nd:nd-id="image_okn_dgn_tbc" placement="inline"/></fig>
+        </p>
+    </conbody>
+</concept></concept><task class="- topic/topic task/task " id="unique_24" topicrefclass="- map/topicref " nd:nd-id="_1025" oid="_1025" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">叉车作业</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">在使用叉车进行叉举作业时，需满足下述条件：</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">所用叉车应具备足够的承载能力（推荐至少8吨）。 </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 所用叉车的货叉应该插入储能系统的全部深度，即长度应至少为1300mm。 </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">在叉起，放下及移动过程中，要保证缓慢、平稳，必须进行试叉。</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_24_Connect_42_fig_kcq_x2n_tbc" nd:nd-id="fig_kcq_x2n_tbc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">插槽位置示意图</ph></title><image class="- topic/image " dita-ot:image-width="324" dita-ot:image-height="200" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/插槽位置示意图.png" id="unique_24_Connect_42_image_lcq_x2n_tbc" nd:nd-id="image_lcq_x2n_tbc" placement="inline"/></fig>
+                    <simpletable class="- topic/simpletable " frame="all" id="unique_24_Connect_42_simpletable_brl_1fn_tbc" nd:nd-id="simpletable_brl_1fn_tbc" relcolwidth="1*">
+                        <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">
+                                <ol class="- topic/ol " id="unique_24_Connect_42_ol_bwc_2fn_tbc" nd:nd-id="ol_bwc_2fn_tbc">
+                                    <li class="- topic/li ">插槽</li>
+                                </ol>
+                                
+                            </stentry></strow>
+                    </simpletable>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_25" topicrefclass="- map/topicref " nd:nd-id="_1026" oid="_1026" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">运输</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">储能系统适用于陆运和海运，在运输过程中应有遮蔽和防晒，文明装卸，运输中应避免雨、雪的直接淋袭和机械撞击。</p>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_26" topicrefclass="- map/topicref " nd:nd-id="_1027" oid="_1027" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">运输环境要求</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">根据电池特性，储能系统在存储运输过程应满足以下要求，以最大程度保护电池的性能：  </p>
+        <ol class="- topic/ol " id="unique_26_Connect_42_ol_ukn_nj2_qbc" nd:nd-id="ol_ukn_nj2_qbc">
+            <li class="- topic/li ">日均平均存储温度：≤ 20℃； </li>
+            <li class="- topic/li ">湿度：≤ 95%，无冷凝。</li>
+        </ol>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_27" topicrefclass="- map/topicref " nd:nd-id="_1028" oid="_1028" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统出厂前准备</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        
+            <p class="- topic/p "/>
+        
+        <ol class="- topic/ol ">
+            <li class="- topic/li ">设备出厂前需要用珍珠棉和PE膜包装防止发生碰撞； </li>
+            <li class="- topic/li ">海运时，需满足MSDS认证，并贴9类危险品标识。 </li>
+        </ol>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_28" topicrefclass="- map/topicref " nd:nd-id="_1029" oid="_1029" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">道路运输</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">                           
+        <ol class="- topic/ol ">
+            <li class="- topic/li ">遵守交通规则；   </li>
+            <li class="- topic/li ">因为储能系统内部装有电池，禁止超速行驶。在平坦柏油路面，高速公路限速70 km/h，弯道处减速慢行，限速50 km/h；城镇道路限速40
+                km/h，避免紧急起动，避免紧急刹车； </li>
+            <li class="- topic/li ">在非平坦的柏油路等任何路面，请特别小心驾驶，并且限速50k m/h； </li>
+            <li class="- topic/li ">禁止在恶劣颠簸路面运输； </li>
+            <li class="- topic/li ">货物捆绑牢固；出发前，检查一次捆绑情况；在运输途中，每隔4个小时检查一次捆绑情况。</li>
+        </ol>
+        <note class="- topic/note " id="unique_28_Connect_42_note_rvz_332_qbc" nd:nd-id="note_rvz_332_qbc" type="tip">
+            <p class="- topic/p ">在运输与装卸过程中请时刻牢记储能系统的机械参数： </p> 储能系统：尺寸（宽×深×高）<ph class="- topic/ph ">1800*1150*1800
+                mm</ph>，重量约<ph class="- topic/ph ">1400kg</ph>。 </note>
+        <p class="- topic/p "> </p>
+    </conbody>
+</concept></concept><concept class="- topic/topic concept/concept " id="unique_29" topicrefclass="- map/topicref " nd:nd-id="_1030" oid="_1030" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">存储</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        
+            <p class="- topic/p "/>
+        
+        <ol class="- topic/ol ">
+            <li class="- topic/li ">
+                系统储存时应放在干燥的仓库中，不得暴晒和雨淋； 
+            </li>
+            <li class="- topic/li ">
+                仓库内不允许有有害气体，易燃，易爆的产品及有腐蚀性的化学物品； 
+            </li>
+            <li class="- topic/li ">
+                避免机械冲击、重压和强磁场作用； 
+            </li>
+            <li class="- topic/li ">
+                 避免受阳光直射，距离热源不得小于2 m； 
+            </li>
+            <li class="- topic/li ">
+                距离墙壁、窗口或空气入口至少50 cm； 
+            </li>
+            <li class="- topic/li ">
+                日均平均存储温度：≤ 20℃；
+            </li>
+            <li class="- topic/li ">
+                短期储存温度范围（1个月内）：-20～45℃；
+            </li>
+            <li class="- topic/li ">
+                 长期储存温度：-20℃～35℃； 
+            </li>
+            <li class="- topic/li ">
+                储存湿度：≤ 95%，无冷凝。
+            </li>
+        </ol>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">在本规定条件下，建议：</b></p>
+        <ol class="- topic/ol " id="unique_29_Connect_42_ol_e5f_fh2_qbc" nd:nd-id="ol_e5f_fh2_qbc">
+            <li class="- topic/li ">每3个月对电池进行一次放电补电，确保电池SOC一直保持在20～50% SOC范围内；</li>
+            <li class="- topic/li "> 每12个月需要进行容量核对性试验和重新检验。 </li>
+        </ol>
+        <note class="- topic/note " id="unique_29_Connect_42_note_arx_wh2_qbc" nd:nd-id="note_arx_wh2_qbc" type="warning">
+            <p class="- topic/p ">系统损坏风险！</p>
+            <p class="- topic/p ">在储能系统的储存过程中，对于因用户不遵守本手册规定的存储方法和要求而造成系统的损坏，首帆动力科技股份有限公司不承担任何责任。</p>
+        </note>
+    </conbody>
+</concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_30" topicrefclass="- map/topicref " nd:nd-id="_1031" oid="_1031" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">地基建设</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">在地基选址时，请遵循下述原则： <ol class="- topic/ol " id="unique_30_Connect_42_ol_dd4_dkb_5bc" nd:nd-id="ol_dd4_dkb_5bc">
+                <li class="- topic/li ">应充分考虑此储能系统安装地的气候环境、土壤地质条件（如应力波发射情况，地下水位）等特点； </li>
+                <li class="- topic/li ">周围环境气候干燥，通风良好，远离易燃易爆区域； </li>
+                <li class="- topic/li ">地基土壤需要有一定的紧实度，建议安装场地土壤的相对密实度≥ 98%，若土壤松散，请务必采取措施保证地基稳固。</li>
+            </ol>
+        </p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_31" topicrefclass="- map/topicref " nd:nd-id="_1032" oid="_1032" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">设备安装</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <note class="- topic/note " id="unique_31_Connect_42_note_g1w_1w3_5bc" nd:nd-id="note_g1w_1w3_5bc" type="danger">
+            <p class="- topic/p ">重伤或死亡风险！ </p>
+            <p class="- topic/p ">设备安装过程中不遵守手册中的安全规范或非专业人员对本设备进行安装，将可能造成严重的人身伤害或死亡。 只有经过培训的专业人员才可对本设备进行操作。 </p>
+        </note>
+        </p>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_32" topicrefclass="- map/topicref " nd:nd-id="_1033" oid="_1033" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">安装说明</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">储能系统内部设备在出厂前均已可靠连接、测试，需要在项目现场进行箱体的安装固定、线缆连接、外部信号线缆连接以及储能系统接地连接。安装流程如下图所示：</p>
+        <fig class="- topic/fig " id="unique_32_Connect_42_fig_ufw_mx3_5bc" nd:nd-id="fig_ufw_mx3_5bc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统安装流程图</ph></title><image class="- topic/image " dita-ot:image-width="1970" dita-ot:image-height="734" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/储能系统安装流程图.png" id="unique_32_Connect_42_image_vfw_mx3_5bc" nd:nd-id="image_vfw_mx3_5bc" placement="inline"/></fig>
+        <p class="- topic/p ">储能系统安装流程详细描述如下表所示：</p>
+        <table class="- topic/table " colsep="1" frame="all" id="unique_32_Connect_42_table_u25_sx3_5bc" nd:nd-id="table_u25_sx3_5bc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;17:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1033.xml" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;18:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1033.xml" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">安装规程</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">安装描述</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">安装前准备</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">
+                            <ul class="- topic/ul " id="unique_32_Connect_42_ul_v12_wx3_5bc" nd:nd-id="ul_v12_wx3_5bc">
+                                <li class="- topic/li ">• 检查储能系统的外观是否损伤  </li>
+                                <li class="- topic/li ">• 检查储能系统内是否有器件损伤或脱落</li>
+                                <li class="- topic/li "> • 确认所有部件完整无遗失</li>
+                                <li class="- topic/li "> • 确认安装环境满足要求 </li>
+                                <li class="- topic/li ">• 确认项目现场是否有吊装储能系统的设备</li>
+                            </ul>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">结构安装</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">
+                            <ul class="- topic/ul " id="unique_32_Connect_42_ul_gmr_zx3_5bc" nd:nd-id="ul_gmr_zx3_5bc">
+                                <li class="- topic/li ">• 使用吊机将储能系统移动到预制好的地基上 </li>
+                                <li class="- topic/li ">• 根据项目要求进行固定储能系统 </li>
+                            </ul>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">电气连接</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">
+                            <ul class="- topic/ul " id="unique_32_Connect_42_ul_hvj_by3_5bc" nd:nd-id="ul_hvj_by3_5bc">
+                                <li class="- topic/li ">连接接地点</li>
+                                <li class="- topic/li ">•连接外部通讯、动力线缆 </li>
+                            </ul>
+                        </entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_33" topicrefclass="- map/topicref " nd:nd-id="_1034" oid="_1034" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">安装前准备及结构安装</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<reference class="- topic/topic       reference/reference " id="unique_34" topicrefclass="- map/topicref " nd:nd-id="_1035" oid="_1035" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">安装环境要求</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <p class="- topic/p ">储能系统箱体安装环境应该满足如下表要求：</p>
+        </example>
+        <table class="- topic/table " colsep="1" frame="all" id="unique_34_Connect_42_table_vkf_yy3_5bc" nd:nd-id="table_vkf_yy3_5bc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;12:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1035.xml" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;13:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1035.xml" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">项目</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">要求</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">安装地</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">地表倾斜度≤1°，抗震能力＞8级</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">环境温度</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">-20~+50℃</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">相对湿度</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">≤ 95%, 无凝露</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">海拔高度</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">≤2000 m</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_35" topicrefclass="- map/topicref " nd:nd-id="_1036" oid="_1036" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">结构安装</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_36" topicrefclass="- map/topicref " nd:nd-id="_1037" oid="_1037" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统箱体固定连接</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">使用吊车（推荐吊装能力8吨-12吨）或叉车（推荐叉举能力8吨以上）缓慢地将储能系统整体吊装（或叉举）至预制好的基础上，具体作业方式参考<xref class="- topic/xref " href="#unique_17" type="concept"><?ditaot gentext?>吊装作业</xref>或<xref class="- topic/xref " href="#unique_24" type="task"><?ditaot gentext?>叉车作业</xref>； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">储能系统吊装完成后，根据项目要求固定储能系统； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 焊接完成后对焊缝进行防腐处理。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_37" topicrefclass="- map/topicref " nd:nd-id="_1038" oid="_1038" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统接地连接</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">使用M10的螺栓连接预制在基础上的接地体与储能系统内的接地铜排。接地地点如图6所示：</p>
+        <fig class="- topic/fig " id="unique_37_Connect_42_fig_yjx_yz3_5bc" nd:nd-id="fig_yjx_yz3_5bc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统接地点</ph></title><image class="- topic/image " dita-ot:image-width="829" dita-ot:image-height="915" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/储能系统接地点.png" id="unique_37_Connect_42_image_zjx_yz3_5bc" nd:nd-id="image_zjx_yz3_5bc" placement="inline"/></fig>
+        <simpletable class="- topic/simpletable " frame="all" id="unique_37_Connect_42_simpletable_e1l_c1j_5bc" nd:nd-id="simpletable_e1l_c1j_5bc" relcolwidth="1* 1*">
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">1. 接地点</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1"/></strow>
+        </simpletable>
+    </conbody>
+</concept></concept></concept><concept class="- topic/topic concept/concept " id="unique_38" topicrefclass="- map/topicref " nd:nd-id="_1039" oid="_1039" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">电气连接</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <note class="- topic/note " id="unique_38_Connect_42_note_uxf_g1j_5bc" nd:nd-id="note_uxf_g1j_5bc" type="warning">
+            <p class="- topic/p ">触电风险！ </p>
+            <p class="- topic/p ">接线不正确可能导致死亡或严重受伤。 </p>
+            <p class="- topic/p ">所有电气连接必须在明确指导下进行。 </p>
+            <p class="- topic/p ">必须使用带有绝缘防护层的工具。</p>
+        </note>
+        <p class="- topic/p ">储能系统内部接线工作已在出厂前全部完成，用户只需要连接对外接线即可。</p>
+    
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_39" topicrefclass="- map/topicref " nd:nd-id="_1040" oid="_1040" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统接口位置</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">储能系统底部设有线缆接口、对外通讯线接口和接地铜排接口，详细开孔位置如图7所示：</p>
+        <fig class="- topic/fig " id="unique_39_Connect_42_fig_y1x_v1j_5bc" nd:nd-id="fig_y1x_v1j_5bc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统底部开孔示意图</ph></title><image class="- topic/image " dita-ot:image-width="947" dita-ot:image-height="666" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/储能系统底部开孔示意图.png" id="unique_39_Connect_42_image_z1x_v1j_5bc" nd:nd-id="image_z1x_v1j_5bc" placement="inline"/></fig>
+        <simpletable class="- topic/simpletable " frame="all" id="unique_39_Connect_42_simpletable_grx_w1j_5bc" nd:nd-id="simpletable_grx_w1j_5bc" relcolwidth="1* 1*">
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">1. 对外通讯接口</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">2. 线缆及接地铜排接口</stentry></strow>
+        </simpletable>
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_40" topicrefclass="- map/topicref " nd:nd-id="_1041" oid="_1041" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统对外接口</ph></title>
+    <shortdesc class="- topic/shortdesc ">储能系统对外的接口包含了对外通讯接口以及交流输出线缆接口，具体接线端口说明如下表所示：</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_40_Connect_42_table_ulj_2bj_5bc" nd:nd-id="table_ulj_2bj_5bc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="5">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;9:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1041.xml" style="width:20%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1041.xml" style="width:20%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;11:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1041.xml" style="width:20%;"/>
+                <colspec class="- topic/colspec " colname="col4" colnum="4" colwidth="1*" xtrc="colspec:4;12:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1041.xml" style="width:20%;"/>
+                <colspec class="- topic/colspec " colname="col5" colnum="5" colwidth="1*" xtrc="colspec:5;13:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1041.xml" style="width:20%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">序号</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">描述</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">推荐型号</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="1">数量</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="1">备注</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">1</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">对外通讯接口</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">超六类网线</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2">若干</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="2">以客户接线距离为依据</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">2</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">交流输出线缆</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">铜线缆（4*25mm2 0.69-1KV）</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="3">1套</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="3">50kW推荐值</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_41" topicrefclass="- map/topicref " nd:nd-id="_1042" oid="_1042" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统电气连接</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_42" topicrefclass="- map/topicref " nd:nd-id="_1043" oid="_1043" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">交流线缆接线</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">交流线缆的接口位置和大小如图8所示：</p>
+        <fig class="- topic/fig " id="unique_42_Connect_42_fig_mr5_lcj_5bc" nd:nd-id="fig_mr5_lcj_5bc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统交流线缆接口示意图</ph></title><image class="- topic/image " id="unique_42_Connect_42_image_nr5_lcj_5bc" nd:nd-id="image_nr5_lcj_5bc" placement="inline"/></fig>
+        <simpletable class="- topic/simpletable " frame="all" id="unique_42_Connect_42_simpletable_hs1_ncj_5bc" nd:nd-id="simpletable_hs1_ncj_5bc" relcolwidth="1* 1*">
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">1. 接地接口</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">3. 零线接口</stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">2. 火线接口</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2"/></strow>
+        </simpletable>
+        <p class="- topic/p ">线缆与铜排连接规范如图9所示：</p>
+        <fig class="- topic/fig " id="unique_42_Connect_42_fig_ywh_rcj_5bc" nd:nd-id="fig_ywh_rcj_5bc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">线缆与铜排连接规范图</ph></title><image class="- topic/image " dita-ot:image-width="1091" dita-ot:image-height="854" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/线缆与铜排连接规范图.png" id="unique_42_Connect_42_image_zwh_rcj_5bc" nd:nd-id="image_zwh_rcj_5bc" placement="inline"/></fig>
+        <table class="- topic/table " colsep="1" frame="all" id="unique_42_Connect_42_table_nhl_tcj_5bc" nd:nd-id="table_nhl_tcj_5bc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="3">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;31:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;32:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;33:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" style="width:33.3333%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">序号</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">描述</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">型号</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">1</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">铜排</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">/</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">2</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">线缆</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">2/0 AWG</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">3</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">铜接线端子</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">AWG 2/0-3/8(10.4)</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">4</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">螺栓</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">M12×30 8.8级</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">5</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">弹簧垫片</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6">/</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">6</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">垫片</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7">/</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">7</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">螺母</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8">M12 8级</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p class="- topic/p "> 将电力线缆分别接到L1,L2,L3,N和地排上，用螺栓、弹簧垫片、垫片和螺母固定。</p>
+        <table class="- topic/table " colsep="1" frame="all" id="unique_42_Connect_42_table_snc_bdj_5bc" nd:nd-id="table_snc_bdj_5bc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:4;83:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:5;84:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1043.xml" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1"/><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">规格</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">扳手规格</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">17</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">拧紧力矩</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">41~51 Nm</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_43" topicrefclass="- map/topicref " nd:nd-id="_1044" oid="_1044" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">外部通讯接线</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">储能系统内部提供有外部通讯接口，位置如下图<xref class="- topic/xref " href="#unique_43_Connect_42_fig_ivn_hdj_5bc" type="fig">Figure <ph class="- topic/ph " outputclass="fig--title-label-number ">10</ph><ph class="- topic/ph " outputclass="fig--title-label-number-placeholder " href="#unique_43_Connect_42_fig_ivn_hdj_5bc"/>: PCS储能系统外部通讯接线示意图</xref>所示，现场需根据电气接线图进行相应接线工作</p>
+        <fig class="- topic/fig " id="unique_43_Connect_42_fig_ivn_hdj_5bc" nd:nd-id="fig_ivn_hdj_5bc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">PCS储能系统外部通讯接线示意图</ph></title><image class="- topic/image " id="unique_43_Connect_42_image_jvn_hdj_5bc" nd:nd-id="image_jvn_hdj_5bc" placement="inline"/></fig>
+        <simpletable class="- topic/simpletable " frame="all" id="unique_43_Connect_42_simpletable_og3_ldj_5bc" nd:nd-id="simpletable_og3_ldj_5bc" relcolwidth="1* 1*">
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">1. 外部通讯接口</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1"/></strow>
+        </simpletable>
+    </conbody>
+</concept></concept></concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_44" topicrefclass="- map/topicref " nd:nd-id="_1045" oid="_1045" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">产品操作</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_45" topicrefclass="- map/topicref " nd:nd-id="_1046" oid="_1046" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">上电前检查</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context "/>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">检查储能系统内交流断路器是否处于断开状态； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 检查储能系统内直流隔离开关是否处于断开状态； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">检查高压配电箱面板上的直流隔离开关是否处于断开状态； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 检查各个电池pack间串联线缆是否连接可靠；</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 检查所有通讯和供电线缆的连接端子是否连接可靠； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">检查高压配电箱面板上的通信、供电线束以及动力线缆是否连接正确；</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 检查储能系统内LAN口连接是否有问题。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_46" topicrefclass="- map/topicref " nd:nd-id="_1047" oid="_1047" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统上电步骤</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context "/>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">先闭合储能系统的断路器，闭合低压供电开关，保证三级BMS、消防、UPS的供电以及高压盒的220 VAC供电正常等； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">开启空调，观察供电是否正常； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">闭合储能系统内高压配电箱直流隔离开关，闭合高压配电箱220 VAC供电开关，观察高压配电箱上的指示灯状态； </cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_46_Connect_42_substeps_yf3_f2j_5bc" nd:nd-id="substeps_yf3_f2j_5bc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">电源指示灯：灯亮代表供电正常； </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">故障指示灯：灯亮代表系统有故障，包括硬件故障、内部通讯故障、电池故障等；</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                    储能系统上电自检完成后，由EMS或者上位机下发指令给高压配电箱内的二级BMS下发闭合继电器指令，二级BMS自检完成后会吸合主正、主负继电器，上电完成；</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">完成以上操作后系统进入可充、放电的状态。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference class="- topic/topic       reference/reference " id="unique_47" topicrefclass="- map/topicref " nd:nd-id="ems功能说明" oid="ems功能说明" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">EMS功能说明</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <fig class="- topic/fig " id="unique_47_Connect_42_fig_ykq_z2j_5bc" nd:nd-id="fig_ykq_z2j_5bc"><image class="- topic/image " dita-ot:image-width="1301" dita-ot:image-height="993" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/EMS%20功能说明.png" id="unique_47_Connect_42_image_xzt_bfj_5bc" nd:nd-id="image_xzt_bfj_5bc" placement="inline"/></fig>
+        </example>
+        <table class="- topic/table " colsep="1" frame="all" id="unique_47_Connect_42_table_gt5_ffj_5bc" nd:nd-id="table_gt5_ffj_5bc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="3">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;15:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1048.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;16:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1048.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;17:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1048.xml" style="width:33.3333%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">序号</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">名称</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">功能</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">1</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">电源</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">
+                            <ol class="- topic/ol " id="unique_47_Connect_42_ol_eqr_hfj_5bc" nd:nd-id="ol_eqr_hfj_5bc">
+                                <li class="- topic/li ">绿色：控制器电源开启；</li>
+                                <li class="- topic/li ">关闭：控制器电源关闭。</li>
+                            </ol>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">2</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">显示屏*</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">
+                            <ol class="- topic/ol " id="unique_47_Connect_42_ol_c2f_jgj_5bc" nd:nd-id="ol_c2f_jgj_5bc">
+                                <li class="- topic/li ">分辨率：240 x 128 像素；</li>
+                                <li class="- topic/li "> 可视区域：88.50 x 51.40 mm；</li>
+                                <li class="- topic/li "> 六行，每行 25 个字符。 </li>
+                            </ol>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">3</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">导航</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">屏幕上有上下左右 4 个移动选择按钮。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">4</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">确定</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">
+                            <ol class="- topic/ol " id="unique_47_Connect_42_ol_tmt_mgj_5bc" nd:nd-id="ol_tmt_mgj_5bc">
+                                <li class="- topic/li ">进入菜单系统； </li>
+                                <li class="- topic/li ">确定屏幕上的选择。 </li>
+                            </ol>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">5</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">返回</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6">转到前一页面。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">6</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">自动模式</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7">控制器会自动起动和停止（连接和断开）发电机组。控制器自动控制储能系统的充放电。不需要操作员操作。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">7</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">蜂鸣器静音</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8">关闭警报蜂鸣器（若配置）并进入警报菜单。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9">8</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">快捷菜单</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9">访问跳转菜单、模式选择、测试、指示灯测试和储能。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10">9</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10">半自动模式</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="10">操作员或远程信号也可以起停储能系统，断开或闭合储能系统交流侧出口开关。不执行控制器自动流程。
+                            控制器会在闭合开关前自动进行同步，并会在断开开关之前自动解列。 </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11">10</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11">主电网符号</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="11">
+                            <ol class="- topic/ol " id="unique_47_Connect_42_ol_g1y_tgj_5bc" nd:nd-id="ol_g1y_tgj_5bc">
+                                <li class="- topic/li ">绿色：主电网/母排电压和频率正常。控制器可以同步和闭合开关；</li>
+                                <li class="- topic/li "> 红色：主电网/母排电压故障。 </li>
+                            </ol>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="12">11</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="12">合闸按钮</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="12">按下以闭合开关。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="13">12</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="13">分闸按钮</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="13">按下以断开开关。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="14">13</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="14">开关符号</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="14">
+                            <ol class="- topic/ol " id="unique_47_Connect_42_ol_grk_xgj_5bc" nd:nd-id="ol_grk_xgj_5bc">
+                                <li class="- topic/li ">绿色：开关已经闭合； </li>
+                                <li class="- topic/li ">绿灯闪烁：正在同步或解列； </li>
+                                <li class="- topic/li "> 红色：开关故障。 </li>
+                            </ol>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="15">14</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="15">储能变流器</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="15">
+                            <ol class="- topic/ol " id="unique_47_Connect_42_ol_kpb_1hj_5bc" nd:nd-id="ol_kpb_1hj_5bc">
+                                <li class="- topic/li ">绿色：储能逆变器电压和频率都正常控制器可以同步和闭合开关； </li>
+                                <li class="- topic/li ">绿灯闪烁：储能逆变器电压和频率均正常，电压和频率判定延时时钟仍然在倒计时。控制器无法闭合开关； </li>
+                                <li class="- topic/li ">红色：储能逆变器电压过低，无法测量。 </li>
+                            </ol>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="16">15</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="16">电池管理系统</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="16">
+                            <ol class="- topic/ol " id="unique_47_Connect_42_ol_xyz_dhj_5bc" nd:nd-id="ol_xyz_dhj_5bc">
+                                <li class="- topic/li ">绿色：储能系统可用状态反馈；</li>
+                                <li class="- topic/li "> 绿灯闪烁：储能系统备机状态； </li>
+                                <li class="- topic/li "> 红色：储能系统未运行，或者不可用。  </li>
+                            </ol>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="17">16</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="17">停机按钮</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="17">半自动或手动模式下，点击按钮以停机。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="18">17</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="18">起机按钮</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="18">半自动或手动模式下，点击按钮以起机。 </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="19">18</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="19">负载符号</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="19">
+                            <ol class="- topic/ol " id="unique_47_Connect_42_ol_yl2_jhj_5bc" nd:nd-id="ol_yl2_jhj_5bc">
+                                <li class="- topic/li ">无：功率管理应用；</li>
+                                <li class="- topic/li "> 绿色：供电电压和频率正常；</li>
+                                <li class="- topic/li "> 红色：供电电压/频率故障。 </li>
+                            </ol>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:morecols="2" dita-ot:x="1" dita-ot:y="20" nameend="col3" namest="col1" colspan="3">备注：*可以使用显示单元监控储能系统操作。</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_48" topicrefclass="- map/topicref " nd:nd-id="_1049" oid="_1049" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">UPS功能说明</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<reference class="- topic/topic       reference/reference " id="unique_49" topicrefclass="- map/topicref " nd:nd-id="_1050" oid="_1050" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">控制面板</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <fig class="- topic/fig " id="unique_49_Connect_42_fig_kvj_b3j_5bc" nd:nd-id="fig_kvj_b3j_5bc"><image class="- topic/image " dita-ot:image-width="1080" dita-ot:image-height="921" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/控制面板.png" id="unique_49_Connect_42_image_onh_c3j_5bc" nd:nd-id="image_onh_c3j_5bc" placement="inline"/></fig>
+        </example>
+        <table class="- topic/table " colsep="1" frame="all" id="unique_49_Connect_42_table_zb3_d3j_5bc" nd:nd-id="table_zb3_d3j_5bc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="3">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;15:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;16:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;17:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" style="width:33.3333%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">序号</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">名称</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">功能</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">1</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">输入指示灯</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">输入指示为绿灯： <ol class="- topic/ol " id="unique_49_Connect_42_ol_bwv_lkj_5bc" nd:nd-id="ol_bwv_lkj_5bc">
+                                <li class="- topic/li "> 灯亮：代表UPS输入电压正常； </li>
+                                <li class="- topic/li "> 闪烁：代表输入异常。 </li>
+                            </ol></entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">2</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">电池指示灯</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">电池指示灯为双色灯： <ol class="- topic/ol " id="unique_49_Connect_42_ol_g1p_nkj_5bc" nd:nd-id="ol_g1p_nkj_5bc">
+                                <li class="- topic/li "> 绿灯：代表电池正常；</li>
+                                <li class="- topic/li "> 黄灯：代表电池异常或者电池低电压告警。</li>
+                            </ol>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">3</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">开机键/测试键/蜂鸣器关闭键</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">
+                            <ol class="- topic/ol " id="unique_49_Connect_42_ol_ssc_pkj_5bc" nd:nd-id="ol_ssc_pkj_5bc">
+                                <li class="- topic/li ">开机键：按此键3~5秒听到蜂鸣器哔一声后放开可启动UPS; </li>
+                                <li class="- topic/li ">测试键：在在线模式下，按此键3秒可做10秒电池放电测试；</li>
+                                <li class="- topic/li "> 蜂鸣器关闭键：在蜂鸣器鸣叫的情况下，按此键可以关闭蜂鸣器。 </li>
+                            </ol>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">4</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">旁路指示灯</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">旁路指示灯为黄灯：灯亮代表UPS由旁路供电。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">5</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">逆变指示灯</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6">逆变指示灯为绿色：<ol class="- topic/ol " id="unique_49_Connect_42_ol_f5y_skj_5bc" nd:nd-id="ol_f5y_skj_5bc">
+                                <li class="- topic/li "> 灯亮：代表UPS逆变器状态正常；</li>
+                                <li class="- topic/li "> 闪烁：代表UPS处于开机检测、电池放电测试或DC Bus放电状态。 </li>
+                            </ol></entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">6</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">异常指示灯</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7">异常指示灯为双色灯 <ol class="- topic/ol " id="unique_49_Connect_42_ol_jb5_5kj_5bc" nd:nd-id="ol_jb5_5kj_5bc">
+                                <li class="- topic/li ">红灯：代表UPS内部异常；</li>
+                                <li class="- topic/li ">黄灯：代表其他警告。 </li>
+                            </ol></entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">7</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">负载容量指示灯/电池剩余容量指示灯</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8">
+                            <ol class="- topic/ol " id="unique_49_Connect_42_ol_otp_wkj_5bc" nd:nd-id="ol_otp_wkj_5bc">
+                                <li class="- topic/li ">在在线模式下，指示灯亮代表已连接负载的百分比容量； </li>
+                                <li class="- topic/li ">在电池模式下，指示灯亮代表当前电池剩余百分比容量。 </li>
+                            </ol>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9">8</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">关机键</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9">在UPS开机状态下，按此键3秒听到蜂鸣器哔一声后放开可关闭UPS。</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_50" topicrefclass="- map/topicref " nd:nd-id="开机与关机" oid="开机与关机" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">开机与关机</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_50_Connect_42_table_igc_dlj_5bc" nd:nd-id="table_igc_dlj_5bc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;9:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">名称</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">功能</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">开机</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">开机步骤：<ol class="- topic/ol " id="unique_50_Connect_42_ol_c1d_flj_5bc" nd:nd-id="ol_c1d_flj_5bc">
+                                <li class="- topic/li ">请检查UPS输入插头与市电插座零/火/地接线序是否正确；</li>
+                                <li class="- topic/li "> 将UPS输入插头与市电插座连接； </li>
+                                <li class="- topic/li ">持续按下板键3秒，直至哔声后放开； </li>
+                                <li class="- topic/li ">UPS开始自检，待INVERTER灯亮起，UPS进入在线供电模式 </li>
+                            </ol></entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">关机</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">关机步骤： <ol class="- topic/ol " id="unique_50_Connect_42_ol_ffq_hlj_5bc" nd:nd-id="ol_ffq_hlj_5bc">
+                                <li class="- topic/li ">确认UPS负载已经全部关闭； </li>
+                                <li class="- topic/li ">秩序按下<image class="- topic/image " dita-ot:image-width="69" dita-ot:image-height="51" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/off.png" id="unique_50_Connect_42_image_rpd_4lj_5bc" nd:nd-id="image_rpd_4lj_5bc" placement="inline"/>面板键3秒，直至哔声放开；</li>
+                                <li class="- topic/li "> 拔掉UPS与市电连线。 </li>
+                            </ol></entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference></concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_51" topicrefclass="- map/topicref " nd:nd-id="_1052" oid="_1052" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">储能系统维护说明</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <section class="- topic/section ">
+            <title class="- topic/title ">术语解释:</title>
+            <dl class="- topic/dl ">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">正常运行</dt>
+                    <dd class="- topic/dd ">指每天在工作的系统</dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">间隔运行</dt>
+                    <dd class="- topic/dd ">指每月运行频率不固定，无法保证每天工作的系统</dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">久放不用</dt>
+                    <dd class="- topic/dd ">连续超过3个月未启动工作的电池系统</dd>
+                </dlentry>
+            </dl>
+        </section>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_52" topicrefclass="- map/topicref " nd:nd-id="_1053" oid="_1053" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">系统使用要求</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_53" topicrefclass="- map/topicref " nd:nd-id="_1054" oid="_1054" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">正常运行系统使用要求</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">每十二个月对系统做一次电池保养，防止造成电池损伤，具体保养操作方法参考8.3电池维护。 </p>
+        <p class="- topic/p ">每十二个月对系统进行巡检（参考附录1. 巡检），并做好巡检记录。 </p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_54" topicrefclass="- map/topicref " nd:nd-id="_1055" oid="_1055" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">间隔运行系统使用要求</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">使用要求与正常运行系统相同。</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_55" topicrefclass="- map/topicref " nd:nd-id="_1056" oid="_1056" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">久放不用系统使用要求</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">储能电池存放的SOC区间：20%~50%，避免电芯在低于15% SOC以下长期存放，电池久置不用需要及时切断耗电设备。 </p>
+        <p class="- topic/p ">每三个月对储能系统进行一次巡检（参考附录1. 巡检），并做好巡检记录。  </p>
+        <p class="- topic/p ">每三个月对系统做一次电池保养，防止造成电池损伤。 </p>
+        <p class="- topic/p ">久放系统首次使用前，为激活电池系统需至少做一次满充电，以恢复电池的最佳状态。</p>
+        <note class="- topic/note " id="unique_55_Connect_42_note_e2j_rnj_5bc" nd:nd-id="note_e2j_rnj_5bc" type="tip">储能系统久放不用，会对电池造成不可逆的损伤，请务必进行定期维护。</note>
+    </conbody>
+</concept></concept><concept class="- topic/topic concept/concept " id="unique_56" topicrefclass="- map/topicref " nd:nd-id="_1057" oid="_1057" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">维护注意事项</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">相关人员在对系统进行维护检修作业前，必须需先断开高压配电箱面板上的隔离开关，确保隔离开关处于OFF状态检，消防处于手动状态，待维护检修作业完成后，需确保隔离开关处于ON状态，消防处于自动状态。</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_57" topicrefclass="- map/topicref " nd:nd-id="_1058" oid="_1058" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">电池维护</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">为了保证储能系统长期安全可靠的运行，请您仔细阅读并遵守以下使用说明： </p>
+        <p class="- topic/p ">当电池需要进行长时间存储时，需将电池充电至20～50% SOC，并置于专用场地存放，仓储条件需满足<xref class="- topic/xref " href="#unique_29" type="concept"><?ditaot gentext?>存储</xref>要求。</p>
+        <p class="- topic/p ">电池长时间存储过程中，建议每3个月对电池进行一次放电补电，确保电池SOC一直保持在 20～50%
+            SOC范围内。每3个月通过BMS检查系统中电池的具体情况，可将数据共享给我司以便协助判断电池状态，最长存储时间不超过6个月。 </p>
+        <p class="- topic/p ">系统最终并网使用前，如环境温度低于10 ℃，需先开启系统调节电池至常温（25℃±3℃），静置≥10h后，使用
+            0.25C倍率电流对电芯进行一次满充，再以实际工况对产品进行充放电。</p>
+        <note class="- topic/note " id="unique_57_Connect_42_note_uz2_r2y_xbc" nd:nd-id="note_uz2_r2y_xbc" type="tip">在进行电池维护操作前须检查确保环境安全、系统安全、无报警、无故障。</note>
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_58" topicrefclass="- map/topicref " nd:nd-id="空调系统维护" oid="空调系统维护" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">空调系统维护</ph></title>
+    <shortdesc class="- topic/shortdesc ">空调系统的维护信息如下表所示：</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_58_Connect_42_table_ojt_tfy_xbc" nd:nd-id="table_ojt_tfy_xbc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="5">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;9:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1059.xml" style="width:20%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1059.xml" style="width:20%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;11:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1059.xml" style="width:20%;"/>
+                <colspec class="- topic/colspec " colname="col4" colnum="4" colwidth="1*" xtrc="colspec:4;12:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1059.xml" style="width:20%;"/>
+                <colspec class="- topic/colspec " colname="col5" colnum="5" colwidth="1*" xtrc="colspec:5;13:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1059.xml" style="width:20%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">维护项目</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">维护标准</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">维护周期</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="1">检测方式</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="1">异常处理方式</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">接线</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">目视检查是否有松脱</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">6个月</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2">目测</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="2">断电 10 分钟后用螺丝刀对松动线缆进行紧固。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">风扇异常</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">风机无灰尘，风口处无异物堵塞</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">6个月</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="3">目测</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="3">断电 10 分钟后使用毛刷清理干净风机的灰尘，清理风口处的异物。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4"/><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">风机扇叶无破损，转动风机顺畅无异响</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">6个月</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="4">目测</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="4">断电 10 分钟后对风机进行紧固，检查是否有内部线缆等干涉风机转动，若风机故障，请进行更换。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">冷凝器清洁</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">冷凝器无灰尘和异物堵塞</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">6个月</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="5">目测</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="5">断电 10 分钟后使用压缩空气或配备刷头的吸尘器对冷凝器进行清理。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">维护空开工作正常</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">电路异常（如短路） 时自动离合</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6">6个月</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="6">目测</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="6">断电 10 分钟后更换维护空开。维护空开位于电控盒内。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">空调外观</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">机组清洁无尘、无污垢</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7">6个月</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="7">目测</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="7">断电10分钟后使用刷子或棉布清除机组灰尘、污垢。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">过滤网清洁</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">过滤网无灰尘和异物堵塞</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8">6个月</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="8">目测</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="8">断电 10 分钟后，将前面板拆下，取出过滤网后使用压缩空气或配备刷头的吸尘器对过滤网进行清理。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:morecols="4" dita-ot:x="1" dita-ot:y="9" nameend="col5" namest="col1" colspan="5">
+                            <note class="- topic/note " id="unique_58_Connect_42_note_oqp_ssx_5cc" nd:nd-id="note_oqp_ssx_5cc" type="tip">以上维护周期仅为建议值，可根据实际规划进行调整。</note>
+                        </entry></row>
+                    <row class="- topic/row "/>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_59" topicrefclass="- map/topicref " nd:nd-id="_1060" oid="_1060" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">消防系统维护</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<reference class="- topic/topic       reference/reference " id="unique_60" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">常规检查</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_60_Connect_42_table_rqn_3by_5cc" nd:nd-id="table_rqn_3by_5cc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="4">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;9:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1061.xml" style="width:25%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1061.xml" style="width:25%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;11:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1061.xml" style="width:25%;"/>
+                <colspec class="- topic/colspec " colname="col4" colnum="4" colwidth="1*" xtrc="colspec:4;12:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1061.xml" style="width:25%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">检查项目</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">检查周期</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">检查方式</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="1">检查内容</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">系统</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">1个月</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">目测</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2">对系统进行目视检查，确认系统未被损坏。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">探测器/传感器</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">1个月</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">目测</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="3">确认火灾探测器就位，整洁，未被阻挡，功能正常。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">火警探测系统</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">1个月</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">目测</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="4">确保电流识别灯功能正常，所有的警报灯关闭。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">气溶胶发生器</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">1个月</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">目测</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="5">确保已牢固固定发生器。每个发生器盖子未被覆盖且完好无损。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">安装区域</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">1个月</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6">目测</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="6">确保防护区未发生妨碍系统正常功能的变化（增加或拆除墙壁、窗户、通风井等）。</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_61" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">灭火系统定期检查</ph></title>
+    <shortdesc class="- topic/shortdesc ">定期对整个灭火系统进行一次全面检查。</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_61_Connect_42_table_kyq_rby_5cc" nd:nd-id="table_kyq_rby_5cc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;9:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1062.xml" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1062.xml" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">检查周期</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">检查内容</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">6个月</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">检查防护区是否发生变化，如：开口处、安装的隔板处等。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">6个月</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">目视检查系统，是否有磨损或腐蚀或改变的迹象</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">6个月</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">根据制造商的规格要求检查火灾探测系统的功能。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">6个月</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">检查粉状气溶胶发生器是否正确就位，是否受到任何障碍物的干扰。</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_62" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">热气溶胶发生器系统维护</ph></title>
+    <shortdesc class="- topic/shortdesc ">必须由合格人员依据制造商的试验和维修程序对热气溶胶释放系统进行测试。定期对热气溶胶发生器和气溶胶电气系统进行检查：</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_62_Connect_42_table_ctq_dcy_5cc" nd:nd-id="table_ctq_dcy_5cc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;9:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1063.xml" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1063.xml" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">检查周期</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">检查内容</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">12个月</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">检查电气线路连接是否正常</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">12个月</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">电子点火器的端子连接是否紧固</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">12个月</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">电触头是否夹持牢固</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">12个月</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">热气溶胶发生器安装螺栓是否拧紧</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:morecols="1" dita-ot:x="1" dita-ot:y="6" nameend="col2" namest="col1" colspan="2">15年后更换发电机</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:morecols="1" dita-ot:x="1" dita-ot:y="7" nameend="col2" namest="col1" colspan="2">
+                            <note class="- topic/note " id="unique_62_Connect_42_note_ln1_3cy_5cc" nd:nd-id="note_ln1_3cy_5cc" type="tip">若热气溶胶系统导致药剂从防护封闭区渗漏，应立即密封渗漏处。采用的密封方法，其结果应达到恢复防护区域的最初阻火等级。</note>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:morecols="1" dita-ot:x="1" dita-ot:y="8" nameend="col2" namest="col1" colspan="2">
+                            <note class="- topic/note " id="unique_62_Connect_42_note_tzr_rcy_5cc" nd:nd-id="note_tzr_rcy_5cc" type="tip">维修报告及建议应交与业主存档，对热气溶胶发生器的检查结果应： 1.
+                                检查报告永久贴在每个热气溶胶发生器上； 2.
+                                完整的检查报告副本应交付给系统的所有者或管辖主管部门（或根据要求，交付给两者）；记录应由所有者/用户在热气溶胶系统整个使用期间保留。
+                            </note>
+                        </entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><task class="- topic/topic task/task " id="unique_63" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">拆除热气溶胶发生器</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">如果外部目视检查显示热气溶胶发生器箱体或发生器本身已损坏，则应更换装置。拆除热气溶胶发生器：</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">拔掉火警探测系统的电源，确保不能开机。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">断开热气溶胶发生器的电源，确保不能接通。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">确保人员立稳，遵守高空作业规则。（《工作条件法》）； </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">拧开固定热气溶胶发生器的螺栓和螺母，将其拆下；</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 小心地将热气溶胶发生器从支架上取下，并将其放在稳定的表面上；</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 拆除热气溶胶发生器后，按照主管部门的要求，将火灾探测和报警装置重新投入运行。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 如果已经启动气溶胶发生器，仍有热度，请佩戴耐热手套。 </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_64" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">残留物的清除</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">当固体气溶胶发生剂被激活后，请遵守以下原则清除残留物：</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">1. 释放后尽快清理残留物（最多几个小时内）。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">2. 用湿布或刷子擦掉地板和金属表面的干燥残留物。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">3. 用风扇/风机除掉电气元件上的残留物。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">4. 用专用喷雾剂清洗电子元件上残留物。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">5. 火情发生后，应在热气溶胶颗粒吸收水分与大气中的燃烧残渣混合前清理掉颗粒，否则混合物会与电子元件、金属等发生反应，或对其造成影响。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">6. 如果热气溶胶颗粒（灰尘）停留的时间较长，便会吸收水分。水分会与金属（特别是未涂层的金属）发生反应，导致金属被氧化。</cmd>
+                <info class="- topic/itemgroup task/info ">固体气溶胶发生剂被激活后，转化为迅速膨胀的气溶胶，气溶胶由悬浮在气相中的固体颗粒形成，这种颗粒的大小为几微米。
+                    热气溶胶的成分是钾化合物，无腐蚀性，不导电，不会对敏感的受保护设备造成任何损害，也不会对电子元件、金属上发生反应。
+                    固体气溶胶发生剂SFE不含任何与火焰发生反应的卤素化合物；因此，热气溶胶在与火焰反应时不会产生腐蚀性的卤素酸副产物。
+                    悬浮在气溶胶相中的热气溶胶固体颗粒的浓度为每立方米几毫克。这些颗粒处于无水相中，一段时间后会以细小的粉尘形式沉积在防护区域的底部。粉尘在吸湿之前，很容易被清洗去除。
+                    灭火后，热气溶胶副产物主要由无水相中浓度很低的KOH（在K2CO3中迅速转化）组成的，副产品为热气溶胶颗粒状态。 </info>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_65" topicrefclass="- map/topicref " nd:nd-id="_1065_2" oid="_1065_2" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "/></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">在维护和重新调试气溶胶发生器系统时，必须按照正确的顺序执行以下程序：</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">释放后，至少保持此状态10分钟。 </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">不得进入防护区，未经授权的人员禁止入内。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 关闭电子设备。 </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">确保关好门窗。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 联系当地的救助公司。 </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">确保防护区域安全后，方可进入该区域。 </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">根据适用的联邦、州和地方法规处置废弃的发生器。 </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">请立即联系气溶胶经销商，更换发生器。 </cmd>
+                <info class="- topic/itemgroup task/info ">气溶胶已在多种材料上对气溶胶发生器进行了冷释放测试，包括结构、复合材料和电子设备中常用的材料。在所有情况下都表明，气溶胶发生器对设备的运行能力无害。
+                    热气溶胶颗粒超细小以及颗粒生成过程决定了这些颗粒具有相当大的漂浮力，易悬浮在保护区域的气体/空气混合物中。由于这种"漂浮"效应，气溶胶在较长的时间内（最多一个小时）不会"沉淀"。沉积在设备上的微粒粒径都小于≤5μm，且不会形成连续层;因此，在冷释放后彻底检查和清理现场，这是很重要的一项预防措施。气溶胶本身很清洁，但也要考虑对环境的影响。必须将相对湿度降低到40%以下，确保减少对电子设备的损害。
+                    发生火情后，未知的、有害的、火灾的副产品给敏感设备带来最大的风险。由于可能存在来自火灾本身产生的未知产品，或出现不愿看到的环境状况，我们建议彻底清理该区域，确保区域中无不良产品。在释放过程中，防护区域内的灰尘会散布四周，在整个区域内形成不良残留物沉积。设备的方向，位置有可能已被改变，导致药剂直接释放到墙上或设备表面。这都可能造成表面上沉积小面积的、局部的、高度集中的聚结颗粒。如果不加处理，结块物质可能会吸收水分，并可能导致未防护的金属表面出现非渐进性变色（铜、青铜）。因此，需要专业的救援公司清理颗粒结块理，这一点重关重要。
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_66" topicrefclass="- map/topicref " nd:nd-id="_1066" oid="_1066" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">废弃物与环境</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">激活后的热气溶胶发生器被拆除后可作为普通废弃物处理。 </p>
+        <p class="- topic/p ">如果热气溶胶发生器已被拆除，但未被激活，且仍含有固体气溶胶发生剂，则应将该发生器退回当地经销商进行适当处理。 </p>
+    </conbody>
+</concept></concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_67" topicrefclass="- map/topicref " nd:nd-id="_1067" oid="_1067" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">常见异常问题诊断</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_68" topicrefclass="- map/topicref " nd:nd-id="_1068" oid="_1068" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">系统告警处理对策</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<reference class="- topic/topic       reference/reference " id="unique_69" topicrefclass="- map/topicref " nd:nd-id="_1069" oid="_1069" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">制冷系统故障</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_69_Connect_42_table_ehr_wfy_5cc" nd:nd-id="table_ehr_wfy_5cc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="3">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;9:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;11:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" style="width:33.3333%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">故障现象</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">可能原因</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">检查和维修</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">压缩机不启动</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">
+                            <p class="- topic/p ">未开电源（待机） </p>
+                            <p class="- topic/p ">电路连接松动 </p>
+                            <p class="- topic/p ">压缩机电机烧坏 </p>
+                        </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">
+                            <p class="- topic/p ">检查主电源开关，并检查操作显示界面，是否已经开机。 </p>
+                            <p class="- topic/p ">紧固电路接头。</p>
+                            <p class="- topic/p "> 检查电机，如发现缺陷，立即更换。 </p>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" morerows="3" rowspan="4">压缩机不工作</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">无冷却要求</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">检查柜内温度显示及操作界面中压缩机的输出状态。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">停机延时</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">压缩机在正常状态下具有最短停机时间，如果温度在此期间内温度重新升高到开启点，压缩机仍然会延时开启。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">压缩机内置温度保护</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">检查继电器触点是否有220 V交流电。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">高压开关断开</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6">参考排气压力过高。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" morerows="1" rowspan="2">排气压力高</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">冷凝器脏堵</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7">清洁冷凝器。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">冷凝器风扇不运转</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8">检查风扇故障操作步骤。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" morerows="3" rowspan="4">压缩机噪音过大</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">因制冷剂回涌在压缩机</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9">检查吸气过热。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10">因润滑油损失导致轴承磨损</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="10">更换压缩机。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11">压缩机或管道支撑松动</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="11">紧固固定夹。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="12">连接杆，阀门或其它转动齿轮断裂</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="12">更换压缩机。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="13" morerows="1" rowspan="2">压缩机间歇地循环运转</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="13">传感器故障</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="13">检查显示是否有传感器故障报警。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="14">系统内制冷剂不足</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="14">检查是否有泄漏，修理泄漏处或添加制冷剂。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="15">压缩机保护器跳停或循环工作</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="15">排气压力过高</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="15">检查冷凝器滤网脏堵情况及冷凝器风扇或风扇电机有无被堵塞。</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_70" topicrefclass="- map/topicref " nd:nd-id="_1070" oid="_1070" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">控制器故障</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_70_Connect_42_table_etj_rgy_5cc" nd:nd-id="table_etj_rgy_5cc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="3">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;9:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1070.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1070.xml" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;11:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1070.xml" style="width:33.3333%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">故障现象</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">可能原因</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">检查和维修</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">频繁电压告警</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">电源故障</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">检查外部输入电源。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3"/><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">电路传感器故障</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">更换电路板。</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference></concept><reference class="- topic/topic       reference/reference " id="unique_71" topicrefclass="- map/topicref " nd:nd-id="_1071" oid="_1071" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">UPS故障</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_71_Connect_42_table_afh_xgy_5cc" nd:nd-id="table_afh_xgy_5cc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="4">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;9:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1071.xml" style="width:25%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1071.xml" style="width:25%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;11:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1071.xml" style="width:25%;"/>
+                <colspec class="- topic/colspec " colname="col4" colnum="4" colwidth="1*" xtrc="colspec:4;12:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1071.xml" style="width:25%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">故障现象</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">指示灯状态</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">可能原因</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="1">解决方案</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">过载</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">异常指示灯闪烁（黄灯）和负载容量指示灯全亮（绿灯）</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">过载</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2">请减轻负载。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">输入异常</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">输入指示灯闪烁（绿灯）</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">输入电压异常，超出范围</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="3">
+                            <ol class="- topic/ol " id="unique_71_Connect_42_ol_ecn_bhy_5cc" nd:nd-id="ol_ecn_bhy_5cc">
+                                <li class="- topic/li ">
+                                    <p class="- topic/p ">确认输入电压与输入频率是否正常；</p>
+                                </li>
+                                <li class="- topic/li ">请联系维修服务人员处理。</li>
+                            </ol>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">…..</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4"/><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4"/><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="4"/></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_72" topicrefclass="- map/topicref " nd:nd-id="_1072" oid="_1072" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">紧急事故处理方法</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_73" topicrefclass="- map/topicref " nd:nd-id="_1073" oid="_1073" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">火灾</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">疏散现场人员撤离至安全区域，划出安全隔离区，根据现场情况拨打报警电话。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 在保证人身安全的情况下，有条件的进行如下操作： </cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_73_Connect_42_substeps_iyp_mcf_vcc" nd:nd-id="substeps_iyp_mcf_vcc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">如果线束冒烟起火，使用二氧化碳或者干粉灭火器灭火，划出安全隔离区；</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">如果不慎吸入浓烟，请尽快转移并就医。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">通知系统厂家，获取进一步的处理意见。</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <note class="- topic/note " id="unique_73_Connect_42_note_nrh_ngf_vcc" nd:nd-id="note_nrh_ngf_vcc" type="tip">如果因充、放电异常引起的火灾，务必第一时间关闭电源，再执行灭火动作。</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_74" topicrefclass="- map/topicref " nd:nd-id="_1074" oid="_1074" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">水灾</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">无论系统是否上电，紧急疏散现场人员撤离至安全区域，划出安全隔离区；  </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">通知系统供应商，待水褪去之后进行检修；</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 在系统厂家给出系统安全判定结果前禁止启动系统。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept></concept><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_75" topicrefclass="- map/topicref " nd:nd-id="_1075" oid="_1075" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">巡检</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_75_Connect_42_table_fpg_xgf_vcc" nd:nd-id="table_fpg_xgf_vcc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="4">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;9:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" style="width:25%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" style="width:25%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;11:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" style="width:25%;"/>
+                <colspec class="- topic/colspec " colname="col4" colnum="4" colwidth="1*" xtrc="colspec:4;12:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" style="width:25%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">巡检项目</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">巡检方法</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">是/否</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="1">异常记录</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">灭火系统是否完整</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">目测</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2"/><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2"/></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">灭火系统是否在有效期内</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">目测</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3"/><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="3"/></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">散热系统是否完整</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">目测</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4"/><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="4"/></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">散热系统风道是否堵塞</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">目测</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5"/><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="5"/></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">电柜外观是否变形</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">目测</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6"/><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="6"/></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">电柜外观是否生锈破损</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">目测</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7"/><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="7"/></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">电柜内部是否有水气</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">目测</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8"/><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="8"/></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9">低压线束是否松脱或者破损</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">目测</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9"/><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="9"/></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10">高压线束是否松脱或者破损</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10">目测</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="10"/><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="10"/></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:morecols="3" dita-ot:x="1" dita-ot:y="11" nameend="col4" namest="col1" colspan="4">说明：巡检过程中若发现任何异常请及时反馈，并联系安排相关人员进行处理！</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_76" topicrefclass="- map/topicref " nd:nd-id="_1076" oid="_1076" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">缩略语释义</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_76_Connect_42_table_egz_2hf_vcc" nd:nd-id="table_egz_2hf_vcc" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;9:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1076.xml" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1076.xml" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">缩略语</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">说明</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">PACK</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">电池模块</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">SCU</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">电池管理系统总控制器</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">PCS</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">储能变流器</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">UPS</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">不间断电源</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">EMS</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">能量管理系统</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">SOC</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">荷电状态</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference></map>

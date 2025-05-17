@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_1047">
+    <title>储能系统上电步骤</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>先闭合储能系统的断路器，闭合低压供电开关，保证三级BMS、消防、UPS的供电以及高压盒的220 VAC供电正常等； </cmd>
+            </step>
+            <step>
+                <cmd>开启空调，观察供电是否正常； </cmd>
+            </step>
+            <step>
+                <cmd>闭合储能系统内高压配电箱直流隔离开关，闭合高压配电箱220 VAC供电开关，观察高压配电箱上的指示灯状态； </cmd>
+                <substeps id="substeps_yf3_f2j_5bc">
+                    <substep>
+                        <cmd>电源指示灯：灯亮代表供电正常； </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>故障指示灯：灯亮代表系统有故障，包括硬件故障、内部通讯故障、电池故障等；</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>
+                    储能系统上电自检完成后，由EMS或者上位机下发指令给高压配电箱内的二级BMS下发闭合继电器指令，二级BMS自检完成后会吸合主正、主负继电器，上电完成；</cmd>
+            </step>
+            <step>
+                <cmd>完成以上操作后系统进入可充、放电的状态。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
