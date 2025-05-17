@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1032">
+    <title>设备安装</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>
+            <note conref="../reuse/common_warning.dita#common_warnings/danger_installation" id="note_g1w_1w3_5bc"/>
+        </p>
+    </conbody>
+</concept>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Untitled">
+    <title>灭火系统定期检查</title>
+    <shortdesc>定期对整个灭火系统进行一次全面检查。</shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_kyq_rby_5cc">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>检查周期</entry>
+                        <entry>检查内容</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>6个月</entry>
+                        <entry>检查防护区是否发生变化，如：开口处、安装的隔板处等。</entry>
+                    </row>
+                    <row>
+                        <entry>6个月</entry>
+                        <entry>目视检查系统，是否有磨损或腐蚀或改变的迹象</entry>
+                    </row>
+                    <row>
+                        <entry>6个月</entry>
+                        <entry>根据制造商的规格要求检查火灾探测系统的功能。</entry>
+                    </row>
+                    <row>
+                        <entry>6个月</entry>
+                        <entry>检查粉状气溶胶发生器是否正确就位，是否受到任何障碍物的干扰。</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

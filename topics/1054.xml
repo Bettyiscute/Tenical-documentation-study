@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1054">
+    <title>正常运行系统使用要求</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>每十二个月对系统做一次电池保养，防止造成电池损伤，具体保养操作方法参考8.3电池维护。 </p>
+        <p>每十二个月对系统进行巡检（参考附录1. 巡检），并做好巡检记录。 </p>
+    </conbody>
+</concept>

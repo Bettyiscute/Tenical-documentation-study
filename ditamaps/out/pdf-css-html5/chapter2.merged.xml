@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/chapter2.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">安全说明</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">安全说明</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="安全说明"><resourceid appid="安全说明" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">安全说明</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1007"><resourceid appid="_1007" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">符号说明</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">在本手册中，使用下列警示词和符号来识别安全信息：</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1008"><resourceid appid="_1008" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">危险警告标识</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">为了保障用户在使用本产品时的人身及财产安全，提高用户对此产品的效率，本手册中详述了相关信息，并添加相关符号以加强解释说明。 本文可能出现下列标识，所代表的含义如下： </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1009"><resourceid appid="_1009" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">安全须知</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1010"><resourceid appid="_1010" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">操作人员要求</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1011"><resourceid appid="_1011" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">静电防护</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="安全说明" oid="安全说明" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">安全说明</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="_1007" oid="_1007" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">符号说明</ph></title>
+    <shortdesc class="- topic/shortdesc ">在本手册中，使用下列警示词和符号来识别安全信息：</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <simpletable class="- topic/simpletable " frame="all" id="unique_2_Connect_42_simpletable_ndr_4s3_5b1c" nd:nd-id="simpletable_ndr_4s3_5b1c" relcolwidth="1* 1*">
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1"><image class="- topic/image " dita-ot:image-width="33" dita-ot:image-height="29" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%205.png" id="unique_2_Connect_42_image_slg_cmn_tbc" nd:nd-id="image_slg_cmn_tbc" placement="inline"/>危险</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">“危险”表示有高度潜在危险，如果未能避免将会导致人员死亡或严重伤害。</stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2"><image class="- topic/image " dita-ot:image-width="33" dita-ot:image-height="29" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%205.png" id="unique_2_Connect_42_image_ngf_dmn_tbc" nd:nd-id="image_ngf_dmn_tbc" placement="inline"/>警告</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">“警告”表示有中度潜在危险，如果未能避免可能导致人员死亡或严重伤害。</stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3"><image class="- topic/image " dita-ot:image-width="33" dita-ot:image-height="29" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%205.png" id="unique_2_Connect_42_image_y2w_dmn_tbc" nd:nd-id="image_y2w_dmn_tbc" placement="inline"/>小心</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">“小心”表示有低度潜在危险，如果未能避免可能导致人员中度或轻度伤害。</stentry></strow>
+        </simpletable>
+        <note class="- topic/note " id="unique_2_Connect_42_note_bsx_nmn_tbc" nd:nd-id="note_bsx_nmn_tbc" type="tip">“注意”表示有潜在风险，如果未能避免可能导致设备无法正常运行或造成财产损失。</note>
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="_1008" oid="_1008" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">危险警告标识</ph></title>
+    <shortdesc class="- topic/shortdesc ">为了保障用户在使用本产品时的人身及财产安全，提高用户对此产品的效率，本手册中详述了相关信息，并添加相关符号以加强解释说明。 本文可能出现下列标识，所代表的含义如下： </shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_3_Connect_42_table_mcj_lln_tbc" nd:nd-id="table_mcj_lln_tbc" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "/></title>
+            <tgroup align="center" class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1008.xml" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;11:65" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1008.xml" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">符号</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">说明</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2"><image class="- topic/image " dita-ot:image-width="140" dita-ot:image-height="124" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%201.png" id="unique_3_Connect_42_image_zsz_qln_tbc" nd:nd-id="image_zsz_qln_tbc" placement="inline"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">在本手册中，使用该一般危险标志来识别重要安全信息。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3"><image class="- topic/image " dita-ot:image-width="141" dita-ot:image-height="126" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%202.png" id="unique_3_Connect_42_image_oyn_rln_tbc" nd:nd-id="image_oyn_rln_tbc" placement="inline"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">此标识意思为产品内部含有高压危险，触摸可能会导致电击危险。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4"><image class="- topic/image " dita-ot:image-width="132" dita-ot:image-height="126" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%203.png" id="unique_3_Connect_42_image_d1y_rln_tbc" nd:nd-id="image_d1y_rln_tbc" placement="inline"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">此标识意思为产品此处为保护接地（PE），需要连接接地线，要求链接牢固可靠，以保证操作人员安全。</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5"><image class="- topic/image " dita-ot:image-width="128" dita-ot:image-height="130" href="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/images/symbol%204.png" id="unique_3_Connect_42_image_df4_sln_tbc" nd:nd-id="image_df4_sln_tbc" placement="inline"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">此标识意思为非专业人士禁止操作，否则可能会导致人身伤害。</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="_1009" oid="_1009" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">安全须知</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <note class="- topic/note " id="unique_4_Connect_42_note_cxq_bln_tbc" nd:nd-id="note_cxq_bln_tbc" type="warning">
+            <p class="- topic/p ">忽略说明危险！</p>
+            <p class="- topic/p ">为了避免本产品在使用过程中可能产生的人员伤亡、财产损失。也为了提高本产品的使用寿命和使用效率，请务必仔细阅读各项安全规范。</p>
+        </note>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="_1010" oid="_1010" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">操作人员要求</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_5_Connect_42_ol_pp1_xkn_tbc" nd:nd-id="ol_pp1_xkn_tbc">
+                <li class="- topic/li ">具有专业资格的电工人员才能对本产品进行操作、维护，并需配套完整的专业电工设备。  </li>
+                <li class="- topic/li ">能对分配的任务进行评估，识别可能会出现的危险事件； </li>
+                <li class="- topic/li ">能第一时间对受伤的人员进行救援； </li>
+                <li class="- topic/li ">了解产品的相关维护标准； </li>
+                <li class="- topic/li ">遵守当地法律法规、条例和标准。</li>
+            </ol>
+        </p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="_1011" oid="_1011" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">静电防护</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">静电的积累可能会引起电击、火灾、爆炸、电子器件失效和损坏等。储能系统内有电路板或其它静电敏感元器件，为了防止或减小静电的危害，必须做好静电防护，进而抑制静电的产生，加速静电的泄漏，进行静电中和。其防范方式包括但不限于：在更换元器件的过程中，应将所有还没有安装的设备器件保留在带有防静电屏蔽功能的包装袋中，将暂时拆下来的设备器件放置在具有防静电功能的泡沫塑料垫上；请勿触摸焊接点、引脚或裸露的电路。 </p>
+    </conbody>
+</concept></concept></map>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1056">
+    <title>久放不用系统使用要求</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>储能电池存放的SOC区间：20%~50%，避免电芯在低于15% SOC以下长期存放，电池久置不用需要及时切断耗电设备。 </p>
+        <p>每三个月对储能系统进行一次巡检（参考附录1. 巡检），并做好巡检记录。  </p>
+        <p>每三个月对系统做一次电池保养，防止造成电池损伤。 </p>
+        <p>久放系统首次使用前，为激活电池系统需至少做一次满充电，以恢复电池的最佳状态。</p>
+        <note conref="../reuse/common_warning.dita#common_warnings/tip_maintenance" id="note_e2j_rnj_5bc"/>
+    </conbody>
+</concept>

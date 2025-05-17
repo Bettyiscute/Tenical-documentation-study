@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Betty_VMware\Documents\GitHub\Tenical-documentation-study\ditamaps\temp\pdf-css-html5\oxygen_dita_temp\reuse?><?workdir-uri file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/temp/pdf-css-html5/oxygen_dita_temp/reuse/?><?path2project ..\pdf-css-html5\?><?path2project-uri ../pdf-css-html5/?><?path2rootmap-uri ../ditamaps/?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="common_warnings" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="topic:1;3:29" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="title:1;4:12">Common Warnings</title>
+    <body class="- topic/body " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="body:1;5:11">
+        <note id="danger_installation" type="danger" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:1;6:54">
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:1;7:16">重伤或死亡风险！ </p>
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:2;8:16">设备安装过程中不遵守手册中的安全规范或非专业人员对本设备进行安装，将可能造成严重的人身伤害或死亡。 只有经过培训的专业人员才可对本设备进行操作。 </p>
+        </note>
+        <note id="danger_lifting" type="danger" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:2;10:49">
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:3;11:16">重伤或死亡风险！</p>
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:4;12:16"> 在起吊过程中，不按照吊车的安全操作规程进行操作可能导致重伤或死亡。 </p>
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:5;13:16"> 操作区域10米范围内严禁站人，尤其是起吊臂下及吊起或移动的机器下方严禁站人。</p>
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:6;14:16"> 如遇恶劣天气条件，如大雨、大雾、强风等，应停止起吊。</p>
+        </note>
+        <note id="warning_readsafetyrules" type="warning" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:3;16:59">
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:7;17:16">忽略说明危险！</p>
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:8;18:16">为了避免本产品在使用过程中可能产生的人员伤亡、财产损失。也为了提高本产品的使用寿命和使用效率，请务必仔细阅读各项安全规范。</p>
+        </note>
+        <note id="warning_storage" type="warning" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:4;20:51">
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:9;21:16">系统损坏风险！</p>
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:10;22:16">在储能系统的储存过程中，对于因用户不遵守本手册规定的存储方法和要求而造成系统的损坏，首帆动力科技股份有限公司不承担任何责任。</p>
+        </note>
+        <note id="electroshock" type="warning" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:5;24:48">
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:11;25:16">触电风险！ </p>
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:12;26:16">接线不正确可能导致死亡或严重受伤。 </p>
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:13;27:16">所有电气连接必须在明确指导下进行。 </p>
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:14;28:16">必须使用带有绝缘防护层的工具。</p>
+        </note>
+        <note id="warning_training" type="warning" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:6;30:52">
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:15;31:16">人员受伤风险！</p>
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:16;32:16"> 所有可能参与检查、测试、维护或操作热气溶胶发生器系统的人员，都应接受全面培训，并针对其预期履行的职责进行持续全面培训。 </p>
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:17;33:16">在安装、维修、保养、测试和管理热气溶胶发生器系统时，应遵守安全程序。遵守当地和国家的检查和维护要求。</p>
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:18;34:16">在热气溶胶消防系统防护封闭区域工作的人员应接受有关药剂安全培训。 </p>
+        </note>
+        <note id="tip_data" type="tip" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:7;36:40">
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="p:19;37:16">在运输与装卸过程中请时刻牢记储能系统的机械参数： </p> 储能系统：尺寸（宽×深×高）<ph class="- topic/ph " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="ph:1;37:64">1800*1150*1800
+                mm</ph>，重量约<ph class="- topic/ph " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="ph:2;38:32">1400kg</ph>。 </note>
+        <note id="tip_maintenance" type="tip" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:8;39:47">储能系统久放不用，会对电池造成不可逆的损伤，请务必进行定期维护。</note>
+        <note type="tip" id="tip_checkbeforemaintenance" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:9;40:58">在进行电池维护操作前须检查确保环境安全、系统安全、无报警、无故障。</note>
+        <note type="tip" id="tip_suggestion" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:10;41:46">以上维护周期仅为建议值，可根据实际规划进行调整。</note>
+        <note id="tip_leak" type="tip" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:11;43:14">若热气溶胶系统导致药剂从防护封闭区渗漏，应立即密封渗漏处。采用的密封方法，其结果应达到恢复防护区域的最初阻火等级。</note>
+        <note id="tip_fire" type="tip" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:12;44:40">如果因充、放电异常引起的火灾，务必第一时间关闭电源，再执行灭火动作。</note>
+        <simpletable frame="all" relcolwidth="1* 1*" id="warning_type" class="- topic/simpletable " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="simpletable:1;45:72">
+            <strow class="- topic/strow " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="strow:1;46:20">
+                <stentry class="- topic/stentry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="stentry:1;47:26" dita-ot:x="1" dita-ot:y="1"><image href="../images/symbol%205.png" id="image_slg_cmn_tbc" placement="inline" class="- topic/image " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="image:1;47:89"/>危险</stentry>
+                <stentry class="- topic/stentry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="stentry:2;48:26" dita-ot:x="2" dita-ot:y="1">“危险”表示有高度潜在危险，如果未能避免将会导致人员死亡或严重伤害。</stentry>
+            </strow>
+            <strow class="- topic/strow " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="strow:2;50:20">
+                <stentry class="- topic/stentry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="stentry:3;51:26" dita-ot:x="1" dita-ot:y="2"><image href="../images/symbol%205.png" id="image_ngf_dmn_tbc" placement="inline" class="- topic/image " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="image:2;51:89"/>警告</stentry>
+                <stentry class="- topic/stentry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="stentry:4;52:26" dita-ot:x="2" dita-ot:y="2">“警告”表示有中度潜在危险，如果未能避免可能导致人员死亡或严重伤害。</stentry>
+            </strow>
+            <strow class="- topic/strow " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="strow:3;54:20">
+                <stentry class="- topic/stentry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="stentry:5;55:26" dita-ot:x="1" dita-ot:y="3"><image href="../images/symbol%205.png" id="image_y2w_dmn_tbc" placement="inline" class="- topic/image " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="image:3;55:89"/>小心</stentry>
+                <stentry class="- topic/stentry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="stentry:6;56:26" dita-ot:x="2" dita-ot:y="3">“小心”表示有低度潜在危险，如果未能避免可能导致人员中度或轻度伤害。</stentry>
+            </strow>
+        </simpletable>
+        <note id="tip_type" type="tip" class="- topic/note " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/reuse/common_warning.dita" xtrc="note:13;59:40">“注意”表示有潜在风险，如果未能避免可能导致设备无法正常运行或造成财产损失。</note>
+    </body>
+</topic>

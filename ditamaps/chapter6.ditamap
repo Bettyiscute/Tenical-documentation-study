@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>设备安装</title>
+    <topicref href="../topics/1032.xml">
+        <topicref href="../topics/1033.xml"/>
+        <topicref href="../topics/1034.xml">
+            <topicref href="../topics/1035.xml"/>
+            <topicref href="../topics/1036.xml">
+                <topicref href="../topics/1037.xml"/>
+                <topicref href="../topics/1038.xml"/>
+            </topicref>
+        </topicref>
+        <topicref href="../topics/1039.xml">
+            <topicref href="../topics/1040.xml"/>
+            <topicref href="../topics/1041.xml"/>
+            <topicref href="../topics/1042.xml">
+                <topicref href="../topics/1043.xml"/>
+                <topicref href="../topics/1044.xml"/>
+            </topicref>
+        </topicref>
+    </topicref>
+</map>

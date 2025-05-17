@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1040">
+    <title>储能系统接口位置</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>储能系统底部设有线缆接口、对外通讯线接口和接地铜排接口，详细开孔位置如图7所示：</p>
+        <fig id="fig_y1x_v1j_5bc">
+            <title>储能系统底部开孔示意图</title>
+            <image
+                href="../images/%E5%82%A8%E8%83%BD%E7%B3%BB%E7%BB%9F%E5%BA%95%E9%83%A8%E5%BC%80%E5%AD%94%E7%A4%BA%E6%84%8F%E5%9B%BE.png"
+                id="image_z1x_v1j_5bc"/>
+        </fig>
+        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_grx_w1j_5bc">
+            <strow>
+                <stentry>1. 对外通讯接口</stentry>
+                <stentry>2. 线缆及接地铜排接口</stentry>
+            </strow>
+        </simpletable>
+    </conbody>
+</concept>

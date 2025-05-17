@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Betty_VMware\Documents\GitHub\Tenical-documentation-study\ditamaps\temp\pdf-css-html5\topics?><?workdir-uri file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/temp/pdf-css-html5/topics/?><?path2project ..\pdf-css-html5\?><?path2project-uri ../pdf-css-html5/?><?path2rootmap-uri ../ditamaps/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="_1075" ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="reference:1;3:23" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="title:1;4:12">巡检</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="shortdesc:1;5:16"/>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="refbody:1;6:14">
+        <table frame="all" rowsep="1" colsep="1" id="table_fpg_xgf_vcc" class="- topic/table " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="table:1;7:73">
+            <tgroup cols="4" class="- topic/tgroup " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="tgroup:1;8:30">
+                <colspec colname="col1" colnum="1" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="colspec:1;9:65"/>
+                <colspec colname="col2" colnum="2" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="colspec:2;10:65"/>
+                <colspec colname="col3" colnum="3" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="colspec:3;11:65"/>
+                <colspec colname="col4" colnum="4" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="colspec:4;12:65"/>
+                <thead class="- topic/thead " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="thead:1;13:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="row:1;14:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:1;15:32" colname="col1" dita-ot:x="1" dita-ot:y="1">巡检项目</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:2;16:32" colname="col2" dita-ot:x="2" dita-ot:y="1">巡检方法</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:3;17:32" colname="col3" dita-ot:x="3" dita-ot:y="1">是/否</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:4;18:32" colname="col4" dita-ot:x="4" dita-ot:y="1">异常记录</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="tbody:1;21:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="row:2;22:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:5;23:32" colname="col1" dita-ot:x="1" dita-ot:y="2">灭火系统是否完整</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:6;24:32" colname="col2" dita-ot:x="2" dita-ot:y="2">目测</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:7;25:33" colname="col3" dita-ot:x="3" dita-ot:y="2"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:8;26:33" colname="col4" dita-ot:x="4" dita-ot:y="2"/>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="row:3;28:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:9;29:32" colname="col1" dita-ot:x="1" dita-ot:y="3">灭火系统是否在有效期内</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:10;30:32" colname="col2" dita-ot:x="2" dita-ot:y="3">目测</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:11;31:33" colname="col3" dita-ot:x="3" dita-ot:y="3"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:12;32:33" colname="col4" dita-ot:x="4" dita-ot:y="3"/>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="row:4;34:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:13;35:32" colname="col1" dita-ot:x="1" dita-ot:y="4">散热系统是否完整</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:14;36:32" colname="col2" dita-ot:x="2" dita-ot:y="4">目测</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:15;37:33" colname="col3" dita-ot:x="3" dita-ot:y="4"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:16;38:33" colname="col4" dita-ot:x="4" dita-ot:y="4"/>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="row:5;40:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:17;41:32" colname="col1" dita-ot:x="1" dita-ot:y="5">散热系统风道是否堵塞</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:18;42:32" colname="col2" dita-ot:x="2" dita-ot:y="5">目测</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:19;43:33" colname="col3" dita-ot:x="3" dita-ot:y="5"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:20;44:33" colname="col4" dita-ot:x="4" dita-ot:y="5"/>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="row:6;46:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:21;47:32" colname="col1" dita-ot:x="1" dita-ot:y="6">电柜外观是否变形</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:22;48:32" colname="col2" dita-ot:x="2" dita-ot:y="6">目测</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:23;49:33" colname="col3" dita-ot:x="3" dita-ot:y="6"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:24;50:33" colname="col4" dita-ot:x="4" dita-ot:y="6"/>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="row:7;52:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:25;53:32" colname="col1" dita-ot:x="1" dita-ot:y="7">电柜外观是否生锈破损</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:26;54:32" colname="col2" dita-ot:x="2" dita-ot:y="7">目测</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:27;55:33" colname="col3" dita-ot:x="3" dita-ot:y="7"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:28;56:33" colname="col4" dita-ot:x="4" dita-ot:y="7"/>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="row:8;58:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:29;59:32" colname="col1" dita-ot:x="1" dita-ot:y="8">电柜内部是否有水气</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:30;60:32" colname="col2" dita-ot:x="2" dita-ot:y="8">目测</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:31;61:33" colname="col3" dita-ot:x="3" dita-ot:y="8"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:32;62:33" colname="col4" dita-ot:x="4" dita-ot:y="8"/>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="row:9;64:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:33;65:32" colname="col1" dita-ot:x="1" dita-ot:y="9">低压线束是否松脱或者破损</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:34;66:32" colname="col2" dita-ot:x="2" dita-ot:y="9">目测</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:35;67:33" colname="col3" dita-ot:x="3" dita-ot:y="9"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:36;68:33" colname="col4" dita-ot:x="4" dita-ot:y="9"/>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="row:10;70:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:37;71:32" colname="col1" dita-ot:x="1" dita-ot:y="10">高压线束是否松脱或者破损</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:38;72:32" colname="col2" dita-ot:x="2" dita-ot:y="10">目测</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:39;73:33" colname="col3" dita-ot:x="3" dita-ot:y="10"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:40;74:33" colname="col4" dita-ot:x="4" dita-ot:y="10"/>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="row:11;76:26">
+                        <entry namest="col1" nameend="col4" class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1075.xml" xtrc="entry:41;77:57" colname="col1" dita-ot:morecols="3" dita-ot:x="1" dita-ot:y="11">说明：巡检过程中若发现任何异常请及时反馈，并联系安排相关人员进行处理！</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

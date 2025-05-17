@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1033">
+    <title>安装说明</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>储能系统内部设备在出厂前均已可靠连接、测试，需要在项目现场进行箱体的安装固定、线缆连接、外部信号线缆连接以及储能系统接地连接。安装流程如下图所示：</p>
+        <fig id="fig_ufw_mx3_5bc">
+            <title>储能系统安装流程图</title>
+            <image
+                href="../images/%E5%82%A8%E8%83%BD%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%B5%81%E7%A8%8B%E5%9B%BE.png"
+                id="image_vfw_mx3_5bc"/>
+        </fig>
+        <p>储能系统安装流程详细描述如下表所示：</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_u25_sx3_5bc">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>安装规程</entry>
+                        <entry>安装描述</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>安装前准备</entry>
+                        <entry>
+                            <ul id="ul_v12_wx3_5bc">
+                                <li>• 检查储能系统的外观是否损伤  </li>
+                                <li>• 检查储能系统内是否有器件损伤或脱落</li>
+                                <li> • 确认所有部件完整无遗失</li>
+                                <li> • 确认安装环境满足要求 </li>
+                                <li>• 确认项目现场是否有吊装储能系统的设备</li>
+                            </ul>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>结构安装</entry>
+                        <entry>
+                            <ul id="ul_gmr_zx3_5bc">
+                                <li>• 使用吊机将储能系统移动到预制好的地基上 </li>
+                                <li>• 根据项目要求进行固定储能系统 </li>
+                            </ul>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>电气连接</entry>
+                        <entry>
+                            <ul id="ul_hvj_by3_5bc">
+                                <li>连接接地点</li>
+                                <li>•连接外部通讯、动力线缆 </li>
+                            </ul>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+    </conbody>
+</concept>

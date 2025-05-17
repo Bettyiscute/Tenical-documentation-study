@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1043">
+    <title>交流线缆接线</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>交流线缆的接口位置和大小如图8所示：</p>
+        <fig id="fig_mr5_lcj_5bc">
+            <title>储能系统交流线缆接口示意图</title>
+            <image id="image_nr5_lcj_5bc"/>
+        </fig>
+        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_hs1_ncj_5bc">
+            <strow>
+                <stentry>1. 接地接口</stentry>
+                <stentry>3. 零线接口</stentry>
+            </strow>
+            <strow>
+                <stentry>2. 火线接口</stentry>
+                <stentry/>
+            </strow>
+        </simpletable>
+        <p>线缆与铜排连接规范如图9所示：</p>
+        <fig id="fig_ywh_rcj_5bc">
+            <title>线缆与铜排连接规范图</title>
+            <image
+                href="../images/%E7%BA%BF%E7%BC%86%E4%B8%8E%E9%93%9C%E6%8E%92%E8%BF%9E%E6%8E%A5%E8%A7%84%E8%8C%83%E5%9B%BE.png"
+                id="image_zwh_rcj_5bc"/>
+        </fig>
+        <table frame="all" rowsep="1" colsep="1" id="table_nhl_tcj_5bc">
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>序号</entry>
+                        <entry>描述</entry>
+                        <entry>型号</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>1</entry>
+                        <entry>铜排</entry>
+                        <entry>/</entry>
+                    </row>
+                    <row>
+                        <entry>2</entry>
+                        <entry>线缆</entry>
+                        <entry>2/0 AWG</entry>
+                    </row>
+                    <row>
+                        <entry>3</entry>
+                        <entry>铜接线端子</entry>
+                        <entry>AWG 2/0-3/8(10.4)</entry>
+                    </row>
+                    <row>
+                        <entry>4</entry>
+                        <entry>螺栓</entry>
+                        <entry>M12×30 8.8级</entry>
+                    </row>
+                    <row>
+                        <entry>5</entry>
+                        <entry>弹簧垫片</entry>
+                        <entry>/</entry>
+                    </row>
+                    <row>
+                        <entry>6</entry>
+                        <entry>垫片</entry>
+                        <entry>/</entry>
+                    </row>
+                    <row>
+                        <entry>7</entry>
+                        <entry>螺母</entry>
+                        <entry>M12 8级</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p> 将电力线缆分别接到L1,L2,L3,N和地排上，用螺栓、弹簧垫片、垫片和螺母固定。</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_snc_bdj_5bc">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry>规格</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>扳手规格</entry>
+                        <entry>17</entry>
+                    </row>
+                    <row>
+                        <entry>拧紧力矩</entry>
+                        <entry>41~51 Nm</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

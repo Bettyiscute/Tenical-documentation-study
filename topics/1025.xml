@@ -5,11 +5,35 @@
     <shortdesc></shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>在使用叉车进行叉举作业时，需满足下述条件：</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>所用叉车应具备足够的承载能力（推荐至少8吨）。 </cmd>
+            </step>
+            <step>
+                <cmd> 所用叉车的货叉应该插入储能系统的全部深度，即长度应至少为1300mm。 </cmd>
+            </step>
+            <step>
+                <cmd>在叉起，放下及移动过程中，要保证缓慢、平稳，必须进行试叉。</cmd>
+                <info>
+                    <fig id="fig_kcq_x2n_tbc">
+                        <title>插槽位置示意图</title>
+                        <image
+                            href="../images/%E6%8F%92%E6%A7%BD%E4%BD%8D%E7%BD%AE%E7%A4%BA%E6%84%8F%E5%9B%BE.png"
+                            id="image_lcq_x2n_tbc"/>
+                    </fig>
+                    <simpletable frame="all" relcolwidth="1*" id="simpletable_brl_1fn_tbc">
+                        <strow>
+                            <stentry>
+                                <ol id="ol_bwc_2fn_tbc" >
+                                    <li>插槽</li>
+                                </ol>
+                                
+                            </stentry>
+                        </strow>
+                    </simpletable>
+                </info>
             </step>
         </steps>
     </taskbody>

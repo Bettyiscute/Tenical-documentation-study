@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1039">
+    <title>电气连接</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <note conref="../reuse/common_warning.dita#common_warnings/electroshock" id="note_uxf_g1j_5bc"/>
+        <p>储能系统内部接线工作已在出厂前全部完成，用户只需要连接对外接线即可。</p>
+    
+    </conbody>
+</concept>

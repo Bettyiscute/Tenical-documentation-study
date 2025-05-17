@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="ems功能说明">
+    <title>EMS功能说明</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <example>
+            <fig id="fig_ykq_z2j_5bc">
+                <image href="../images/EMS%20%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.png"
+                    id="image_xzt_bfj_5bc"/>
+            </fig>
+        </example>
+        <table frame="all" rowsep="1" colsep="1" id="table_gt5_ffj_5bc">
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>序号</entry>
+                        <entry>名称</entry>
+                        <entry>功能</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>1</entry>
+                        <entry>电源</entry>
+                        <entry>
+                            <ol id="ol_eqr_hfj_5bc">
+                                <li>绿色：控制器电源开启；</li>
+                                <li>关闭：控制器电源关闭。</li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>2</entry>
+                        <entry>显示屏*</entry>
+                        <entry>
+                            <ol id="ol_c2f_jgj_5bc">
+                                <li>分辨率：240 x 128 像素；</li>
+                                <li> 可视区域：88.50 x 51.40 mm；</li>
+                                <li> 六行，每行 25 个字符。 </li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>3</entry>
+                        <entry>导航</entry>
+                        <entry>屏幕上有上下左右 4 个移动选择按钮。</entry>
+                    </row>
+                    <row>
+                        <entry>4</entry>
+                        <entry>确定</entry>
+                        <entry>
+                            <ol id="ol_tmt_mgj_5bc">
+                                <li>进入菜单系统； </li>
+                                <li>确定屏幕上的选择。 </li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>5</entry>
+                        <entry>返回</entry>
+                        <entry>转到前一页面。</entry>
+                    </row>
+                    <row>
+                        <entry>6</entry>
+                        <entry>自动模式</entry>
+                        <entry>控制器会自动起动和停止（连接和断开）发电机组。控制器自动控制储能系统的充放电。不需要操作员操作。</entry>
+                    </row>
+                    <row>
+                        <entry>7</entry>
+                        <entry>蜂鸣器静音</entry>
+                        <entry>关闭警报蜂鸣器（若配置）并进入警报菜单。</entry>
+                    </row>
+                    <row>
+                        <entry>8</entry>
+                        <entry>快捷菜单</entry>
+                        <entry>访问跳转菜单、模式选择、测试、指示灯测试和储能。</entry>
+                    </row>
+                    <row>
+                        <entry>9</entry>
+                        <entry>半自动模式</entry>
+                        <entry>操作员或远程信号也可以起停储能系统，断开或闭合储能系统交流侧出口开关。不执行控制器自动流程。
+                            控制器会在闭合开关前自动进行同步，并会在断开开关之前自动解列。 </entry>
+                    </row>
+                    <row>
+                        <entry>10</entry>
+                        <entry>主电网符号</entry>
+                        <entry>
+                            <ol id="ol_g1y_tgj_5bc">
+                                <li>绿色：主电网/母排电压和频率正常。控制器可以同步和闭合开关；</li>
+                                <li> 红色：主电网/母排电压故障。 </li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>11</entry>
+                        <entry>合闸按钮</entry>
+                        <entry>按下以闭合开关。</entry>
+                    </row>
+                    <row>
+                        <entry>12</entry>
+                        <entry>分闸按钮</entry>
+                        <entry>按下以断开开关。</entry>
+                    </row>
+                    <row>
+                        <entry>13</entry>
+                        <entry>开关符号</entry>
+                        <entry>
+                            <ol id="ol_grk_xgj_5bc">
+                                <li>绿色：开关已经闭合； </li>
+                                <li>绿灯闪烁：正在同步或解列； </li>
+                                <li> 红色：开关故障。 </li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>14</entry>
+                        <entry>储能变流器</entry>
+                        <entry>
+                            <ol id="ol_kpb_1hj_5bc">
+                                <li>绿色：储能逆变器电压和频率都正常控制器可以同步和闭合开关； </li>
+                                <li>绿灯闪烁：储能逆变器电压和频率均正常，电压和频率判定延时时钟仍然在倒计时。控制器无法闭合开关； </li>
+                                <li>红色：储能逆变器电压过低，无法测量。 </li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>15</entry>
+                        <entry>电池管理系统</entry>
+                        <entry>
+                            <ol id="ol_xyz_dhj_5bc">
+                                <li>绿色：储能系统可用状态反馈；</li>
+                                <li> 绿灯闪烁：储能系统备机状态； </li>
+                                <li> 红色：储能系统未运行，或者不可用。  </li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>16</entry>
+                        <entry>停机按钮</entry>
+                        <entry>半自动或手动模式下，点击按钮以停机。</entry>
+                    </row>
+                    <row>
+                        <entry>17</entry>
+                        <entry>起机按钮</entry>
+                        <entry>半自动或手动模式下，点击按钮以起机。 </entry>
+                    </row>
+                    <row>
+                        <entry>18</entry>
+                        <entry>负载符号</entry>
+                        <entry>
+                            <ol id="ol_yl2_jhj_5bc">
+                                <li>无：功率管理应用；</li>
+                                <li> 绿色：供电电压和频率正常；</li>
+                                <li> 红色：供电电压/频率故障。 </li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c3">备注：*可以使用显示单元监控储能系统操作。</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

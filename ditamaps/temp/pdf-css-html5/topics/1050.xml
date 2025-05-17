@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Betty_VMware\Documents\GitHub\Tenical-documentation-study\ditamaps\temp\pdf-css-html5\topics?><?workdir-uri file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/temp/pdf-css-html5/topics/?><?path2project ..\pdf-css-html5\?><?path2project-uri ../pdf-css-html5/?><?path2rootmap-uri ../ditamaps/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="_1050" ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="reference:1;3:23" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="title:1;4:12">控制面板</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="shortdesc:1;5:16"/>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="refbody:1;6:14">
+        <example class="- topic/example " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="example:1;7:18">
+            <fig id="fig_kvj_b3j_5bc" class="- topic/fig " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="fig:1;8:39">
+                <image href="../images/控制面板.png" id="image_onh_c3j_5bc" placement="inline" class="- topic/image " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="image:1;10:45"/>
+            </fig>
+        </example>
+        <table frame="all" rowsep="1" colsep="1" id="table_zb3_d3j_5bc" class="- topic/table " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="table:1;13:73">
+            <tgroup cols="3" class="- topic/tgroup " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="tgroup:1;14:30">
+                <colspec colname="col1" colnum="1" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="colspec:1;15:65"/>
+                <colspec colname="col2" colnum="2" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="colspec:2;16:65"/>
+                <colspec colname="col3" colnum="3" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="colspec:3;17:65"/>
+                <thead class="- topic/thead " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="thead:1;18:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="row:1;19:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:1;20:32" colname="col1" dita-ot:x="1" dita-ot:y="1">序号</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:2;21:32" colname="col2" dita-ot:x="2" dita-ot:y="1">名称</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:3;22:32" colname="col3" dita-ot:x="3" dita-ot:y="1">功能</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="tbody:1;25:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="row:2;26:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:4;27:32" colname="col1" dita-ot:x="1" dita-ot:y="2">1</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:5;28:32" colname="col2" dita-ot:x="2" dita-ot:y="2">输入指示灯</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:6;29:32" colname="col3" dita-ot:x="3" dita-ot:y="2">输入指示为绿灯： <ol id="ol_bwv_lkj_5bc" class="- topic/ol " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="ol:1;29:65">
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="li:1;30:37"> 灯亮：代表UPS输入电压正常； </li>
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="li:2;31:37"> 闪烁：代表输入异常。 </li>
+                            </ol></entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="row:3;34:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:7;35:32" colname="col1" dita-ot:x="1" dita-ot:y="3">2</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:8;36:32" colname="col2" dita-ot:x="2" dita-ot:y="3">电池指示灯</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:9;37:32" colname="col3" dita-ot:x="3" dita-ot:y="3">电池指示灯为双色灯： <ol id="ol_g1p_nkj_5bc" class="- topic/ol " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="ol:2;37:67">
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="li:3;38:37"> 绿灯：代表电池正常；</li>
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="li:4;39:37"> 黄灯：代表电池异常或者电池低电压告警。</li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="row:4;43:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:10;44:32" colname="col1" dita-ot:x="1" dita-ot:y="4">3</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:11;45:32" colname="col2" dita-ot:x="2" dita-ot:y="4">开机键/测试键/蜂鸣器关闭键</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:12;46:32" colname="col3" dita-ot:x="3" dita-ot:y="4">
+                            <ol id="ol_ssc_pkj_5bc" class="- topic/ol " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="ol:3;47:53">
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="li:5;48:37">开机键：按此键3~5秒听到蜂鸣器哔一声后放开可启动UPS; </li>
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="li:6;49:37">测试键：在在线模式下，按此键3秒可做10秒电池放电测试；</li>
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="li:7;50:37"> 蜂鸣器关闭键：在蜂鸣器鸣叫的情况下，按此键可以关闭蜂鸣器。 </li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="row:5;54:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:13;55:32" colname="col1" dita-ot:x="1" dita-ot:y="5">4</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:14;56:32" colname="col2" dita-ot:x="2" dita-ot:y="5">旁路指示灯</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:15;57:32" colname="col3" dita-ot:x="3" dita-ot:y="5">旁路指示灯为黄灯：灯亮代表UPS由旁路供电。</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="row:6;59:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:16;60:32" colname="col1" dita-ot:x="1" dita-ot:y="6">5</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:17;61:32" colname="col2" dita-ot:x="2" dita-ot:y="6">逆变指示灯</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:18;62:32" colname="col3" dita-ot:x="3" dita-ot:y="6">逆变指示灯为绿色：<ol id="ol_f5y_skj_5bc" class="- topic/ol " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="ol:4;62:65">
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="li:8;63:37"> 灯亮：代表UPS逆变器状态正常；</li>
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="li:9;64:37"> 闪烁：代表UPS处于开机检测、电池放电测试或DC Bus放电状态。 </li>
+                            </ol></entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="row:7;67:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:19;68:32" colname="col1" dita-ot:x="1" dita-ot:y="7">6</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:20;69:32" colname="col2" dita-ot:x="2" dita-ot:y="7">异常指示灯</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:21;70:32" colname="col3" dita-ot:x="3" dita-ot:y="7">异常指示灯为双色灯 <ol id="ol_jb5_5kj_5bc" class="- topic/ol " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="ol:5;70:66">
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="li:10;71:37">红灯：代表UPS内部异常；</li>
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="li:11;72:37">黄灯：代表其他警告。 </li>
+                            </ol></entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="row:8;75:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:22;76:32" colname="col1" dita-ot:x="1" dita-ot:y="8">7</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:23;77:32" colname="col2" dita-ot:x="2" dita-ot:y="8">负载容量指示灯/电池剩余容量指示灯</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:24;78:32" colname="col3" dita-ot:x="3" dita-ot:y="8">
+                            <ol id="ol_otp_wkj_5bc" class="- topic/ol " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="ol:6;79:53">
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="li:12;80:37">在在线模式下，指示灯亮代表已连接负载的百分比容量； </li>
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="li:13;81:37">在电池模式下，指示灯亮代表当前电池剩余百分比容量。 </li>
+                            </ol>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="row:9;85:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:25;86:32" colname="col1" dita-ot:x="1" dita-ot:y="9">8</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:26;87:32" colname="col2" dita-ot:x="2" dita-ot:y="9">关机键</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1050.xml" xtrc="entry:27;88:32" colname="col3" dita-ot:x="3" dita-ot:y="9">在UPS开机状态下，按此键3秒听到蜂鸣器哔一声后放开可关闭UPS。</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

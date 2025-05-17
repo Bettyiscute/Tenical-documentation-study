@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1052">
+    <title>储能系统维护说明</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <section>
+            <title>术语解释:</title>
+            <dl>
+                <dlentry>
+                    <dt>正常运行</dt>
+                    <dd>指每天在工作的系统</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>间隔运行</dt>
+                    <dd>指每月运行频率不固定，无法保证每天工作的系统</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>久放不用</dt>
+                    <dd>连续超过3个月未启动工作的电池系统</dd>
+                </dlentry>
+            </dl>
+        </section>
+    </conbody>
+</concept>

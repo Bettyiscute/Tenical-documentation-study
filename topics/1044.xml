@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1044">
+    <title>外部通讯接线</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>储能系统内部提供有外部通讯接口，位置如下图<xref href="#_1044/fig_ivn_hdj_5bc"/>所示，现场需根据电气接线图进行相应接线工作</p>
+        <fig id="fig_ivn_hdj_5bc">
+            <title>PCS储能系统外部通讯接线示意图</title>
+            <image id="image_jvn_hdj_5bc"/>
+        </fig>
+        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_og3_ldj_5bc">
+            <strow>
+                <stentry>1. 外部通讯接口</stentry>
+                <stentry/>
+            </strow>
+        </simpletable>
+    </conbody>
+</concept>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="_1075">
+    <title>巡检</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_fpg_xgf_vcc">
+            <tgroup cols="4">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>巡检项目</entry>
+                        <entry>巡检方法</entry>
+                        <entry>是/否</entry>
+                        <entry>异常记录</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>灭火系统是否完整</entry>
+                        <entry>目测</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry>灭火系统是否在有效期内</entry>
+                        <entry>目测</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry>散热系统是否完整</entry>
+                        <entry>目测</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry>散热系统风道是否堵塞</entry>
+                        <entry>目测</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry>电柜外观是否变形</entry>
+                        <entry>目测</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry>电柜外观是否生锈破损</entry>
+                        <entry>目测</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry>电柜内部是否有水气</entry>
+                        <entry>目测</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry>低压线束是否松脱或者破损</entry>
+                        <entry>目测</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry>高压线束是否松脱或者破损</entry>
+                        <entry>目测</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c4">说明：巡检过程中若发现任何异常请及时反馈，并联系安排相关人员进行处理！</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

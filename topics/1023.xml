@@ -9,7 +9,19 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>使用合适的吊车进行装卸；吊运时，可以使用尼龙吊绳（带）或钢丝绳； </cmd>
+            </step>
+            <step>
+                <cmd> 垂直起吊，不得出现在地面拖曳现象，不要在任何表面上拖推； </cmd>
+            </step>
+            <step>
+                <cmd>起吊300 mm后暂停起吊，检查吊具的连接情况，在确定连接牢固后，继续起吊； </cmd>
+            </step>
+            <step>
+                <cmd>缓慢起吊设备，注意观察箱体的平衡状态，移动速度不可过快； </cmd>
+            </step>
+            <step>
+                <cmd>整个起吊过程中，储能系统及吊车下方严禁站人。</cmd>
             </step>
         </steps>
     </taskbody>

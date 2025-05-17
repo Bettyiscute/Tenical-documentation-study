@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/chapter1.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">概述</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">概述</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="概述"><resourceid appid="概述" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">概述</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1003"><resourceid appid="_1003" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">主要内容</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1004"><resourceid appid="_1004" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">目标读者</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1005"><resourceid appid="_1005" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">联系我们</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="概述" oid="概述" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">概述</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody "/>
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="_1003" oid="_1003" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">主要内容</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">本手册主要介绍了60
+            kWh标准储能系统的产品、运输、安装、操作、维护及故障排除等内容。在使用本产品之前，请务必仔细阅读本手册，并根据本手册描述的方法操作储能系统，否则可能会造成设备损坏或者人身伤害。</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="_1004" oid="_1004" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">目标读者</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <ol class="- topic/ol " id="unique_3_Connect_42_ol_vmh_rqn_tbc" nd:nd-id="ol_vmh_rqn_tbc">
+            <li class="- topic/li ">本手册适用于对此产品有关的运输、安装及其他操作的人员，参与的人员必须满足以下要求；  </li>
+            <li class="- topic/li ">熟练掌握电力、电子、机械工程等专业知识，能熟练掌握、理解电气原理图、结构图纸等； </li>
+            <li class="- topic/li ">了解储能行业的产品、基本知识、工作原理、控制逻辑； </li>
+            <li class="- topic/li ">具有此产品使用地区法律认可的专业电工施工证书及资质，熟悉此地区的相关法律法规； </li>
+            <li class="- topic/li ">拥有处理紧急突发事件的能力，根据此产品使用地区法律法规处理相关事件； </li>
+            <li class="- topic/li ">熟练掌握本手册条款内容，拥有专业的职业技能及高度的责任心。 </li>
+        </ol>
+        <p class="- topic/p ">手册包含了重要信息，在对系统进行操作和维护前请仔细阅读手册。请将本手册以及产品组件中的其他资料放置在一起，确保操作者和维护人员能及时查阅。</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="_1005" oid="_1005" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">联系我们</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">官网：<xref class="- topic/xref " format="html" href="https://www.baidu.com/" scope="external"/></p>
+        <p class="- topic/p ">邮箱：</p>
+        <p class="- topic/p ">电话：</p>
+        <p class="- topic/p ">手机号码： </p>
+        <p class="- topic/p ">地址：昆山市</p>
+    </conbody>
+</concept></concept></map>

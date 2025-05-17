@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1057">
+    <title>维护注意事项</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>相关人员在对系统进行维护检修作业前，必须需先断开高压配电箱面板上的隔离开关，确保隔离开关处于OFF状态检，消防处于手动状态，待维护检修作业完成后，需确保隔离开关处于ON状态，消防处于自动状态。</p>
+    </conbody>
+</concept>

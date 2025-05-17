@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Betty_VMware\Documents\GitHub\Tenical-documentation-study\ditamaps\temp\pdf-css-html5\oxygen_dita_temp\topics?><?workdir-uri file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/temp/pdf-css-html5/oxygen_dita_temp/topics/?><?path2project ..\pdf-css-html5\?><?path2project-uri ../pdf-css-html5/?><?path2rootmap-uri ../ditamaps/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="_1069" ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="reference:1;3:23" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="title:1;4:12">制冷系统故障</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="shortdesc:1;5:16"/>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="refbody:1;6:14">
+        <table frame="all" rowsep="1" colsep="1" id="table_ehr_wfy_5cc" class="- topic/table " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="table:1;7:73">
+            <tgroup cols="3" class="- topic/tgroup " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="tgroup:1;8:30">
+                <colspec colname="col1" colnum="1" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="colspec:1;9:65"/>
+                <colspec colname="col2" colnum="2" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="colspec:2;10:65"/>
+                <colspec colname="col3" colnum="3" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="colspec:3;11:65"/>
+                <thead class="- topic/thead " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="thead:1;12:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:1;13:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:1;14:32" colname="col1" dita-ot:x="1" dita-ot:y="1">故障现象</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:2;15:32" colname="col2" dita-ot:x="2" dita-ot:y="1">可能原因</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:3;16:32" colname="col3" dita-ot:x="3" dita-ot:y="1">检查和维修</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="tbody:1;19:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:2;20:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:4;21:32" colname="col1" dita-ot:x="1" dita-ot:y="2">压缩机不启动</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:5;22:32" colname="col2" dita-ot:x="2" dita-ot:y="2">
+                            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="p:1;23:32">未开电源（待机） </p>
+                            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="p:2;24:32">电路连接松动 </p>
+                            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="p:3;25:32">压缩机电机烧坏 </p>
+                        </entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:6;27:32" colname="col3" dita-ot:x="3" dita-ot:y="2">
+                            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="p:4;28:32">检查主电源开关，并检查操作显示界面，是否已经开机。 </p>
+                            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="p:5;29:32">紧固电路接头。</p>
+                            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="p:6;30:32"> 检查电机，如发现缺陷，立即更换。 </p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:3;33:26">
+                        <entry morerows="3" class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:7;34:45" colname="col1" dita-ot:x="1" dita-ot:y="3">压缩机不工作</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:8;35:32" colname="col2" dita-ot:x="2" dita-ot:y="3">无冷却要求</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:9;36:32" colname="col3" dita-ot:x="3" dita-ot:y="3">检查柜内温度显示及操作界面中压缩机的输出状态。</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:4;38:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:10;39:32" colname="col2" dita-ot:x="2" dita-ot:y="4">停机延时</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:11;40:32" colname="col3" dita-ot:x="3" dita-ot:y="4">压缩机在正常状态下具有最短停机时间，如果温度在此期间内温度重新升高到开启点，压缩机仍然会延时开启。</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:5;42:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:12;43:32" colname="col2" dita-ot:x="2" dita-ot:y="5">压缩机内置温度保护</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:13;44:32" colname="col3" dita-ot:x="3" dita-ot:y="5">检查继电器触点是否有220 V交流电。</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:6;46:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:14;47:32" colname="col2" dita-ot:x="2" dita-ot:y="6">高压开关断开</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:15;48:32" colname="col3" dita-ot:x="3" dita-ot:y="6">参考排气压力过高。</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:7;50:26">
+                        <entry morerows="1" class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:16;51:45" colname="col1" dita-ot:x="1" dita-ot:y="7">排气压力高</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:17;52:32" colname="col2" dita-ot:x="2" dita-ot:y="7">冷凝器脏堵</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:18;53:32" colname="col3" dita-ot:x="3" dita-ot:y="7">清洁冷凝器。</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:8;55:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:19;56:32" colname="col2" dita-ot:x="2" dita-ot:y="8">冷凝器风扇不运转</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:20;57:32" colname="col3" dita-ot:x="3" dita-ot:y="8">检查风扇故障操作步骤。</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:9;59:26">
+                        <entry morerows="3" class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:21;60:45" colname="col1" dita-ot:x="1" dita-ot:y="9">压缩机噪音过大</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:22;61:32" colname="col2" dita-ot:x="2" dita-ot:y="9">因制冷剂回涌在压缩机</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:23;62:32" colname="col3" dita-ot:x="3" dita-ot:y="9">检查吸气过热。</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:10;64:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:24;65:32" colname="col2" dita-ot:x="2" dita-ot:y="10">因润滑油损失导致轴承磨损</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:25;66:32" colname="col3" dita-ot:x="3" dita-ot:y="10">更换压缩机。</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:11;68:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:26;69:32" colname="col2" dita-ot:x="2" dita-ot:y="11">压缩机或管道支撑松动</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:27;70:32" colname="col3" dita-ot:x="3" dita-ot:y="11">紧固固定夹。</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:12;72:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:28;73:32" colname="col2" dita-ot:x="2" dita-ot:y="12">连接杆，阀门或其它转动齿轮断裂</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:29;74:32" colname="col3" dita-ot:x="3" dita-ot:y="12">更换压缩机。</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:13;76:26">
+                        <entry morerows="1" class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:30;77:45" colname="col1" dita-ot:x="1" dita-ot:y="13">压缩机间歇地循环运转</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:31;78:32" colname="col2" dita-ot:x="2" dita-ot:y="13">传感器故障</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:32;79:32" colname="col3" dita-ot:x="3" dita-ot:y="13">检查显示是否有传感器故障报警。</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:14;81:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:33;82:32" colname="col2" dita-ot:x="2" dita-ot:y="14">系统内制冷剂不足</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:34;83:32" colname="col3" dita-ot:x="3" dita-ot:y="14">检查是否有泄漏，修理泄漏处或添加制冷剂。</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="row:15;85:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:35;86:32" colname="col1" dita-ot:x="1" dita-ot:y="15">压缩机保护器跳停或循环工作</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:36;87:32" colname="col2" dita-ot:x="2" dita-ot:y="15">排气压力过高</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1069.xml" xtrc="entry:37;88:32" colname="col3" dita-ot:x="3" dita-ot:y="15">检查冷凝器滤网脏堵情况及冷凝器风扇或风扇电机有无被堵塞。</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
