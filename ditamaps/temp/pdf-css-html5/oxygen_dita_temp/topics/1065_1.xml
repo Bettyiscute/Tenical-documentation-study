@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Betty_VMware\Documents\GitHub\Tenical-documentation-study\ditamaps\temp\pdf-css-html5\oxygen_dita_temp\topics?><?workdir-uri file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/temp/pdf-css-html5/oxygen_dita_temp/topics/?><?path2project ..\pdf-css-html5\?><?path2project-uri ../pdf-css-html5/?><?path2rootmap-uri ../ditamaps/?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="Untitled" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="task:1;3:21" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="title:1;4:12">残留物的清除</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="shortdesc:1;5:16"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="p:1;8:16">当固体气溶胶发生剂被激活后，请遵守以下原则清除残留物：</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="cmd:1;12:22">1. 释放后尽快清理残留物（最多几个小时内）。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="cmd:2;15:22">2. 用湿布或刷子擦掉地板和金属表面的干燥残留物。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="step:3;17:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="cmd:3;18:22">3. 用风扇/风机除掉电气元件上的残留物。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="step:4;20:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="cmd:4;21:22">4. 用专用喷雾剂清洗电子元件上残留物。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="step:5;23:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="cmd:5;24:22">5. 火情发生后，应在热气溶胶颗粒吸收水分与大气中的燃烧残渣混合前清理掉颗粒，否则混合物会与电子元件、金属等发生反应，或对其造成影响。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="step:6;26:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="cmd:6;27:22">6. 如果热气溶胶颗粒（灰尘）停留的时间较长，便会吸收水分。水分会与金属（特别是未涂层的金属）发生反应，导致金属被氧化。</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1065_1.xml" xtrc="info:1;28:23">固体气溶胶发生剂被激活后，转化为迅速膨胀的气溶胶，气溶胶由悬浮在气相中的固体颗粒形成，这种颗粒的大小为几微米。
+                    热气溶胶的成分是钾化合物，无腐蚀性，不导电，不会对敏感的受保护设备造成任何损害，也不会对电子元件、金属上发生反应。
+                    固体气溶胶发生剂SFE不含任何与火焰发生反应的卤素化合物；因此，热气溶胶在与火焰反应时不会产生腐蚀性的卤素酸副产物。
+                    悬浮在气溶胶相中的热气溶胶固体颗粒的浓度为每立方米几毫克。这些颗粒处于无水相中，一段时间后会以细小的粉尘形式沉积在防护区域的底部。粉尘在吸湿之前，很容易被清洗去除。
+                    灭火后，热气溶胶副产物主要由无水相中浓度很低的KOH（在K2CO3中迅速转化）组成的，副产品为热气溶胶颗粒状态。 </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

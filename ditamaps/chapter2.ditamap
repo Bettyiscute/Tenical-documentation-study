@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>安全说明</title>
+    <topicref href="../topics/1006.xml">
+        <topicref href="../topics/1007.xml"/>
+        <topicref href="../topics/1008.xml"/>
+        <topicref href="../topics/1009.xml"/>
+        <topicref href="../topics/1010.xml"/>
+        <topicref href="../topics/1011.xml"/>
+    </topicref>
+</map>

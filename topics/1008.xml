@@ -2,6 +2,42 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="_1008">
     <title>危险警告标识</title>
-    <shortdesc></shortdesc>
-    <refbody> </refbody>
+    <shortdesc>为了保障用户在使用本产品时的人身及财产安全，提高用户对此产品的效率，本手册中详述了相关信息，并添加相关符号以加强解释说明。 本文可能出现下列标识，所代表的含义如下： </shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_mcj_lln_tbc">
+            <title/>
+            <tgroup cols="2" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>符号</entry>
+                        <entry>说明</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><image href="../images/symbol%201.png" id="image_zsz_qln_tbc"
+                            /></entry>
+                        <entry>在本手册中，使用该一般危险标志来识别重要安全信息。</entry>
+                    </row>
+                    <row>
+                        <entry><image href="../images/symbol%202.png" id="image_oyn_rln_tbc"
+                            /></entry>
+                        <entry>此标识意思为产品内部含有高压危险，触摸可能会导致电击危险。</entry>
+                    </row>
+                    <row>
+                        <entry><image href="../images/symbol%203.png" id="image_d1y_rln_tbc"
+                            /></entry>
+                        <entry>此标识意思为产品此处为保护接地（PE），需要连接接地线，要求链接牢固可靠，以保证操作人员安全。</entry>
+                    </row>
+                    <row>
+                        <entry><image href="../images/symbol%204.png" id="image_df4_sln_tbc"
+                            /></entry>
+                        <entry>此标识意思为非专业人士禁止操作，否则可能会导致人身伤害。</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
 </reference>

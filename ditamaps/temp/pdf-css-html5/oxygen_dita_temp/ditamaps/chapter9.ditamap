@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Betty_VMware\Documents\GitHub\Tenical-documentation-study\ditamaps\temp\pdf-css-html5\oxygen_dita_temp\ditamaps?><?workdir-uri file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/temp/pdf-css-html5/oxygen_dita_temp/ditamaps/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/chapter9.ditamap">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/chapter9.ditamap">常见异常问题诊断</title>
+    <topicref class="- map/topicref " href="../topics/1067.xml" xtrc="topicref:1;5:41" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/chapter9.ditamap">
+        <topicref class="- map/topicref " href="../topics/1068.xml" xtrc="topicref:2;6:45" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/chapter9.ditamap">
+            <topicref class="- map/topicref " href="../topics/1069.xml" xtrc="topicref:3;7:50" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/chapter9.ditamap"/>
+            <topicref class="- map/topicref " href="../topics/1070.xml" xtrc="topicref:4;8:50" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/chapter9.ditamap"/>
+        </topicref>
+        <topicref class="- map/topicref " href="../topics/1071.xml" xtrc="topicref:5;10:46" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/chapter9.ditamap"/>
+        <topicref class="- map/topicref " href="../topics/1072.xml" xtrc="topicref:6;11:45" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/chapter9.ditamap">
+            <topicref class="- map/topicref " href="../topics/1073.xml" xtrc="topicref:7;12:50" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/chapter9.ditamap"/>
+            <topicref class="- map/topicref " href="../topics/1074.xml" xtrc="topicref:8;13:50" xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/chapter9.ditamap"/>
+        </topicref>
+    </topicref>
+</map>

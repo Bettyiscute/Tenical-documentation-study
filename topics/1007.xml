@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="_1007">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1007">
     <title>符号说明</title>
-    <shortdesc></shortdesc>
-    <refbody> </refbody>
-</reference>
+    <shortdesc>在本手册中，使用下列警示词和符号来识别安全信息：</shortdesc>
+    <conbody>
+        <simpletable conref="../reuse/common_warning.dita#common_warnings/warning_type" frame="all"
+            relcolwidth="1* 1*" id="simpletable_ndr_4s3_5b1c">
+            <strow/>
+        </simpletable>
+        <note conref="../reuse/common_warning.dita#common_warnings/tip_type" id="note_bsx_nmn_tbc" type="tip"/>
+    </conbody>
+</concept>

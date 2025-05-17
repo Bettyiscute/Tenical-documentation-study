@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Betty_VMware\Documents\GitHub\Tenical-documentation-study\ditamaps\temp\pdf-css-html5\topics?><?workdir-uri file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/ditamaps/temp/pdf-css-html5/topics/?><?path2project ..\pdf-css-html5\?><?path2project-uri ../pdf-css-html5/?><?path2rootmap-uri ../ditamaps/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="开机与关机" ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="reference:1;3:23" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="title:1;4:12">开机与关机</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="shortdesc:1;5:16"/>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="refbody:1;6:14">
+        <table frame="all" rowsep="1" colsep="1" id="table_igc_dlj_5bc" class="- topic/table " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="table:1;7:73">
+            <tgroup cols="2" class="- topic/tgroup " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="tgroup:1;8:30">
+                <colspec colname="col1" colnum="1" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="colspec:1;9:65"/>
+                <colspec colname="col2" colnum="2" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="colspec:2;10:65"/>
+                <thead class="- topic/thead " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="thead:1;11:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="row:1;12:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="entry:1;13:32" colname="col1" dita-ot:x="1" dita-ot:y="1">名称</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="entry:2;14:32" colname="col2" dita-ot:x="2" dita-ot:y="1">功能</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="tbody:1;17:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="row:2;18:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="entry:3;19:32" colname="col1" dita-ot:x="1" dita-ot:y="2">开机</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="entry:4;20:32" colname="col2" dita-ot:x="2" dita-ot:y="2">开机步骤：<ol id="ol_c1d_flj_5bc" class="- topic/ol " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="ol:1;20:61">
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="li:1;21:37">请检查UPS输入插头与市电插座零/火/地接线序是否正确；</li>
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="li:2;22:37"> 将UPS输入插头与市电插座连接； </li>
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="li:3;23:37">持续按下板键3秒，直至哔声后放开； </li>
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="li:4;24:37">UPS开始自检，待INVERTER灯亮起，UPS进入在线供电模式 </li>
+                            </ol></entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="row:3;27:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="entry:5;28:32" colname="col1" dita-ot:x="1" dita-ot:y="3">关机</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="entry:6;29:32" colname="col2" dita-ot:x="2" dita-ot:y="3">关机步骤： <ol id="ol_ffq_hlj_5bc" class="- topic/ol " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="ol:2;29:62">
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="li:5;30:37">确认UPS负载已经全部关闭； </li>
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="li:6;31:37">秩序按下<image href="../images/off.png" id="image_rpd_4lj_5bc" placement="inline" class="- topic/image " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="image:1;32:39"/>面板键3秒，直至哔声放开；</li>
+                                <li class="- topic/li " xtrf="file:/C:/Users/Betty_VMware/Documents/GitHub/Tenical-documentation-study/topics/1051.xml" xtrc="li:7;33:37"> 拔掉UPS与市电连线。 </li>
+                            </ol></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

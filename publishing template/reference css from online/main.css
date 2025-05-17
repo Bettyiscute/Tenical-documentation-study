@@ -1,0 +1,11 @@
+@import url("front-page.css");
+@import url("headers-footers.css");
+
+/*@page {
+    size: A4;
+    margin: 2cm;
+}*/
+
+/**[class ~= "map/map"] {
+    -oxy-pdf-meta-custom: "Bibliography " oxy_xpath("string-join(//*[contains(@class, 'topic/data')][@name='source']/@value, ', ')");
+}*/

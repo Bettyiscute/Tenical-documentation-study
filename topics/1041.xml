@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="_1041">
+    <title>储能系统对外接口</title>
+    <shortdesc>储能系统对外的接口包含了对外通讯接口以及交流输出线缆接口，具体接线端口说明如下表所示：</shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_ulj_2bj_5bc">
+            <tgroup cols="5">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>序号</entry>
+                        <entry>描述</entry>
+                        <entry>推荐型号</entry>
+                        <entry>数量</entry>
+                        <entry>备注</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>1</entry>
+                        <entry>对外通讯接口</entry>
+                        <entry>超六类网线</entry>
+                        <entry>若干</entry>
+                        <entry>以客户接线距离为依据</entry>
+                    </row>
+                    <row>
+                        <entry>2</entry>
+                        <entry>交流输出线缆</entry>
+                        <entry>铜线缆（4*25mm2 0.69-1KV）</entry>
+                        <entry>1套</entry>
+                        <entry>50kW推荐值</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

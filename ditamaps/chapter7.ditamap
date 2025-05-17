@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>产品操作</title>
+    <topicref href="../topics/1045.xml">
+        <topicref href="../topics/1046.xml"/>
+        <topicref href="../topics/1047.xml"/>
+        <topicref href="../topics/1048.xml"/>
+        <topicref href="../topics/1049.xml">
+            <topicref href="../topics/1050.xml"/>
+            <topicref href="../topics/1051.xml"/>
+        </topicref>
+    </topicref>
+</map>

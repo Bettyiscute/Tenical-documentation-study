@@ -41,8 +41,6 @@
             <li>每3个月对电池进行一次放电补电，确保电池SOC一直保持在20～50% SOC范围内；</li>
             <li> 每12个月需要进行容量核对性试验和重新检验。 </li>
         </ol>
-        <note id="note_arx_wh2_qbc" type="warning"/>
-        <p>系统损坏风险！ </p>
-        <p>在储能系统的储存过程中，对于因用户不遵守本手册规定的存储方法和要求而造成系统的损坏，首帆动力科技股份有限公司不承担任何责任。</p>
+        <note conref="../reuse/common_warning.dita#common_warnings/warning_storage" id="note_arx_wh2_qbc" type="warning"/>
     </conbody>
 </concept>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_1037">
+    <title>储能系统箱体固定连接</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>使用吊车（推荐吊装能力8吨-12吨）或叉车（推荐叉举能力8吨以上）缓慢地将储能系统整体吊装（或叉举）至预制好的基础上，具体作业方式参考<xref
+                        href="1018.xml"/>或<xref href="1025.xml"/>； </cmd>
+            </step>
+            <step>
+                <cmd>储能系统吊装完成后，根据项目要求固定储能系统； </cmd>
+            </step>
+            <step>
+                <cmd> 焊接完成后对焊缝进行防腐处理。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

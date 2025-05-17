@@ -4,6 +4,8 @@
     <title>吊装注意事项</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p></p>
+        <p>
+            <note conref="../reuse/common_warning.dita#common_warnings/danger_lifting" id="note_xvh_jhn_tbc" type="danger"/>
+        </p>
     </conbody>
 </concept>

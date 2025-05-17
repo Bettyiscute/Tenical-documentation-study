@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="_1076">
+    <title>缩略语释义</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_egz_2hf_vcc">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>缩略语</entry>
+                        <entry>说明</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>PACK</entry>
+                        <entry>电池模块</entry>
+                    </row>
+                    <row>
+                        <entry>SCU</entry>
+                        <entry>电池管理系统总控制器</entry>
+                    </row>
+                    <row>
+                        <entry>PCS</entry>
+                        <entry>储能变流器</entry>
+                    </row>
+                    <row>
+                        <entry>UPS</entry>
+                        <entry>不间断电源</entry>
+                    </row>
+                    <row>
+                        <entry>EMS</entry>
+                        <entry>能量管理系统</entry>
+                    </row>
+                    <row>
+                        <entry>SOC</entry>
+                        <entry>荷电状态</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
